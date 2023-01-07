@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bambi insane idle"
+		},
+		{
+			"offsets": [
+				790,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambi insane left"
+		},
+		{
+			"offsets": [
+				-660,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambi insane down"
+		},
+		{
+			"offsets": [
+				-610,
+				590
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambi insane up"
+		},
+		{
+			"offsets": [
+				-690,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambi insane right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/insane bambi",
+	"position": [
+		-580,
+		0
+	],
+	"healthicon": "bambi-insane",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		181,
+		0
+	],
+	"camera_position": [
+		610,
+		0
+	],
+	"sing_duration": 2.00000000000001,
+	"scale": 1
+}

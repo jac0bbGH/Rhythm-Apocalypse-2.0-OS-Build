@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-70,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-90,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-5,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-50,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-57,
+				2
+			],
+			"loop": false,
+			"fps": 72,
+			"anim": "break",
+			"indices": [],
+			"name": "break"
+		},
+		{
+			"offsets": [
+				-56,
+				3
+			],
+			"loop": false,
+			"fps": 72,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "break"
+		},
+		{
+			"offsets": [
+				-59,
+				5
+			],
+			"loop": false,
+			"fps": 72,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "break"
+		},
+		{
+			"offsets": [
+				-55,
+				3
+			],
+			"loop": false,
+			"fps": 72,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "break"
+		},
+		{
+			"offsets": [
+				-60,
+				1
+			],
+			"loop": false,
+			"fps": 72,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "break"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi",
+	"position": [
+		70,
+		340
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		0
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 0.9
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				2
+			],
+			"anim": "break",
+			"fps": 72,
+			"name": "break",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 72,
+			"name": "break",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				1
+			],
+			"anim": "singUP-alt",
+			"fps": 72,
+			"name": "break",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				2
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 72,
+			"name": "break",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-61,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "angry idle"
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "angry left"
+		},
+		{
+			"offsets": [
+				-50,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "angry down"
+		},
+		{
+			"offsets": [
+				-70,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "angry up"
+		},
+		{
+			"offsets": [
+				-113,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "angry right"
+		},
+		{
+			"offsets": [
+				-64,
+				-1
+			],
+			"indices": [],
+			"fps": 72,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "anger break"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pissedoff",
+	"position": [
+		70,
+		370
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		0
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 0.9
+}

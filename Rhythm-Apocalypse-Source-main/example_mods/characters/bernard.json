@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-452,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-172,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-298,
+				-219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-279,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-463,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-442,
+				-198
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "look",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bernard",
+	"position": [
+		-460,
+		-150
+	],
+	"healthicon": "bernard",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		222,
+		104
+	],
+	"camera_position": [
+		300,
+		180
+	],
+	"sing_duration": 5.8,
+	"scale": 1
+}

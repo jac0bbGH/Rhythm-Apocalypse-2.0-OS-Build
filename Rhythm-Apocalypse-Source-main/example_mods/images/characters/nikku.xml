@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nikku.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownNikku0000" x="0" y="0" width="809" height="780" frameX="-125" frameY="-200" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0001" x="0" y="0" width="809" height="780" frameX="-125" frameY="-200" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0002" x="909" y="0" width="778" height="806" frameX="-133" frameY="-167" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0003" x="909" y="0" width="778" height="806" frameX="-133" frameY="-167" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0004" x="1787" y="0" width="653" height="899" frameX="-167" frameY="-45" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0005" x="1787" y="0" width="653" height="899" frameX="-167" frameY="-45" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0006" x="1787" y="0" width="653" height="899" frameX="-167" frameY="-45" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0007" x="1787" y="0" width="653" height="899" frameX="-167" frameY="-45" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0008" x="1787" y="0" width="653" height="899" frameX="-167" frameY="-45" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="DownNikku0009" x="2540" y="0" width="769" height="872" frameX="0" frameY="0" frameWidth="934" frameHeight="980"/>
+	<SubTexture name="IdleNikku0000" x="3409" y="0" width="580" height="848" frameX="0" frameY="-43" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0001" x="3409" y="0" width="580" height="848" frameX="0" frameY="-43" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0002" x="4089" y="0" width="548" height="850" frameX="-3" frameY="-29" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0003" x="4089" y="0" width="548" height="850" frameX="-3" frameY="-29" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0004" x="4737" y="0" width="505" height="842" frameX="-27" frameY="-13" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0005" x="4737" y="0" width="505" height="842" frameX="-27" frameY="-13" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0006" x="5342" y="0" width="453" height="829" frameX="-59" frameY="-1" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0007" x="5342" y="0" width="453" height="829" frameX="-59" frameY="-1" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0008" x="5895" y="0" width="445" height="826" frameX="-64" frameY="0" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0009" x="5895" y="0" width="445" height="826" frameX="-64" frameY="0" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0010" x="5895" y="0" width="445" height="826" frameX="-64" frameY="0" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0011" x="5895" y="0" width="445" height="826" frameX="-64" frameY="0" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0012" x="5895" y="0" width="445" height="826" frameX="-64" frameY="0" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="IdleNikku0013" x="6440" y="0" width="448" height="826" frameX="-63" frameY="0" frameWidth="580" frameHeight="891"/>
+	<SubTexture name="LeftNikku0000" x="6988" y="0" width="877" height="956" frameX="0" frameY="-32" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0001" x="6988" y="0" width="877" height="956" frameX="0" frameY="-32" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0002" x="0" y="1056" width="869" height="938" frameX="-21" frameY="-38" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0003" x="0" y="1056" width="869" height="938" frameX="-21" frameY="-38" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0004" x="969" y="1056" width="837" height="881" frameX="-98" frameY="-45" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0005" x="969" y="1056" width="837" height="881" frameX="-98" frameY="-45" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0006" x="969" y="1056" width="837" height="881" frameX="-98" frameY="-45" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0007" x="969" y="1056" width="837" height="881" frameX="-98" frameY="-45" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0008" x="969" y="1056" width="837" height="881" frameX="-98" frameY="-45" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="LeftNikku0009" x="1906" y="1056" width="860" height="904" frameX="-208" frameY="0" frameWidth="1068" frameHeight="988"/>
+	<SubTexture name="RightNikku0000" x="2866" y="1056" width="989" height="910" frameX="-286" frameY="0" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0001" x="2866" y="1056" width="989" height="910" frameX="-286" frameY="0" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0002" x="3955" y="1056" width="993" height="906" frameX="-257" frameY="-28" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0003" x="3955" y="1056" width="993" height="906" frameX="-257" frameY="-28" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0004" x="5048" y="1056" width="1004" height="786" frameX="-144" frameY="-127" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0005" x="5048" y="1056" width="1004" height="786" frameX="-144" frameY="-127" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0006" x="5048" y="1056" width="1004" height="786" frameX="-144" frameY="-127" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0007" x="5048" y="1056" width="1004" height="786" frameX="-144" frameY="-127" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0008" x="5048" y="1056" width="1004" height="786" frameX="-144" frameY="-127" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="RightNikku0009" x="6152" y="1056" width="934" height="771" frameX="0" frameY="-71" frameWidth="1275" frameHeight="934"/>
+	<SubTexture name="UpNikku0000" x="7186" y="1056" width="690" height="1011" frameX="-69" frameY="0" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0001" x="7186" y="1056" width="690" height="1011" frameX="-69" frameY="0" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0002" x="0" y="2167" width="718" height="1000" frameX="-58" frameY="-19" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0003" x="0" y="2167" width="718" height="1000" frameX="-58" frameY="-19" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0004" x="818" y="2167" width="808" height="945" frameX="-23" frameY="-93" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0005" x="818" y="2167" width="808" height="945" frameX="-23" frameY="-93" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0006" x="818" y="2167" width="808" height="945" frameX="-23" frameY="-93" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0007" x="818" y="2167" width="808" height="945" frameX="-23" frameY="-93" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0008" x="818" y="2167" width="808" height="945" frameX="-23" frameY="-93" frameWidth="891" frameHeight="1059"/>
+	<SubTexture name="UpNikku0009" x="1726" y="2167" width="891" height="872" frameX="0" frameY="-187" frameWidth="891" frameHeight="1059"/>
+</TextureAtlas>

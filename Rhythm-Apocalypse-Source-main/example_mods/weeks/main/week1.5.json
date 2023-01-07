@@ -1,0 +1,41 @@
+{
+	"storyName": "Dave's house!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Tristan",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Interstellar",
+			"tristan",
+			[
+				255,
+				65,
+				73
+			]
+		],
+		[
+			"Lunar",
+			"tristan",
+			[
+				255,
+				65,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "TristanWeekRA"
+}

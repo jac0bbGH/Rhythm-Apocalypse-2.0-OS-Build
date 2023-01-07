@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-70,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "a_bambi idle"
+		},
+		{
+			"offsets": [
+				-166,
+				-86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "a_bambi left"
+		},
+		{
+			"offsets": [
+				-72,
+				-87
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "a_bambi down"
+		},
+		{
+			"offsets": [
+				-120,
+				-54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "a_bambi up"
+		},
+		{
+			"offsets": [
+				-18,
+				-78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "a_bambi right"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "a_bambi phone"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "a_bambi phone"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "a_bambi phone"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "a_bambi phone"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PENIS MONKEY AH",
+	"position": [
+		70,
+		280
+	],
+	"healthicon": "madbambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		184,
+		63
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 5.1,
+	"scale": 0.9
+}

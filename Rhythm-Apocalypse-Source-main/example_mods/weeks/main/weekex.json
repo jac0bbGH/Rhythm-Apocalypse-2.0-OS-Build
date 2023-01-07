@@ -1,0 +1,49 @@
+{
+	"storyName": "THE ONE WHO SHALL NOT BE NAMED",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "expung",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Malicious",
+			"cheating",
+			[
+				26,
+				193,
+				15
+			]
+		],
+		[
+			"Debugged",
+			"unfair",
+			[
+				255,
+				13,
+				75
+			]
+		],
+		[
+			"Utilization",
+			"expungedreal",
+			[
+				175,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "ExpungedWeekRA"
+}

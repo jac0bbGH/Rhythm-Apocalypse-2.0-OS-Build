@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				38400,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"daveinsane"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dave"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"1"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dave"
+					]
+				]
+			]
+		]
+	}
+}

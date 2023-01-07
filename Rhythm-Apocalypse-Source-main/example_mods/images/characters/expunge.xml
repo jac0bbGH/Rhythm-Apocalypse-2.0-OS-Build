@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="expunge.png">
+<SubTexture name="expunge idle0000" x="0" y="0" width="599" height="900" frameX="-200" frameY="0" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge idle0001" x="3653" y="2509" width="599" height="793" frameX="-200" frameY="-107" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge idle0002" x="599" y="0" width="593" height="900" frameX="-191" frameY="0" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge idle0003" x="1192" y="0" width="574" height="900" frameX="-185" frameY="0" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge idle0004" x="1766" y="0" width="557" height="900" frameX="-151" frameY="0" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge idle0005" x="0" y="900" width="552" height="900" frameX="-109" frameY="0" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge idle0006" x="2323" y="856" width="552" height="851" frameX="-108" frameY="-49" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge left0000" x="0" y="3502" width="800" height="816" frameX="0" frameY="-55" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge left0001" x="3653" y="1677" width="659" height="832" frameX="-5" frameY="-56" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge left0002" x="2664" y="2655" width="660" height="842" frameX="-24" frameY="-53" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge left0003" x="2994" y="0" width="659" height="847" frameX="-35" frameY="-53" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge left0004" x="706" y="2655" width="654" height="846" frameX="-42" frameY="-54" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge left0005" x="1360" y="2655" width="652" height="846" frameX="-44" frameY="-54" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge left0006" x="2012" y="2655" width="652" height="846" frameX="-45" frameY="-54" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge down0000" x="0" y="4318" width="800" height="647" frameX="0" frameY="-151" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge down0001" x="800" y="4318" width="691" height="646" frameX="-106" frameY="-106" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge down0002" x="4381" y="0" width="680" height="672" frameX="-113" frameY="-101" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge down0003" x="3579" y="3502" width="663" height="703" frameX="-121" frameY="-74" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge down0004" x="2259" y="3502" width="660" height="704" frameX="-121" frameY="-70" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge down0005" x="1600" y="3502" width="659" height="705" frameX="-119" frameY="-68" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge down0006" x="2919" y="3502" width="660" height="704" frameX="-117" frameY="-67" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge up0000" x="3653" y="840" width="554" height="837" frameX="-129" frameY="0" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge up0001" x="678" y="1800" width="556" height="850" frameX="-128" frameY="-13" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge up0002" x="1234" y="1800" width="556" height="848" frameX="-128" frameY="-21" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge up0003" x="1790" y="1800" width="557" height="848" frameX="-129" frameY="-34" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge up0004" x="2347" y="1800" width="557" height="848" frameX="-129" frameY="-36" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge up0005" x="2994" y="847" width="557" height="847" frameX="-129" frameY="-39" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge up0006" x="2994" y="1694" width="557" height="847" frameX="-129" frameY="-40" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge right0000" x="800" y="3502" width="800" height="815" frameX="0" frameY="-77" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge right0001" x="3653" y="0" width="728" height="840" frameX="-71" frameY="-60" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge right0002" x="0" y="2655" width="706" height="847" frameX="-84" frameY="-53" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge right0003" x="0" y="1800" width="678" height="855" frameX="-101" frameY="-45" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge right0004" x="552" y="900" width="679" height="857" frameX="-96" frameY="-43" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge right0005" x="1231" y="900" width="671" height="856" frameX="-93" frameY="-44" frameWidth="800" frameHeight="900" />
+<SubTexture name="expunge right0006" x="2323" y="0" width="671" height="856" frameX="-92" frameY="-44" frameWidth="800" frameHeight="900" />
+</TextureAtlas>

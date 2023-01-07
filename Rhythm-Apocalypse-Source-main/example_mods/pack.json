@@ -1,0 +1,7 @@
+{
+	"name": "dave & bambi rhythm apocalypse",
+	"description": "you should probably play the compiled version",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [0, 4, 255]
+}

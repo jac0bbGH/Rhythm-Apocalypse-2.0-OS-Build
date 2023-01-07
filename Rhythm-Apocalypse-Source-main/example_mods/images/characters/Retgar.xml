@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Retgar.png"><SubTexture name="Retgar Down0000" x="0" y="0" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Down0001" x="419" y="0" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Down0002" x="838" y="0" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0000" x="1257" y="0" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0001" x="0" y="464" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0002" x="419" y="464" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0003" x="838" y="464" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0004" x="1257" y="464" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0005" x="0" y="928" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0006" x="419" y="928" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0007" x="838" y="928" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0008" x="1257" y="928" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Idle0009" x="0" y="1392" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Left0000" x="419" y="1392" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Left0001" x="838" y="1392" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Left0002" x="1257" y="1392" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Right0000" x="0" y="1856" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Right0001" x="419" y="1856" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Right0002" x="838" y="1856" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Up0000" x="1257" y="1856" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Up0001" x="0" y="2320" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+<SubTexture name="Retgar Up0002" x="419" y="2320" width="419" height="464" frameX="0" frameY="0" frameWidth="419" frameHeight="464" />
+</TextureAtlas>

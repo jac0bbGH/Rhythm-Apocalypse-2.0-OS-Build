@@ -1,0 +1,156 @@
+{
+	"song": {
+		"events": [
+			[
+				1295.45454545455,
+				[
+					[
+						"SC Lyric Event",
+						"Fucking idiot.",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				6545.45454545455,
+				[
+					[
+						"SC Lyric Event",
+						"Oh no, that's not",
+						"1"
+					]
+				]
+			],
+			[
+				9068.18181818182,
+				[
+					[
+						"SC Lyric Event",
+						"Shut the fuck up!",
+						"2"
+					]
+				]
+			],
+			[
+				10909.0909090909,
+				[
+					[
+						"SC Lyric Event",
+						"I gonna break my phone!",
+						"2"
+					]
+				]
+			],
+			[
+				16909.0909090909,
+				[
+					[
+						"SC Lyric Event",
+						"Because I wanna smash my fucking phone.",
+						"2"
+					]
+				]
+			],
+			[
+				19090.9090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						"0.6"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				72204.5454545454,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					],
+					[
+						"SC Lyric Event",
+						"Fucking idiot.",
+						"1"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				73431.8181818181,
+				[
+					[
+						"SC Lyric Event",
+						"I'm about to break my phone!",
+						"3"
+					]
+				]
+			],
+			[
+				77522.7272727272,
+				[
+					[
+						"SC Lyric Event",
+						"Do you want fucking phone?",
+						"2"
+					]
+				]
+			],
+			[
+				80249.9999999999,
+				[
+					[
+						"SC Lyric Event",
+						"Holy shit!",
+						"1"
+					]
+				]
+			],
+			[
+				82909.0909090908,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						"0.6"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}

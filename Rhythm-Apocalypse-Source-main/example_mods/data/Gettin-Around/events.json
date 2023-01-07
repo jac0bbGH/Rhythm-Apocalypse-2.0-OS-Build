@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				36375,
+				[
+					[
+						"SC Lyric Event",
+						"Boy what the fuck, are you doing?",
+						"1.5"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"SC Lyric Event",
+						"You know what will make my day, if you shut up and go away.",
+						"3"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"davedrip"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"SC Lyric Event",
+						"I don't have no time to play.",
+						"1.5"
+					]
+				]
+			],
+			[
+				43500,
+				[
+					[
+						"SC Lyric Event",
+						"The 3D World will be your dismay.",
+						"1.5"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daveinsane"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

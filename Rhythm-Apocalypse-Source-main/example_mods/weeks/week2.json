@@ -1,0 +1,59 @@
+{
+	"storyName": "Stepping on The Farmland Again",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bambi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Apocalyptic",
+			"bambi",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"Titanium",
+			"bambi",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"Corn-Chaos",
+			"madbambi",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"Fury",
+			"run",
+			[
+				246,
+				0,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "BambiWeekRA",
+	"hiddenUntilUnlocked": false
+}

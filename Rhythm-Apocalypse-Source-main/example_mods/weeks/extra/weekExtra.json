@@ -1,0 +1,68 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Vanilla",
+			"nebia",
+			[
+				0,
+				195,
+				155
+			]
+		],
+		[
+			"Three Sixty",
+			"bamn",
+			[
+				115,
+				33,
+				255
+			]
+		],
+		[
+			"Roleplay",
+			"bernard",
+			[
+				255,
+				235,
+				95
+			]
+		],
+		[
+			"Untitled-Dave-Song",
+			"UDS",
+			[
+				60,
+				155,
+				255
+			]
+		],
+		[
+			"Rhythm-024",
+			"nikku",
+			[
+				195,
+				0,
+				15
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

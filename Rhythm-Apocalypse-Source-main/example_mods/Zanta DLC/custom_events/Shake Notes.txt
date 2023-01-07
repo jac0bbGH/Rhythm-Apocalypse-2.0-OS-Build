@@ -1,0 +1,5 @@
+Shake Notes
+(Custom Event by Raltyro 7/3/2022)
+
+Value 1: Fade Time in Seconds
+Value 2: Shake Amount

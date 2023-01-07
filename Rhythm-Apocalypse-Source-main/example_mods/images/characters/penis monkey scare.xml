@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="penis monkey scare.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shredder down0000" x="0" y="0" width="403" height="287" frameX="0" frameY="-7" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0001" x="0" y="0" width="403" height="287" frameX="0" frameY="-7" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0002" x="503" y="0" width="402" height="292" frameX="-1" frameY="-2" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0003" x="503" y="0" width="402" height="292" frameX="-1" frameY="-2" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0004" x="1005" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0005" x="1005" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0006" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0007" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0008" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0009" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0010" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0011" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0012" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0013" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0014" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0015" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0016" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0017" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0018" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0019" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0020" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0021" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0022" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0023" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0024" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0025" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0026" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0027" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0028" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0029" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0030" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0031" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0032" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0033" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0034" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0035" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0036" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0037" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0038" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder down0039" x="1507" y="0" width="402" height="295" frameX="-1" frameY="0" frameWidth="403" frameHeight="295"/>
+	<SubTexture name="shredder idle0000" x="2009" y="0" width="398" height="321" frameX="0" frameY="-13" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0001" x="2009" y="0" width="398" height="321" frameX="0" frameY="-13" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0002" x="2507" y="0" width="397" height="329" frameX="-1" frameY="-6" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0003" x="2507" y="0" width="397" height="329" frameX="-1" frameY="-6" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0004" x="3004" y="0" width="396" height="334" frameX="-1" frameY="-2" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0005" x="3004" y="0" width="396" height="334" frameX="-1" frameY="-2" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0006" x="3500" y="0" width="396" height="335" frameX="-1" frameY="-1" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0007" x="3500" y="0" width="396" height="335" frameX="-1" frameY="-1" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0008" x="0" y="435" width="396" height="336" frameX="-1" frameY="0" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0009" x="0" y="435" width="396" height="336" frameX="-1" frameY="0" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0010" x="496" y="435" width="396" height="336" frameX="-1" frameY="0" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0011" x="496" y="435" width="396" height="336" frameX="-1" frameY="0" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0012" x="496" y="435" width="396" height="336" frameX="-1" frameY="0" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder idle0013" x="496" y="435" width="396" height="336" frameX="-1" frameY="0" frameWidth="398" frameHeight="336"/>
+	<SubTexture name="shredder left0000" x="992" y="435" width="355" height="337" frameX="0" frameY="-7" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0001" x="992" y="435" width="355" height="337" frameX="0" frameY="-7" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0002" x="1447" y="435" width="350" height="342" frameX="-10" frameY="-2" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0003" x="1447" y="435" width="350" height="342" frameX="-10" frameY="-2" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0004" x="1897" y="435" width="349" height="343" frameX="-13" frameY="-1" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0005" x="1897" y="435" width="349" height="343" frameX="-13" frameY="-1" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0006" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0007" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0008" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0009" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0010" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0011" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0012" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0013" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0014" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0015" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0016" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0017" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0018" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0019" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0020" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0021" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0022" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0023" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0024" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0025" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0026" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0027" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0028" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0029" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0030" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0031" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0032" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0033" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0034" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0035" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0036" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0037" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0038" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0039" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0040" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0041" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0042" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0043" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder left0044" x="2346" y="435" width="349" height="344" frameX="-15" frameY="0" frameWidth="364" frameHeight="344"/>
+	<SubTexture name="shredder right0000" x="2795" y="435" width="419" height="339" frameX="0" frameY="-14" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0001" x="2795" y="435" width="419" height="339" frameX="0" frameY="-14" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0002" x="3314" y="435" width="409" height="337" frameX="0" frameY="-2" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0003" x="3314" y="435" width="409" height="337" frameX="0" frameY="-2" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0004" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0005" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0006" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0007" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0008" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0009" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0010" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0011" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0012" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0013" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0014" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0015" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0016" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0017" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0018" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0019" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0020" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0021" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0022" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0023" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0024" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0025" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0026" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0027" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0028" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0029" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0030" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0031" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0032" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0033" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0034" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0035" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0036" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder right0037" x="0" y="879" width="409" height="339" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="shredder take out0000" x="509" y="879" width="333" height="340" frameX="-35" frameY="-18" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0001" x="942" y="879" width="331" height="340" frameX="-34" frameY="-19" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0002" x="1373" y="879" width="331" height="339" frameX="-34" frameY="-19" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0003" x="1804" y="879" width="293" height="333" frameX="-23" frameY="-25" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0004" x="2197" y="879" width="423" height="323" frameX="-6" frameY="-35" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0005" x="2720" y="879" width="423" height="342" frameX="-70" frameY="-17" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0006" x="3243" y="879" width="394" height="357" frameX="-57" frameY="-3" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0007" x="0" y="1336" width="445" height="361" frameX="0" frameY="0" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0008" x="545" y="1336" width="418" height="350" frameX="-20" frameY="-9" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0009" x="1063" y="1336" width="414" height="349" frameX="-23" frameY="-10" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0010" x="1577" y="1336" width="409" height="343" frameX="-29" frameY="-15" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0011" x="2086" y="1336" width="409" height="343" frameX="-29" frameY="-15" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0012" x="2595" y="1336" width="397" height="324" frameX="-31" frameY="-32" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0013" x="3092" y="1336" width="400" height="321" frameX="-37" frameY="-35" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0014" x="3592" y="1336" width="400" height="328" frameX="-37" frameY="-29" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0015" x="0" y="1797" width="397" height="329" frameX="-40" frameY="-28" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0016" x="497" y="1797" width="396" height="333" frameX="-40" frameY="-25" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0017" x="993" y="1797" width="396" height="334" frameX="-40" frameY="-24" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0018" x="1489" y="1797" width="396" height="335" frameX="-40" frameY="-23" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0019" x="1985" y="1797" width="396" height="335" frameX="-40" frameY="-23" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0020" x="2481" y="1797" width="396" height="336" frameX="-40" frameY="-22" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0021" x="2977" y="1797" width="396" height="336" frameX="-40" frameY="-22" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0022" x="3473" y="1797" width="396" height="336" frameX="-40" frameY="-22" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0023" x="0" y="2233" width="396" height="336" frameX="-40" frameY="-22" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0024" x="496" y="2233" width="396" height="336" frameX="-40" frameY="-22" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0025" x="992" y="2233" width="396" height="336" frameX="-40" frameY="-22" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder take out0026" x="992" y="2233" width="396" height="336" frameX="-40" frameY="-22" frameWidth="493" frameHeight="361"/>
+	<SubTexture name="shredder up0000" x="1488" y="2233" width="366" height="354" frameX="0" frameY="0" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0001" x="1488" y="2233" width="366" height="354" frameX="0" frameY="0" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0002" x="1954" y="2233" width="365" height="346" frameX="-3" frameY="-8" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0003" x="1954" y="2233" width="365" height="346" frameX="-3" frameY="-8" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0004" x="2419" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0005" x="2419" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0006" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0007" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0008" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0009" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0010" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0011" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0012" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0013" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0014" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0015" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0016" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0017" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+	<SubTexture name="shredder up0018" x="2883" y="2233" width="364" height="343" frameX="-4" frameY="-10" frameWidth="368" frameHeight="354"/>
+</TextureAtlas>

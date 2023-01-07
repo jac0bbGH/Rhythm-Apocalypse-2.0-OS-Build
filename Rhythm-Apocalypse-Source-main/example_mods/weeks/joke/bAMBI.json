@@ -1,0 +1,50 @@
+{
+	"storyName": "the cornophobia duo",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cornophobia",
+			"bambi-insane",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"kys",
+			"bambi-insane",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"xbox",
+			"dad",
+			[
+				0,
+				113,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "GayPenisPorn",
+	"hiddenUntilUnlocked": false
+}

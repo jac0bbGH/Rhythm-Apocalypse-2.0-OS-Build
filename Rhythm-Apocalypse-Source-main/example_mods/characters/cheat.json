@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				192,
+				123
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cheat left"
+		},
+		{
+			"offsets": [
+				-105,
+				100
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cheat down"
+		},
+		{
+			"offsets": [
+				15,
+				100
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "cheat idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				260
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "cheat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				139
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "cheat right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cheat",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "cheating",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		189,
+		58
+	],
+	"camera_position": [
+		-230,
+		-10
+	],
+	"sing_duration": 7.49999999999999,
+	"scale": 1
+}

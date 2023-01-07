@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				40864.8648648649,
+				[
+					[
+						"Change Character",
+						"dad",
+						"guitar man if good"
+					],
+					[
+						"Play Animation",
+						"Wop",
+						"dad"
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Change Character",
+						"dad",
+						"guitar man if good"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				51891.8918918919,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dbambi n funny 2"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92756.7567567567,
+				[
+					[
+						"Change Character",
+						"dad",
+						"guitar man if good"
+					],
+					[
+						"Play Animation",
+						"Wop",
+						"dad"
+					]
+				]
+			],
+			[
+				93405.4054054054,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134918.918918919,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dbambi n funny mad if good"
+					],
+					[
+						"stage test",
+						"bambis-farm-night",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"you play as dave",
+						"ok",
+						"2"
+					]
+				]
+			],
+			[
+				2000,
+				[
+					[
+						"SC Lyric Event",
+						"Hey Bambi?",
+						"1"
+					]
+				]
+			],
+			[
+				3625,
+				[
+					[
+						"SC Lyric Event",
+						"Did you leave the gates open?",
+						"2"
+					]
+				]
+			],
+			[
+				5250,
+				[
+					[
+						"SC Lyric Event",
+						"Because there's a goose",
+						"2"
+					]
+				]
+			],
+			[
+				6500,
+				[
+					[
+						"SC Lyric Event",
+						"In the Farm now, and I just-",
+						"4"
+					]
+				]
+			],
+			[
+				9125,
+				[
+					[
+						"SC Lyric Event",
+						"Don't interrupt me when i'm talking to somebo-",
+						"4"
+					]
+				]
+			],
+			[
+				12750,
+				[
+					[
+						"SC Lyric Event",
+						"So that's how it's gonna be, bring it on then.",
+						"1"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"SC Lyric Event",
+						" ",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.6"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

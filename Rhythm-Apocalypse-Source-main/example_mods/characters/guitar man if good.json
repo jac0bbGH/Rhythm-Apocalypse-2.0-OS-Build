@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-74
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shredder idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-66
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shredder left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shredder down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shredder up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-73
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shredder right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-54
+			],
+			"anim": "Wop",
+			"fps": 24,
+			"name": "shredder take out",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-68
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "shredder left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-120
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "shredder down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-132,
+				-72
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "shredder right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-59
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "shredder up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/penis monkey scare",
+	"position": [
+		70,
+		280
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		184,
+		63
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 3,
+	"scale": 0.9
+}

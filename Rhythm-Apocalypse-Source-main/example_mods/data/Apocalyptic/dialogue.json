@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Why are we here again?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "We rematched Dave, it's obligatory we rematch Bambi too, It's part of this mod! ",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "what mod?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "VS Dave and Bambi: Rhythm Apocalypse!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Who goes there?",
+			"boxState": "normal",
+			"portrait": "bambi",
+			"speed": 0.05,
+			"sound": "bambi"
+		},
+		{
+			"expression": "talk",
+			"text": "Uhh, I-",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I mean beepobeerueorksdnfjndjfnfnjhfjsdhflkdshfkldsnfldsnfndskfndslfkndslkf",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "You again?",
+			"boxState": "normal",
+			"portrait": "bambi",
+			"speed": 0.05,
+			"sound": "bambi"
+		},
+		{
+			"expression": "talk",
+			"text": "I growing my corn right now. Can you wait?",
+			"boxState": "normal",
+			"portrait": "bambi",
+			"speed": 0.05,
+			"sound": "bambi"
+		},
+		{
+			"expression": "talk",
+			"text": "beepo bapee skabeebo bop bap",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Fine, you want rematch, Let's do it then.",
+			"boxState": "normal",
+			"portrait": "bambi",
+			"speed": 0.05,
+			"sound": "bambi"
+		},
+		{
+			"expression": "talk",
+			"text": "But you break my phone again, you're done.",
+			"boxState": "normal",
+			"portrait": "bambi",
+			"speed": 0.05,
+			"sound": "bambi"
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

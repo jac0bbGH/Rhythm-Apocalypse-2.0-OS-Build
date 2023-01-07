@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Phone-Fury",
+			"madbambi",
+			[
+				6,
+				233,
+				60
+			]
+		],
+		[
+			"Heart-Of-Gold",
+			"golden",
+			[
+				215,
+				133,
+				0
+			]
+		],
+		[
+			"Wheels",
+			"dave",
+			[
+				46,
+				33,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"20"
+					],
+					[
+						"Change Scroll Speed",
+						"0.6",
+						"0"
+					]
+				]
+			],
+			[
+				20756.7567567568,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.001"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"3"
+					]
+				]
+			]
+		]
+	}
+}
