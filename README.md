@@ -11,6 +11,9 @@ shredder bambi is everywhere
 
 
 
+
+
+
 ![BambiShredder](https://user-images.githubusercontent.com/111875606/211206999-0d389746-6ed8-4ea0-86bf-dbc871d97c80.gif)
 
 
