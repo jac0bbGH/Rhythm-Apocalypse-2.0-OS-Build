@@ -145,7 +145,10 @@ class CategoryState extends MusicBeatState
 				categorySelected = 'joke';
 			case 'fantracks':
 				FlxG.switchState(new FreeplayState());
-				categorySelected = 'fantracks';
+				categorySelected = 'fantracks';\
+			case 'covers':
+				FlxG.switchState(new FreeplayState());
+				categorySelected = 'covers';
 		}
 	}
 
