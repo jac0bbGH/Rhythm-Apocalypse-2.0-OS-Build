@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "IdleNebia"
+			"fps": 24,
+			"name": "IdleNebia",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				120
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "LeftNebia"
+			"fps": 24,
+			"name": "LeftNebia",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				40,
 				230
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "DownNebia"
+			"fps": 24,
+			"name": "DownNebia",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				90,
 				70
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "UpNebia"
+			"fps": 24,
+			"name": "UpNebia",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				80
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "RightNebia"
+			"fps": 24,
+			"name": "RightNebia",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		0,
 		0
 	],
-	"healthicon": "nebia",
+	"healthicon": "nebiahuman",
 	"flip_x": true,
 	"healthbar_colors": [
-		25,
-		115,
-		132
+		98,
+		181,
+		181
 	],
 	"camera_position": [
 		90,
