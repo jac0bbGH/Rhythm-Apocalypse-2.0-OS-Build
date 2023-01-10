@@ -173,6 +173,8 @@ class PlayState extends MusicBeatState
 	public var opponentStrums:FlxTypedGroup<StrumNote>;
 	public var playerStrums:FlxTypedGroup<StrumNote>;
 	public var grpNoteSplashes:FlxTypedGroup<NoteSplash>;
+	var firstPlayerNoteX:Float;
+
 
 	public var camZooming:Bool = false;
 	public var camZoomingMult:Float = 1;
@@ -2417,6 +2419,7 @@ class PlayState extends MusicBeatState
 		insert(members.indexOf(dadGroup), obj);
 	}
 
+
 	public function clearNotesBefore(time:Float)
 	{
 		var i:Int = unspawnNotes.length - 1;
@@ -2459,6 +2462,15 @@ class PlayState extends MusicBeatState
 			+ ' | Combo Breaks: ' + songMisses 
 			+ ' | Accuracy: ' + ratingName;
 		}
+		
+
+		if (healthBar.percent > 75 && scoreTxt.color != FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]))
+			FlxTween.color(scoreTxt, 0.5, FlxColor.WHITE, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]));
+		else if (healthBar.percent < 25 && scoreTxt.color != FlxColor.RED && healthBar.percent != 0)
+			FlxTween.color(scoreTxt, 0.5, FlxColor.WHITE, FlxColor.RED);
+		else 
+			if (scoreTxt.color != FlxColor.WHITE)
+				FlxTween.color(scoreTxt, 0.5, scoreTxt.color, FlxColor.WHITE);
 	}
 
 	public function setSongTime(time:Float)
@@ -2737,6 +2749,15 @@ class PlayState extends MusicBeatState
 		}
 		checkEventNote();
 		generatedMusic = true;
+	}
+
+	function syncUnderlays(){	// this only does player right now because PROCRASTINATION!! -chemical
+		
+		firstPlayerNoteX = strumLineNotes.members[4].x - 25;
+		
+		laneunderlay.x = firstPlayerNoteX;
+		laneunderlay.setGraphicSize(Std.int(Math.abs((strumLineNotes.members[4].x - 25) - strumLineNotes.members[7].x - 150)), Std.int(laneunderlay.height));
+		laneunderlay.updateHitbox();
 	}
 
 	function eventPushed(event:EventNote) {
@@ -3178,6 +3199,8 @@ class PlayState extends MusicBeatState
 		}
 
 		super.update(elapsed);
+
+		syncUnderlays();
 
 		setOnLuas('curDecStep', curDecStep);
 		setOnLuas('curDecBeat', curDecBeat);
