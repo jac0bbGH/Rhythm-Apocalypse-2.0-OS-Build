@@ -85,7 +85,7 @@ class MainMenuState extends MusicBeatState
 		#if desktop
 		// Updating Discord Rich Presence
 
-		DiscordClient.changePresence("In The Menu...", null);
+		DiscordClient.changePresence("Surfing The Menu", null);
 		#end
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
 
@@ -163,7 +163,7 @@ class MainMenuState extends MusicBeatState
 			}
 
 
-		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 64, 0, "DnB: Rhythm Apocalypse V" + rhythmVersion, 12);
+		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 64, 0, "D&B: Rhythm Apocalypse V" + rhythmVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
