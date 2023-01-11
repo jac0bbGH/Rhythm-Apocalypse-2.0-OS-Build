@@ -669,39 +669,52 @@ class TitleState extends MusicBeatState
 					//FlxG.sound.music.stop();
 					FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
 					FlxG.sound.music.fadeIn(4, 0, 0.7);
-					createCoolText(['OS Engine by'], 45);
+					createCoolText(['Rhythm Apocalypse by'], 45);
 				case 2:
-					addMoreText('weuz_', 45);
-					addMoreText('nelifs', 45);
-					addMoreText('Cooljer', 45);
+					addMoreText('jac0bb', 45);
+					addMoreText('objectshowmaster', 45);
+					addMoreText('SharkNator', 45);
 				case 3:
 					deleteCoolText();
-					createCoolText(['Forked', 'from'], 15);
+					createCoolText(['OS Engine', 'was made by'], 15);
 				case 4:
-					addMoreText('Psych Engine', 45);
+					addMoreText('not_weuz', 45);
+					addMoreText('and more people', 10);
 				case 6:
 					deleteCoolText();
-					createCoolText(['Psych Engine by'], 45);
-					addMoreText('Shadow Mario',45);
-					addMoreText('RiverOaken',45);
-					addMoreText('bbpanzu',45);
+					createCoolText(['Original Dave & Bambi by'], 45);
+					addMoreText('MoldyGH',45);
+					addMoreText('and other people i forgot',45);
 				case 8:
 					deleteCoolText();
-					createCoolText([curWacky[0]]);
+					createCoolText(['Apocalypse Engine By'], 45);
+					addMoreText('OOF Productions',45);
+					addMoreText('6160mas',45);
+					addMoreText('chemical',45);
+					addMoreText('and pash',45);
 				case 10:
-					addMoreText(curWacky[1]);
-				case 12:
 					deleteCoolText();
+					createCoolText([curWacky[0]]);
+				case 12:
+					addMoreText(curWacky[1]);
 				case 13:
+					deleteCoolText();
+				case 14:
+					createCoolText([curWacky[0]]);
+				case 15:
+					createCoolText([curWacky[1]]);
+				case 16:
+					deleteCoolText();
+				case 17:
 					addMoreText('Vs Dave and Bambi');
 				// credTextShit.visible = true;
-				case 14:
+				case 18:
 					addMoreText('Rhythm');
 				// credTextShit.text += '\nNight';
-				case 15:
+				case 19:
 					addMoreText('Apocalypse'); // credTextShit.text += '\nFunkin';
 
-				case 16:
+				case 20:
 					skipIntro();
 			}
 		}
