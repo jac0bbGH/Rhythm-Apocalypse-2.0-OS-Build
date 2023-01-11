@@ -213,6 +213,8 @@ class PlayState extends MusicBeatState
 	public var cpuControlled:Bool = false;
 	public var practiceMode:Bool = false;
 
+	var furtherMostNotes:Array<StrumNote>;
+
 	public var botplaySine:Float = 0;
 	public var botplayTxt:FlxText;
 
@@ -2465,9 +2467,9 @@ class PlayState extends MusicBeatState
 		
 
 		if (healthBar.percent > 75 && scoreTxt.color != FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]))
-			FlxTween.color(scoreTxt, 0.5, FlxColor.WHITE, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]));
+			FlxTween.color(scoreTxt, 0.5, scoreTxt.color, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]));
 		else if (healthBar.percent < 25 && scoreTxt.color != FlxColor.RED && healthBar.percent != 0)
-			FlxTween.color(scoreTxt, 0.5, FlxColor.WHITE, FlxColor.RED);
+			FlxTween.color(scoreTxt, 0.5, scoreTxt.color, FlxColor.RED);
 		else 
 			if (scoreTxt.color != FlxColor.WHITE)
 				FlxTween.color(scoreTxt, 0.5, scoreTxt.color, FlxColor.WHITE);
@@ -2752,12 +2754,43 @@ class PlayState extends MusicBeatState
 	}
 
 	function syncUnderlays(){	// this only does player right now because PROCRASTINATION!! -chemical
-		
-		firstPlayerNoteX = strumLineNotes.members[4].x - 25;
-		
-		laneunderlay.x = firstPlayerNoteX;
-		laneunderlay.setGraphicSize(Std.int(Math.abs((strumLineNotes.members[4].x - 25) - strumLineNotes.members[7].x - 150)), Std.int(laneunderlay.height));
-		laneunderlay.updateHitbox();
+		if (!inCutscene)
+		{
+			var canLoadNotes:Bool = true;
+	
+				for(funny in 0...strumLineNotes.members.length)
+				{
+					if (strumLineNotes.members[funny] == null)
+					{
+						trace('NOTES UNLOADED');
+						canLoadNotes = false;
+					}
+	
+				}
+			if (canLoadNotes)
+				furtherMostNotes = [strumLineNotes.members[4], strumLineNotes.members[7]];
+	
+			if (canLoadNotes){
+				
+				if (furtherMostNotes[1].x < furtherMostNotes[0].x)
+				{
+					furtherMostNotes[0] = furtherMostNotes[1];
+					furtherMostNotes[1] = furtherMostNotes[0];
+				}
+
+				for(pizza in 4...7)
+				{
+					if (furtherMostNotes[0].x > strumLineNotes.members[pizza].x)
+						furtherMostNotes[0] = strumLineNotes.members[pizza];
+						
+					if (furtherMostNotes[1].x < strumLineNotes.members[pizza].x)
+						furtherMostNotes[1] = strumLineNotes.members[pizza];
+				}
+				laneunderlay.x = furtherMostNotes[0].x - 25;
+				laneunderlay.setGraphicSize(Std.int(Math.abs((furtherMostNotes[0].x - 25) - furtherMostNotes[1].x - 150)), Std.int(laneunderlay.height));
+				laneunderlay.updateHitbox();
+			}
+		}
 	}
 
 	function eventPushed(event:EventNote) {
