@@ -35,21 +35,12 @@ class ExtrasMenuState extends MusicBeatState
 	
 	var optionShit:Array<String> = ['credits', 'discord'];
 
-	var magenta:FlxSprite;
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 
 	public static var firstStart:Bool = true;
 
 	public static var finishedFunnyMove:Bool = false;
-
-	public static var bgPaths:Array<String> = 
-	[
-		'backgrounds/bgf',
-		'backgrounds/bgo',
-		'backgrounds/bgt',
-		'backgrounds/bgth',
-	];
 
 	override function create()
 	{
@@ -71,30 +62,18 @@ class ExtrasMenuState extends MusicBeatState
 
 		persistentUpdate = persistentDraw = true;
 
-		var yScroll:Float = Math.max(0.1 - (0.03 * (optionShit.length - 4)), 0.1);
-		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(randomizeBG());
-		bg.scrollFactor.set(0, yScroll);
+		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('lololo'));
 		bg.setGraphicSize(Std.int(bg.width * 1.175));
 		bg.updateHitbox();
 		bg.screenCenter();
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
-		bg.color = 0xFFfd719b;
 		add(bg);
+		
 
 		camFollow = new FlxObject(0, 0, 1, 1);
 		camFollowPos = new FlxObject(0, 0, 1, 1);
 		add(camFollow);
 		add(camFollowPos);
-
-		magenta = new FlxSprite(-80).loadGraphic(bg.graphic);
-		magenta.scrollFactor.set(0, yScroll);
-		magenta.setGraphicSize(Std.int(magenta.width * 1.175));
-		magenta.updateHitbox();
-		magenta.screenCenter();
-		magenta.antialiasing = ClientPrefs.globalAntialiasing;
-		magenta.color = 0xFFFDE871;
-		add(magenta);
-		// magenta.scrollFactor.set();
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
@@ -138,9 +117,14 @@ class ExtrasMenuState extends MusicBeatState
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
 
-		firstStart = false;
+		var gradient:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('gradientwtf'));
+		gradient.updateHitbox();
+		gradient.alpha = 0.4;
+		gradient.screenCenter();
+		gradient.antialiasing = ClientPrefs.globalAntialiasing;
+		add(gradient);
 
-		FlxG.camera.follow(camFollowPos, null, 1);
+		firstStart = false;
 
 		// NG.core.calls.event.logEvent('swag').send();
 
@@ -186,50 +170,12 @@ class ExtrasMenuState extends MusicBeatState
 				{
 					if (optionShit[curSelected] == 'discord')
 					{
-						CoolUtil.browserLoad('https://discord.gg/rhythmapocalypse');
+						CoolUtil.browserLoad('https://discord.gg/5REcWp9uaf');
 					}
 					
 					if (optionShit[curSelected] == 'credits')
 					{
 						CoolUtil.browserLoad('https://docs.google.com/document/d/1dhzoaAr-h1OPn1VSWrE2LDbRm7NOS1QejnuGKItMAOM/edit?usp=sharing');
-					}
-					else
-					{
-						selectedSomethin = true;
-						FlxG.sound.play(Paths.sound('confirmMenu'));
-						if(ClientPrefs.flashing)
-							FlxFlicker.flicker(magenta, 1.1, 0.15, false);
-	
-						menuItems.forEach(function(spr:FlxSprite)
-						{
-							if (curSelected != spr.ID)
-							{
-								FlxTween.tween(spr, {alpha: 0}, 1.3, {
-									ease: FlxEase.quadOut,
-									onComplete: function(twn:FlxTween)
-									{
-										spr.kill();
-									}
-								});
-							}
-							else
-							{
-								if(ClientPrefs.flashing)
-								{
-									FlxFlicker.flicker(spr, 1, 0.06, false, false, function(flick:FlxFlicker)
-									{
-										goToState();
-									});
-								}
-								else
-								{
-									new FlxTimer().start(1, function(tmr:FlxTimer)
-									{
-										goToState();
-									});
-								}
-							}
-						});
 					}
 				}
 			}
@@ -284,10 +230,5 @@ class ExtrasMenuState extends MusicBeatState
 				FlxG.log.add(spr.frameWidth);
 			}
 		});
-	}
-	public static function randomizeBG():flixel.system.FlxAssets.FlxGraphicAsset
-	{
-		var chance:Int = FlxG.random.int(0, bgPaths.length - 1);
-		return Paths.image(bgPaths[chance]);
 	}
 }
