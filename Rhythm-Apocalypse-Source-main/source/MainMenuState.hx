@@ -33,7 +33,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var rhythmVersion:String = '1';
+	public static var rhythmVersion:String = '1.5';
 	public static var osEngineVersion:String = '1.5.1'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 	var shart:FlxBackdrop;
