@@ -257,8 +257,8 @@ class PlayState extends MusicBeatState
 	var grpLimoDancers:FlxTypedGroup<BackgroundDancer>;
 	var fastCar:BGSprite;
 	
-	var trailunderdad:FlxTrail;
-	var trailunderbf:FlxTrail;
+	var trailunderdad:DeltaTrail;
+	var trailunderbf:DeltaTrail;
 
 	var upperBoppers:BGSprite;
 	var bottomBoppers:BGSprite;
@@ -1033,13 +1033,13 @@ class PlayState extends MusicBeatState
 		}
 
 		if (SONG.characterTrails) {
-			trailunderdad = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
+			trailunderdad = new DeltaTrail(dad, null, 4, 24/144, 0.3, 0.069); //nice
 			insert(members.indexOf(dadGroup) - 1, trailunderdad);
-			//var trailundergf = new FlxTrail(gf, null, 4, 24, 0.3, 0.069); //nice
+			//var trailundergf = new DeltaTrail(gf, null, 4, 24, 0.3, 0.069); //nice
 			//insert(members.indexOf(gfGroup) - 1, trailundergf);			will fix it somedays :D
 		}
 		if (SONG.bfTrails) {
-			trailunderbf = new FlxTrail(boyfriend, null, 4, 24, 0.3, 0.069); //nice
+			trailunderbf = new DeltaTrail(boyfriend, null, 4, 24/144, 0.3, 0.069); //nice
 			insert(members.indexOf(boyfriendGroup) - 1, trailunderbf);
 		} 
 
@@ -4029,12 +4029,12 @@ class PlayState extends MusicBeatState
 				reloadHealthBarColors();
 				if (SONG.characterTrails) {
 					remove(trailunderdad);
-					trailunderdad = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
+					trailunderdad = new DeltaTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 					insert(members.indexOf(dadGroup) - 1, trailunderdad);
 				}
 				if (SONG.bfTrails) {
 					remove(trailunderbf);
-					trailunderbf = new FlxTrail(boyfriend, null, 4, 24, 0.3, 0.069); //nice
+					trailunderbf = new DeltaTrail(boyfriend, null, 4, 24, 0.3, 0.069); //nice
 					insert(members.indexOf(boyfriendGroup) - 1, trailunderbf);
 				}
 

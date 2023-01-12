@@ -2,6 +2,7 @@ function onCreate()
 	makeLuaSprite('DaveBG3D', 'DaveBG3D', -500, -100);
 	setScrollFactor('DaveBG3D', 1, 1);
 	makeLuaSprite('SkyDave', 'SkyDave', -1200, -900);
+	setProperty('SkyDave.antialiasing', false)
 	setScrollFactor('SkyDave', 1, 1);
 
 

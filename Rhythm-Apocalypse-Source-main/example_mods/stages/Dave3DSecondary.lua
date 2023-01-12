@@ -2,6 +2,7 @@ function onCreate()
 	makeLuaSprite('DaveBG3DSecondary', 'DaveBG3DSecondary', -500, -100);
 	setScrollFactor('DaveBG3DSecondary', 1, 1);
 	makeLuaSprite('RedSky', 'RedSky', -1200, -900);
+	setProperty('RedSky.antialiasing', false)
 	setScrollFactor('RedSky', 1, 1);
 	makeLuaSprite('RedTint', 'RedTint', -900, -300);
 	setScrollFactor('RedTint', 1, 1);
