@@ -257,8 +257,8 @@ class PlayState extends MusicBeatState
 	var grpLimoDancers:FlxTypedGroup<BackgroundDancer>;
 	var fastCar:BGSprite;
 	
-	var trailunderdad:DeltaTrail;
-	var trailunderbf:DeltaTrail;
+	var trailunderdad:FlxTrail;
+	var trailunderbf:FlxTrail;
 
 	var upperBoppers:BGSprite;
 	var bottomBoppers:BGSprite;
@@ -1033,13 +1033,13 @@ class PlayState extends MusicBeatState
 		}
 
 		if (SONG.characterTrails) {
-			trailunderdad = new DeltaTrail(dad, null, 4, 24/144, 0.3, 0.069); //nice
+			trailunderdad = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 			insert(members.indexOf(dadGroup) - 1, trailunderdad);
-			//var trailundergf = new DeltaTrail(gf, null, 4, 24, 0.3, 0.069); //nice
+			//var trailundergf = new FlxTrail(gf, null, 4, 24, 0.3, 0.069); //nice
 			//insert(members.indexOf(gfGroup) - 1, trailundergf);			will fix it somedays :D
 		}
 		if (SONG.bfTrails) {
-			trailunderbf = new DeltaTrail(boyfriend, null, 4, 24/144, 0.3, 0.069); //nice
+			trailunderbf = new FlxTrail(boyfriend, null, 4, 24, 0.3, 0.069); //nice
 			insert(members.indexOf(boyfriendGroup) - 1, trailunderbf);
 		} 
 
@@ -1292,17 +1292,17 @@ class PlayState extends MusicBeatState
 		}
 		add(scoreTxt);
 
-		songTxt = new FlxText(12, FlxG.height - 28, 0, "", 20);
-		songTxt.setFormat(Paths.font("comic.ttf"), 20, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		songTxt = new FlxText(12, FlxG.height - 26, 0, "", 16);
+		songTxt.setFormat(Paths.font("comic.ttf"), 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		songTxt.scrollFactor.set();
-		songTxt.borderSize = 1.5;
+		songTxt.borderSize = 1.25;
 		if (!ClientPrefs.hideWatermark && !ClientPrefs.hideHud) {
 			songTxt.visible = true;
 		} else {
 			songTxt.visible = false;
 		}
 		add(songTxt);
-		songTxt.text = curSong;
+		songTxt.text = curSong + " | Apocalypse Engine " + MainMenuState.rhythmVersion;
 
 		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
 		botplayTxt.setFormat(Paths.font("comic.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
@@ -2465,7 +2465,6 @@ class PlayState extends MusicBeatState
 			+ ' | Accuracy: ' + ratingName;
 		}
 		
-
 		if (healthBar.percent > 75 && scoreTxt.color != FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]))
 			FlxTween.color(scoreTxt, 0.5, scoreTxt.color, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]));
 		else if (healthBar.percent < 25 && scoreTxt.color != FlxColor.RED && healthBar.percent != 0)
@@ -4029,12 +4028,12 @@ class PlayState extends MusicBeatState
 				reloadHealthBarColors();
 				if (SONG.characterTrails) {
 					remove(trailunderdad);
-					trailunderdad = new DeltaTrail(dad, null, 4, 24, 0.3, 0.069); //nice
+					trailunderdad = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 					insert(members.indexOf(dadGroup) - 1, trailunderdad);
 				}
 				if (SONG.bfTrails) {
 					remove(trailunderbf);
-					trailunderbf = new DeltaTrail(boyfriend, null, 4, 24, 0.3, 0.069); //nice
+					trailunderbf = new FlxTrail(boyfriend, null, 4, 24, 0.3, 0.069); //nice
 					insert(members.indexOf(boyfriendGroup) - 1, trailunderbf);
 				}
 
