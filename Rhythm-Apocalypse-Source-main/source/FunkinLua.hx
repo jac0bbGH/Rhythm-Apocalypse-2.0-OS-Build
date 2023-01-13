@@ -2925,7 +2925,7 @@ class FunkinLua {
 			if(!resultIsAllowed(lua, result))
 			{
 				Lua.pop(lua, 1);
-				if(error != null) luaTrace("ERROR (" + func + "): " + error, false, false, FlxColor.RED);
+				if(error != null) luaTrace(scriptName + " (" + func + "): " + error, false, false, FlxColor.RED);
 			}
 			else
 			{
