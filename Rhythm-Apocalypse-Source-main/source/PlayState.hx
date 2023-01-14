@@ -3343,13 +3343,12 @@ class PlayState extends MusicBeatState
 					songPercent = (curTime / songLength);
 
 					var songCalc:Float = (songLength - curTime);
-					if(ClientPrefs.timeBarType == 'Time Elapsed') songCalc = curTime;
 
 					var secondsTotal:Int = Math.floor(songCalc / 1000);
 					if(secondsTotal < 0) secondsTotal = 0;
 
 					if(ClientPrefs.timeBarType != 'Song Name')
-						timeTxt.text = FlxStringUtil.formatTime(secondsTotal, false) + '/' + FlxStringUtil.formatTime((songLength - secondsTotal) / 1000, false);
+						timeTxt.text = FlxStringUtil.formatTime(curTime / 1000, false) +  ' / ' + FlxStringUtil.formatTime((songLength - secondsTotal) / 1000, false);
 				}
 			}
 
