@@ -206,6 +206,9 @@ class StoryMenuState extends MusicBeatState
 
 		scoreText.text = "WEEK SCORE:" + lerpScore;
 
+		if (FlxG.keys.justPressed.SEVEN)
+			MusicBeatState.switchState(new StoryMenuEXPState());
+
 		// FlxG.watch.addQuick('font', scoreText.font);
 
 		if (!movedBack && !selectedWeek)
