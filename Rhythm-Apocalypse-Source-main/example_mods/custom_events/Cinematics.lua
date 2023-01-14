@@ -12,14 +12,14 @@ function onCreate()
 
 	--THE TOP BAR
 	makeLuaSprite('UpperBar', 'empty', 0, -120)
-	makeGraphic('UpperBar', 1280, 120, '000000')
+	makeGraphic('UpperBar', 12800, 120, '000000')
 	setObjectCamera('UpperBar', 'hud')
 	addLuaSprite('UpperBar', false)
 
 
 	--THE BOTTOM BAR
-	makeLuaSprite('LowerBar', 'empty', 0, 720)
-	makeGraphic('LowerBar', 1280, 120, '000000')
+	makeLuaSprite('LowerBar', 'empty', -100, 720)
+	makeGraphic('LowerBar', 12800, 120, '000000')
 	setObjectCamera('LowerBar', 'hud')
 	addLuaSprite('LowerBar', false)
 
@@ -48,6 +48,7 @@ function onUpdate()
 	doTweenAlpha('AlphaTween6', 'timeBar', 0, 0.25)
 	doTweenAlpha('AlphaTween7', 'timeBarBG', 0, 0.25)
 	doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
+	doTweenAlpha('AlphaTween8', 'healthBarOverlay', 0, 0.25)
 	end
 
 	if downscroll and start == 1 then
@@ -70,6 +71,7 @@ function onUpdate()
 	doTweenAlpha('AlphaTween6', 'timeBar', 0, 0.25)
 	doTweenAlpha('AlphaTween7', 'timeBarBG', 0, 0.25)
 	doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
+	doTweenAlpha('AlphaTween8', 'healthBarOverlay', 0, 0.25)
 	end
 
 	if finish == 2 then
@@ -92,6 +94,7 @@ function onUpdate()
 	doTweenAlpha('AlphaTween6', 'timeBar', 1, 0.25)
 	doTweenAlpha('AlphaTween7', 'timeBarBG', 1, 0.25)
 	doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
+	doTweenAlpha('AlphaTween8', 'healthBarOverlay', 1, 0.25)
 	
 	end
 
@@ -115,6 +118,7 @@ function onUpdate()
 	doTweenAlpha('AlphaTween6', 'timeBar', 1, 0.25)
 	doTweenAlpha('AlphaTween7', 'timeBarBG', 1, 0.25)
 	doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
+	doTweenAlpha('AlphaTween8', 'healthBarOverlay', 1, 0.25)
 	end
 	
 end
