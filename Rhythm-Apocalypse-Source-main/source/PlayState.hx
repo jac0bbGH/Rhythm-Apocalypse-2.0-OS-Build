@@ -2461,8 +2461,8 @@ class PlayState extends MusicBeatState
 	{
 		if (!ClientPrefs.getGameplaySetting('botplay', false)){
 			scoreTxt.text = 'Score: ' + songScore 
-			+ ' | Combo Breaks: ' + songMisses 
-			+ ' | Accuracy: ' + ratingName;
+			+ ' // Combo Breaks: ' + songMisses 
+			+ ' // Accuracy: ' + ratingName;
 		}
 		
 		if (healthBar.percent > 75 && scoreTxt.color != FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]))
