@@ -25,7 +25,7 @@ using StringTools;
 
 class ExtrasMenuState extends MusicBeatState
 {
-	public static var rhythmVersion:String = '1';
+	public static var rhythmVersion:String = '1.5';
 	public static var osEngineVersion:String = '1.5.1'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
@@ -46,7 +46,7 @@ class ExtrasMenuState extends MusicBeatState
 	{
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("In the Extras Menu...", null);
+		DiscordClient.changePresence("In the Extras Menu... ", null);
 		#end
 
 		camGame = new FlxCamera();
