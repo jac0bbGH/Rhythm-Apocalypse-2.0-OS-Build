@@ -46,7 +46,7 @@ class ExtrasMenuState extends MusicBeatState
 	{
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("In the Menus", null);
+		DiscordClient.changePresence("In the Extras Menu...", null);
 		#end
 
 		camGame = new FlxCamera();
@@ -104,17 +104,17 @@ class ExtrasMenuState extends MusicBeatState
 					menuItem.y = 60 + (i * 230);
 			}
 		
-		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 64, 0, "DnB: Rhythm Apocalypse V" + rhythmVersion, 12);
+		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 64, 0, "D&B: Rhythm Apocalypse V" + rhythmVersion, 12);
 		versionShit.scrollFactor.set();
-		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		versionShit.setFormat("Comic Sans MS Bold", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
 		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 44, 0, "OS Engine v" + osEngineVersion + " - Modded Psych Engine", 12);
 		versionShit.scrollFactor.set();
-		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		versionShit.setFormat("Comic Sans MS Bold", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
 		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 24, 0, "Friday Night Funkin' v" + Application.current.meta.get('version'), 12);
 		versionShit.scrollFactor.set();
-		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		versionShit.setFormat("Comic Sans MS Bold", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
 
 		var gradient:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('gradientwtf'));
