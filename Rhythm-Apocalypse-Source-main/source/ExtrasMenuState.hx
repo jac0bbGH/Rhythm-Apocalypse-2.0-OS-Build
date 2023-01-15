@@ -104,7 +104,7 @@ class ExtrasMenuState extends MusicBeatState
 					menuItem.y = 60 + (i * 230);
 			}
 		
-		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 64, 0, "D&B: Rhythm Apocalypse V" + rhythmVersion, 12);
+		var versionShit:FlxText = new FlxText(FlxG.width * 0.35, FlxG.height - 64, 0, "Apocalypse Engine v" + rhythmVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("Comic Sans MS Bold", 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
