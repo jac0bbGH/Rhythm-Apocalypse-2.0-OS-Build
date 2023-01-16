@@ -2,17 +2,42 @@
 	"song": {
 		"events": [
 			[
+				12800,
+				[
+					[
+						"Soft Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
 				38400,
 				[
 					[
-						"Flash Camera",
+						"Cam Zoom Tween OUT",
 						"1",
-						""
-					],
+						"0"
+					]
+				]
+			],
+			[
+				40000,
+				[
 					[
-						"Change Character",
-						"dad",
-						"daveinsane"
+						"Cam Zoom Tween IN",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Toggle FlxTrail",
+						"on",
+						"on"
 					]
 				]
 			],
@@ -20,14 +45,49 @@
 				51200,
 				[
 					[
-						"Flash Camera",
-						"1",
-						""
+						"Toggle FlxTrail",
+						"off",
+						"off"
 					],
 					[
-						"Change Character",
-						"dad",
-						"dave"
+						"CinematicsVin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"CinematicsVin",
+						"",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"6"
 					]
 				]
 			],
@@ -35,19 +95,9 @@
 				76800,
 				[
 					[
-						"Flash Camera",
-						"1",
-						""
-					],
-					[
-						"Change Scroll Speed",
-						"0.7",
-						"1"
-					],
-					[
-						"Add Camera Zoom",
-						"1",
-						"1"
+						"Set Cam Zoom",
+						"0.8",
+						"6"
 					]
 				]
 			],
@@ -61,18 +111,8 @@
 					],
 					[
 						"Change Scroll Speed",
-						"1",
-						"1"
-					]
-				]
-			],
-			[
-				102400,
-				[
-					[
-						"Change Character",
-						"dad",
-						"dave"
+						"1.1",
+						"0"
 					]
 				]
 			]

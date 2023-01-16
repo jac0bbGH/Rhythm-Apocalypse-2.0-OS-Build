@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				0,
+				50,
 				0
 			],
 			"indices": [],
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-30,
+				-30
 			],
 			"indices": [],
 			"fps": 24,
@@ -59,15 +59,15 @@
 	"no_antialiasing": false,
 	"image": "characters/bamndew",
 	"position": [
-		0,
-		0
+		-330,
+		-40
 	],
 	"healthicon": "bamn",
 	"flip_x": false,
 	"healthbar_colors": [
-		170,
-		17,
-		153
+		191,
+		86,
+		248
 	],
 	"camera_position": [
 		0,

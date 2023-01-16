@@ -6,9 +6,9 @@
 				0,
 				0
 			],
-			"anim": "singDOWN",
+			"anim": "danceLeft",
 			"fps": 24,
-			"name": "Retgar Down",
+			"name": "idle left",
 			"indices": []
 		},
 		{
@@ -17,31 +17,9 @@
 				0,
 				0
 			],
-			"anim": "singUP",
+			"anim": "danceRight",
 			"fps": 24,
-			"name": "Retgar Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Retgar Right",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 12,
-			"name": "Retgar Idle",
+			"name": "idle right",
 			"indices": []
 		},
 		{
@@ -52,27 +30,60 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Retgar Left",
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				200
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
 			"indices": []
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/retgar",
+	"no_antialiasing": false,
+	"image": "characters/Retgar",
 	"position": [
-		80,
-		200
+		-360,
+		-220
 	],
 	"healthicon": "retgar",
 	"flip_x": false,
 	"healthbar_colors": [
-		105,
-		197,
+		101,
+		141,
 		255
 	],
 	"camera_position": [
-		30,
-		-220
+		40,
+		70
 	],
 	"sing_duration": 6.1,
-	"scale": 1.6
+	"scale": 1
 }
