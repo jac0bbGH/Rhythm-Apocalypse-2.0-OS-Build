@@ -1,84 +1,84 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				280,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				160,
 				-10
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				170,
 				50
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				10
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle-alt",
-			"loop": false,
-			"name": "look"
+			"fps": 24,
+			"name": "look",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bernard",
+	"image": "characters/roleplay/bernard",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "bernard",
+	"healthicon": "retgar",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		252,
-		103
+		105,
+		197,
+		255
 	],
 	"camera_position": [
 		0,

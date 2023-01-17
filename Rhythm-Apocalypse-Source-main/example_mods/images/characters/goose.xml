@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="goose.png"><SubTexture name="goose idle0000" x="682" y="0" width="241" height="446" frameX="-194" frameY="-155" frameWidth="720" frameHeight="720" />
-<SubTexture name="goose left0000" x="923" y="0" width="234" height="434" frameX="-180" frameY="-158" frameWidth="720" frameHeight="720" />
-<SubTexture name="goose down0000" x="420" y="616" width="546" height="271" frameX="-159" frameY="-366" frameWidth="720" frameHeight="720" />
-<SubTexture name="goose up0000" x="0" y="0" width="682" height="616" frameX="-12" frameY="0" frameWidth="720" frameHeight="720" />
-<SubTexture name="goose right0000" x="0" y="616" width="420" height="305" frameX="-260" frameY="-293" frameWidth="720" frameHeight="720" />
-</TextureAtlas>

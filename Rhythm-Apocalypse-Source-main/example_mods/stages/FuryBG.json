@@ -1,7 +1,7 @@
 {
 	"girlfriend": [
 		595,
-		0
+		2000
 	],
 	"boyfriend": [
 		1650,
@@ -12,7 +12,7 @@
 		0,
 		0
 	],
-	"hide_girlfriend": true,
+	"hide_girlfriend": false,
 	"directory": "",
 	"defaultZoom": 0.3
 }

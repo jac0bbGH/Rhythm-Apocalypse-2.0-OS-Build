@@ -1,102 +1,101 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Sonic idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				8,
 				3
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Sonic left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Sonic down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				-9
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Sonic up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				3
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "MISS Sonic down",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISS Sonic down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-29,
 				0
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "MISS Sonic up",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISS Sonic up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				14
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "MISS Sonic left"
+			"fps": 24,
+			"name": "MISS Sonic left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				17,
 				6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "MISS Sonic right"
+			"fps": 24,
+			"name": "MISS Sonic right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-14,
 				-11
 			],
-			"anim": "firstDeath",
+			"loop": false,
 			"fps": 24,
-			"name": "GAME OVER",
+			"anim": "firstDeath",
 			"indices": [
 				0,
 				1,
@@ -108,38 +107,40 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "GAME OVER"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-20,
 				-14
 			],
-			"anim": "deathLoop",
+			"loop": true,
 			"fps": 24,
-			"name": "GAME OVER loop",
-			"indices": []
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GAME OVER loop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-27,
 				-10
 			],
-			"anim": "deathConfirm",
+			"loop": false,
 			"fps": 24,
-			"name": "GAME OVER enter",
-			"indices": []
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GAME OVER enter"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-29,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic right",
 			"indices": [
 				2,
 				3,
@@ -152,12 +153,11 @@
 				10,
 				11,
 				12
-			],
-			"name": "Sonic right"
+			]
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sonic fw",
+	"image": "characters/jokes/sonic fw",
 	"position": [
 		220,
 		200

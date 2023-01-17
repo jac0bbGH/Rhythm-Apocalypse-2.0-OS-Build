@@ -1,107 +1,107 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				-74
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "a_bambi idle"
+			"fps": 24,
+			"name": "a_bambi idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-166,
 				-86
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "a_bambi left"
+			"fps": 24,
+			"name": "a_bambi left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-72,
 				-87
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "a_bambi down"
+			"fps": 24,
+			"name": "a_bambi down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-120,
 				-54
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "a_bambi up"
+			"fps": 24,
+			"name": "a_bambi up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-18,
 				-78
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "a_bambi right"
+			"fps": 24,
+			"name": "a_bambi right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"loop": false,
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"loop": false,
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP-alt",
-			"loop": false,
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"loop": false,
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/PENIS MONKEY AH",
+	"image": "characters/Bambi/PENIS MONKEY AH",
 	"position": [
 		70,
 		280

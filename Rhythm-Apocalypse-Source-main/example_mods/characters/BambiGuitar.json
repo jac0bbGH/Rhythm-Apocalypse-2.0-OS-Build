@@ -1,118 +1,118 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				-74
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "shredder idle"
+			"fps": 24,
+			"name": "shredder idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-35,
 				-66
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "shredder left"
+			"fps": 24,
+			"name": "shredder left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-51,
 				-114
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "shredder down"
+			"fps": 24,
+			"name": "shredder down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-69,
 				-62
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "shredder up"
+			"fps": 24,
+			"name": "shredder up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-130,
 				-73
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "shredder right"
+			"fps": 24,
+			"name": "shredder right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-35,
 				-54
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "Wop",
-			"indices": [],
-			"name": "shredder take out"
+			"fps": 24,
+			"name": "shredder take out",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-33,
 				-68
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "shredder left"
+			"fps": 24,
+			"name": "shredder left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-50,
 				-120
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "shredder down"
+			"fps": 24,
+			"name": "shredder down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-132,
 				-72
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "shredder right"
+			"fps": 24,
+			"name": "shredder right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-73,
 				-59
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "shredder up"
+			"fps": 24,
+			"name": "shredder up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/penis monkey scare",
+	"image": "characters/Bambi/penis monkey scare",
 	"position": [
 		-50,
 		280

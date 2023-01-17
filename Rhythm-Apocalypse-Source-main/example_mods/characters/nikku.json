@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 25,
 			"anim": "idle",
-			"indices": [],
-			"name": "IdleNikku"
+			"fps": 25,
+			"name": "IdleNikku",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				520,
 				170
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "LeftNikku"
+			"fps": 24,
+			"name": "LeftNikku",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				50,
 				-130
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "DownNikku"
+			"fps": 24,
+			"name": "DownNikku",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				150,
 				270
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "UpNikku"
+			"fps": 24,
+			"name": "UpNikku",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-120,
 				80
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "RightNikku"
+			"fps": 24,
+			"name": "RightNikku",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/nikku",
+	"image": "characters/R024/nikku",
 	"position": [
 		120,
 		150

@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "IdleNebia",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleNebia"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				30,
 				120
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "LeftNebia",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNebia"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				40,
 				230
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "DownNebia",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownNebia"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				90,
 				70
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "UpNebia",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpNebia"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-70,
 				80
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "RightNebia",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightNebia"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/nebiahuman",
+	"image": "characters/R024/nebiahuman",
 	"position": [
 		0,
 		0

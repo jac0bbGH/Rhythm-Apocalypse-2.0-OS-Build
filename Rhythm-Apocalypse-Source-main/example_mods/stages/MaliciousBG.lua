@@ -5,11 +5,6 @@ function onCreate()
 	setProperty('penbis chat.antialiasing', false)
 	addLuaSprite('penbis chat')
 	addGlitchEffect('penbis chat', 2, 2)
-
-	makeLuaSprite('night effect or sum', 'nighttime', 0, 0)
-	scaleObject('night effect or sum', 10, 10)
-	addLuaSprite('night effect or sum', true)
-
 end
 
 local totalTime = 0.0
@@ -22,4 +17,12 @@ function onUpdatePost(elapsed)
     setProperty("gf.y",250+math.sin(totalTime*math.pi/3)*200)
     setProperty("gf.x",-1000+(totalTime*400%3500))
     setProperty("gf.angle",totalTime*40)
+end
+
+function onCreatePost ()
+
+addChromaticAbberationEffect ('camhud', 0.005)
+addChromaticAbberationEffect ('camgame', 0.005)
+addBloomEffect ('camhud', 0.07)
+addBloomEffect ('camgame', 0.07)
 end

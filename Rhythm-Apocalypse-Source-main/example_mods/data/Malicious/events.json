@@ -2,22 +2,32 @@
 	"song": {
 		"events": [
 			[
+				0,
+				[
+					[
+						"Toggle FlxTrail",
+						"on",
+						"on"
+					]
+				]
+			],
+			[
 				1295.45454545455,
 				[
 					[
 						"SC Lyric Event",
 						"Fucking idiot.",
 						"1"
-					],
+					]
+				]
+			],
+			[
+				4431.81818181818,
+				[
 					[
-						"Set Cam Zoom",
-						"1.2",
-						"0.6"
-					],
-					[
-						"Cinematics",
-						"1",
-						""
+						"SC Lyric Event",
+						"Oh my god.",
+						"0.7"
 					]
 				]
 			],
@@ -26,7 +36,7 @@
 				[
 					[
 						"SC Lyric Event",
-						"Oh no, that's not",
+						"Oh no that's not.",
 						"1"
 					]
 				]
@@ -37,7 +47,7 @@
 					[
 						"SC Lyric Event",
 						"Shut the fuck up!",
-						"2"
+						"1.1"
 					]
 				]
 			],
@@ -46,8 +56,8 @@
 				[
 					[
 						"SC Lyric Event",
-						"I gonna break my phone!",
-						"2"
+						"I'm gonna break my phone!",
+						"1.1"
 					]
 				]
 			],
@@ -56,8 +66,8 @@
 				[
 					[
 						"SC Lyric Event",
-						"Because I wanna smash my fucking phone.",
-						"2"
+						"Because I want to smash my fucking phone.",
+						"2.3"
 					]
 				]
 			],
@@ -66,88 +76,148 @@
 				[
 					[
 						"Set Cam Zoom",
-						"0.6",
-						"0.6"
-					],
-					[
-						"Flash Camera",
-						"1",
-						""
-					],
-					[
-						"Cinematics",
-						"",
-						"2"
+						"0.9",
+						"0.0001"
 					]
 				]
 			],
 			[
-				72204.5454545454,
+				19227.2727272727,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.0001"
+					]
+				]
+			],
+			[
+				19363.6363636364,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.0001"
+					]
+				]
+			],
+			[
+				19500,
 				[
 					[
 						"Set Cam Zoom",
 						"1.2",
-						"0.6"
-					],
-					[
-						"SC Lyric Event",
-						"Fucking idiot.",
-						"1"
-					],
-					[
-						"Cinematics",
-						"1",
-						""
+						"0.0001"
 					]
 				]
 			],
 			[
-				73431.8181818181,
-				[
-					[
-						"SC Lyric Event",
-						"I'm about to break my phone!",
-						"3"
-					]
-				]
-			],
-			[
-				77522.7272727272,
-				[
-					[
-						"SC Lyric Event",
-						"Do you want fucking phone?",
-						"2"
-					]
-				]
-			],
-			[
-				80249.9999999999,
-				[
-					[
-						"SC Lyric Event",
-						"Holy shit!",
-						"1"
-					]
-				]
-			],
-			[
-				82909.0909090908,
+				19636.3636363636,
 				[
 					[
 						"Set Cam Zoom",
 						"0.6",
 						"0.6"
-					],
+					]
+				]
+			],
+			[
+				36000,
+				[
 					[
-						"Flash Camera",
+						"Set Cam Zoom",
+						"0.7",
+						"0.0001"
+					]
+				]
+			],
+			[
+				36136.3636363637,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.0001"
+					]
+				]
+			],
+			[
+				36272.7272727273,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.0001"
+					]
+				]
+			],
+			[
+				36409.0909090909,
+				[
+					[
+						"Set Cam Zoom",
 						"1",
-						""
-					],
+						"0.0001"
+					]
+				]
+			],
+			[
+				36545.4545454546,
+				[
 					[
-						"Cinematics",
-						"",
-						"2"
+						"Set Cam Zoom",
+						"1.1",
+						"0.0001"
+					]
+				]
+			],
+			[
+				36681.8181818182,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.0001"
+					]
+				]
+			],
+			[
+				36818.1818181818,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.0001"
+					]
+				]
+			],
+			[
+				36954.5454545455,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.0001"
+					]
+				]
+			],
+			[
+				43090.9090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.8"
+					]
+				]
+			],
+			[
+				43363.6363636364,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						"0.8"
 					]
 				]
 			]

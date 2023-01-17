@@ -2,62 +2,62 @@
 	"animations": [
 		{
 			"offsets": [
-				192,
-				123
+				62,
+				63
 			],
 			"loop": false,
-			"fps": 16,
+			"fps": 14,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "cheat left"
+			"name": "cheater left"
 		},
 		{
 			"offsets": [
-				-105,
-				100
+				-135,
+				130
 			],
 			"loop": false,
-			"fps": 16,
+			"fps": 14,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "cheat down"
+			"name": "cheater down"
 		},
 		{
 			"offsets": [
-				15,
+				5,
 				100
 			],
 			"loop": false,
-			"fps": 16,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cheater up"
+		},
+		{
+			"offsets": [
+				-60,
+				90
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cheater right"
+		},
+		{
+			"offsets": [
+				-70,
+				90
+			],
+			"loop": false,
+			"fps": 14,
 			"anim": "idle",
 			"indices": [],
-			"name": "cheat idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-95,
-				260
-			],
-			"anim": "singUP",
-			"fps": 16,
-			"name": "cheat up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				139
-			],
-			"anim": "singRIGHT",
-			"fps": 16,
-			"name": "cheat right",
-			"indices": []
+			"name": "cheater idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/cheat",
+	"image": "characters/Expunged/cheater",
 	"position": [
 		0,
 		-20
@@ -70,9 +70,9 @@
 		58
 	],
 	"camera_position": [
-		-230,
+		-130,
 		-10
 	],
-	"sing_duration": 7.49999999999999,
+	"sing_duration": 6,
 	"scale": 1
 }

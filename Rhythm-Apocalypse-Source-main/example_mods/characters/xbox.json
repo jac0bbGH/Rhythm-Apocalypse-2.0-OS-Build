@@ -1,19 +1,19 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "xbox live",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "xbox live"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/xbox",
+	"image": "characters/jokes/xbox",
 	"position": [
 		0,
 		0

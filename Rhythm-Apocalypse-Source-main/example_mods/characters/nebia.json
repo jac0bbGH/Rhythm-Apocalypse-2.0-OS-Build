@@ -3,29 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				60,
-				22
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				27,
-				-50
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-1,
+				0,
 				0
 			],
 			"anim": "idle",
@@ -36,8 +14,30 @@
 		{
 			"loop": false,
 			"offsets": [
-				46,
-				-2
+				80,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				80
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				23
+				-30,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/nebia",
+	"image": "characters/Extras/nebia",
 	"position": [
-		-600,
-		-200
+		-370,
+		-150
 	],
 	"healthicon": "nebia",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		132
 	],
 	"camera_position": [
-		-20,
-		30
+		0,
+		0
 	],
-	"sing_duration": 3.6,
+	"sing_duration": 6.1,
 	"scale": 1
 }

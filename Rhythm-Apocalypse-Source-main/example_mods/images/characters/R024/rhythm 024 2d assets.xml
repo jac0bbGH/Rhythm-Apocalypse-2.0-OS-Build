@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rhythm 024 2d assets.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownNebia0000" x="0" y="0" width="1633" height="1802" frameX="0" frameY="-202" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0001" x="0" y="0" width="1633" height="1802" frameX="0" frameY="-202" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0002" x="1633" y="0" width="1750" height="1730" frameX="-37" frameY="-274" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0003" x="1633" y="0" width="1750" height="1730" frameX="-37" frameY="-274" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0004" x="3383" y="0" width="1551" height="1782" frameX="-205" frameY="-223" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0005" x="3383" y="0" width="1551" height="1782" frameX="-205" frameY="-223" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0006" x="3383" y="0" width="1551" height="1782" frameX="-205" frameY="-223" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0007" x="3383" y="0" width="1551" height="1782" frameX="-205" frameY="-223" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0008" x="3383" y="0" width="1551" height="1782" frameX="-205" frameY="-223" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="DownNebia0009" x="4934" y="0" width="1273" height="2005" frameX="-284" frameY="0" frameWidth="1787" frameHeight="2005"/>
+	<SubTexture name="IdleNebia0000" x="6207" y="0" width="1547" height="1906" frameX="0" frameY="0" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0001" x="6207" y="0" width="1547" height="1906" frameX="0" frameY="0" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0002" x="0" y="2005" width="1598" height="1878" frameX="-26" frameY="-23" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0003" x="0" y="2005" width="1598" height="1878" frameX="-26" frameY="-23" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0004" x="1598" y="2005" width="1718" height="1679" frameX="-22" frameY="-157" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0005" x="1598" y="2005" width="1718" height="1679" frameX="-22" frameY="-157" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0006" x="3316" y="2005" width="1686" height="1562" frameX="-92" frameY="-188" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0007" x="3316" y="2005" width="1686" height="1562" frameX="-92" frameY="-188" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0008" x="5002" y="2005" width="1676" height="1558" frameX="-108" frameY="-193" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0009" x="5002" y="2005" width="1676" height="1558" frameX="-108" frameY="-193" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0010" x="5002" y="2005" width="1676" height="1558" frameX="-108" frameY="-193" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0011" x="5002" y="2005" width="1676" height="1558" frameX="-108" frameY="-193" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0012" x="5002" y="2005" width="1676" height="1558" frameX="-108" frameY="-193" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="IdleNebia0013" x="5002" y="2005" width="1676" height="1558" frameX="-108" frameY="-193" frameWidth="1784" frameHeight="1906"/>
+	<SubTexture name="LeftNebia0000" x="6678" y="2005" width="1386" height="1867" frameX="0" frameY="0" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0001" x="6678" y="2005" width="1386" height="1867" frameX="0" frameY="0" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0002" x="0" y="3883" width="1544" height="1734" frameX="-39" frameY="-133" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0003" x="0" y="3883" width="1544" height="1734" frameX="-39" frameY="-133" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0004" x="1544" y="3883" width="1670" height="1704" frameX="-71" frameY="-164" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0005" x="1544" y="3883" width="1670" height="1704" frameX="-71" frameY="-164" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0006" x="1544" y="3883" width="1670" height="1704" frameX="-71" frameY="-164" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0007" x="1544" y="3883" width="1670" height="1704" frameX="-71" frameY="-164" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0008" x="1544" y="3883" width="1670" height="1704" frameX="-71" frameY="-164" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="LeftNebia0009" x="3214" y="3883" width="1729" height="1503" frameX="-107" frameY="-365" frameWidth="1836" frameHeight="1868"/>
+	<SubTexture name="RightNebia0000" x="4943" y="3883" width="1730" height="1830" frameX="-135" frameY="0" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0001" x="4943" y="3883" width="1730" height="1830" frameX="-135" frameY="0" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0002" x="0" y="5713" width="1759" height="1677" frameX="-111" frameY="-153" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0003" x="0" y="5713" width="1759" height="1677" frameX="-111" frameY="-153" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0004" x="1759" y="5713" width="1718" height="1592" frameX="-22" frameY="-237" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0005" x="1759" y="5713" width="1718" height="1592" frameX="-22" frameY="-237" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0006" x="1759" y="5713" width="1718" height="1592" frameX="-22" frameY="-237" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0007" x="1759" y="5713" width="1718" height="1592" frameX="-22" frameY="-237" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0008" x="1759" y="5713" width="1718" height="1592" frameX="-22" frameY="-237" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="RightNebia0009" x="3477" y="5713" width="1702" height="1589" frameX="0" frameY="-241" frameWidth="1870" frameHeight="1830"/>
+	<SubTexture name="UpNebia0000" x="5179" y="5713" width="1348" height="1750" frameX="-410" frameY="-30" frameWidth="2155" frameHeight="1781"/>
+	<SubTexture name="UpNebia0001" x="5179" y="5713" width="1348" height="1750" frameX="-410" frameY="-30" frameWidth="2155" frameHeight="1781"/>
+	<SubTexture name="UpNebia0002" x="6527" y="5713" width="1660" height="1780" frameX="-227" frameY="0" frameWidth="2155" frameHeight="1781"/>
+	<SubTexture name="UpNebia0003" x="6527" y="5713" width="1660" height="1780" frameX="-227" frameY="0" frameWidth="2155" frameHeight="1781"/>
+</TextureAtlas>

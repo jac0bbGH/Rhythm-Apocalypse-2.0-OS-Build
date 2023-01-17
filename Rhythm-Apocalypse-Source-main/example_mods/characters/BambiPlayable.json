@@ -1,107 +1,107 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				-74
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "bambi idle"
+			"fps": 24,
+			"name": "bambi idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-106,
 				-76
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "bambi left"
+			"fps": 24,
+			"name": "bambi left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-92,
 				-97
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "bambi down"
+			"fps": 24,
+			"name": "bambi down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-90,
 				-34
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "bambi up"
+			"fps": 24,
+			"name": "bambi up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				-68
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "bambi right"
+			"fps": 24,
+			"name": "bambi right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "bambi phone",
-			"indices": []
+			"indices": [],
+			"name": "bambi phone"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "bambi phone",
-			"indices": []
+			"indices": [],
+			"name": "bambi phone"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "bambi phone",
-			"indices": []
+			"indices": [],
+			"name": "bambi phone"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"anim": "singRIGHT-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi phone",
-			"indices": []
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "bambi phone"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/penis monkey attack 1",
+	"image": "characters/Bambi/penis monkey attack 1",
 	"position": [
 		70,
 		280

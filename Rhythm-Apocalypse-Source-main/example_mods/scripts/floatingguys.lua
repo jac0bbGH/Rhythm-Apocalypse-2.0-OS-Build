@@ -1,6 +1,6 @@
 --add your 3d char here
-floaters = {'nebiaCool', 'FutureDave', 'bamndewCool', 'bamboogle', 'cheat', 'unfairnew', 'erm', 'xbox'}
-exclude = {'bernard', 'retgar', 'bfPaint3D'} --only apply the 3d notes
+floaters = {'Nebia', 'FutureDave', 'Bamndew', 'CheatingExpunged', 'UnfairnessExpunged', 'TrueExpunged', 'xbox'}
+exclude = {'Bernard', 'Retgar'} --only apply the 3d notes
 shitters = {}
 elapsedTime = 0
 function onCreate()

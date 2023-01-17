@@ -5,21 +5,21 @@
 				15,
 				-86
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi left"
 		},
 		{
 			"offsets": [
-				-92,
-				-86
+				-42,
+				-96
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi down"
 		},
 		{
@@ -27,10 +27,10 @@
 				-100,
 				-60
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi up"
 		},
 		{
@@ -38,10 +38,10 @@
 				-90,
 				-77
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi right"
 		},
 		{
@@ -49,10 +49,10 @@
 				-20,
 				-13
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT-alt",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi phone"
 		},
 		{
@@ -60,10 +60,10 @@
 				-20,
 				-13
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN-alt",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi phone"
 		},
 		{
@@ -71,10 +71,10 @@
 				-20,
 				-13
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP-alt",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi phone"
 		},
 		{
@@ -82,26 +82,26 @@
 				-20,
 				-13
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi phone"
 		},
 		{
 			"offsets": [
-				-110,
-				-70
+				-70,
+				-80
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "a_bambi idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/PENIS MONKEY AH",
+	"image": "characters/Bambi/PENIS MONKEY AH",
 	"position": [
 		-50,
 		280

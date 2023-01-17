@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "bambi insane idle"
+			"fps": 24,
+			"name": "bambi insane idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				790,
 				-90
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "bambi insane left"
+			"fps": 24,
+			"name": "bambi insane left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-660,
 				-160
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "bambi insane down"
+			"fps": 24,
+			"name": "bambi insane down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-610,
 				590
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "bambi insane up"
+			"fps": 24,
+			"name": "bambi insane up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-690,
 				70
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "bambi insane right"
+			"fps": 24,
+			"name": "bambi insane right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/insane bambi",
+	"image": "characters/Bambi/insane bambi",
 	"position": [
 		-580,
 		0

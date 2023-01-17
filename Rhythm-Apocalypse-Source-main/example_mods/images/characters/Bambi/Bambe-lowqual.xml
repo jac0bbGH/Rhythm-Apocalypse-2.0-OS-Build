@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bambe.png">
+<SubTexture name="idle0000" x="0" y="2430" width="615" height="699" frameX="-427" frameY="-597" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0001" x="2456" y="1487" width="608" height="706" frameX="-431" frameY="-591" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0002" x="1866" y="777" width="589" height="775" frameX="-429" frameY="-518" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0003" x="1866" y="0" width="590" height="777" frameX="-422" frameY="-516" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0004" x="0" y="1655" width="589" height="775" frameX="-419" frameY="-518" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="down0000" x="1231" y="2430" width="625" height="638" frameX="-397" frameY="-662" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="down0001" x="615" y="2430" width="616" height="654" frameX="-397" frameY="-648" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="right0000" x="589" y="1655" width="720" height="769" frameX="-515" frameY="-534" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="right0001" x="654" y="862" width="664" height="787" frameX="-516" frameY="-519" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="up0000" x="0" y="0" width="596" height="862" frameX="-416" frameY="-436" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="up0001" x="596" y="0" width="596" height="830" frameX="-416" frameY="-468" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="left0000" x="1192" y="0" width="674" height="799" frameX="-205" frameY="-508" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="left0001" x="0" y="862" width="654" height="793" frameX="-255" frameY="-521" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="woah0000" x="2456" y="0" width="907" height="744" frameX="-151" frameY="-554" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="woah0001" x="2456" y="744" width="895" height="743" frameX="-162" frameY="-555" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="woah0002" x="1309" y="1655" width="855" height="755" frameX="-184" frameY="-543" frameWidth="1600" frameHeight="1600" />
+</TextureAtlas>
