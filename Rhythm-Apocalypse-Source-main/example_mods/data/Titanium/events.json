@@ -7,7 +7,7 @@
 					[
 						"Change Character",
 						"dad",
-						"guitar man if good"
+						"BambiGuitar"
 					],
 					[
 						"Play Animation",
@@ -20,12 +20,22 @@
 				41513.5135135135,
 				[
 					[
-						"Change Character",
-						"dad",
-						"guitar man if good"
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
 					],
 					[
-						"Flash Camera",
+						"Cinematics",
 						"1",
 						""
 					]
@@ -37,12 +47,22 @@
 					[
 						"Change Character",
 						"dad",
-						"dbambi n funny 2"
+						"Bambi"
 					],
 					[
 						"Flash Camera",
 						"1",
 						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
 					]
 				]
 			],
@@ -52,7 +72,7 @@
 					[
 						"Change Character",
 						"dad",
-						"guitar man if good"
+						"BambiGuitar"
 					],
 					[
 						"Play Animation",
@@ -68,6 +88,16 @@
 						"Flash Camera",
 						"1",
 						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
 					]
 				]
 			],
@@ -82,12 +112,17 @@
 					[
 						"Change Character",
 						"dad",
-						"dbambi n funny mad if good"
+						"Bambi"
 					],
 					[
-						"stage test",
-						"bambis-farm-night",
-						""
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
 					]
 				]
 			]
