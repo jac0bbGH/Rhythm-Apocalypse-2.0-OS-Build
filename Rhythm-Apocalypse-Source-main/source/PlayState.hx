@@ -3088,6 +3088,13 @@ class PlayState extends MusicBeatState
 		callOnLuas('onUpdate', [elapsed]);
 		callOnHScripts('update', [elapsed]);
 
+		
+		if (FlxG.keys.pressed.FIVE)
+			{
+				openSubState(new ResultsScreenSubstate());
+			}
+
+
 		switch (curStage)
 		{
 			case 'tank':
