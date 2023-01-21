@@ -7,7 +7,7 @@
 -- ps., my code probably sucks and could be done better, lmao
 
 local hexcode = "820c1b" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
-local composer = "YoshiRBLX & Objectshowmaster"
+local composer = "NoxturnalMusic & Objectshowmaster"
 local charter = "EliteHimself"
 local bonusnote = "The song was gonna be named Malfunction but yknow' why we didn't use that."
 local bonusnoteon = true

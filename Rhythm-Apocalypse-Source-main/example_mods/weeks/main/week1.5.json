@@ -3,14 +3,18 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "Tristan",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Interstellar",
@@ -29,13 +33,18 @@
 				65,
 				73
 			]
+		],
+		[
+			"Aureum",
+			"golden",
+			[
+				255,
+				193,
+				0
+			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "TristanWeekRA"
+	"hideStoryMode": false,
+	"weekName": "TristanWeekRA",
+	"hiddenUntilUnlocked": false
 }

@@ -3,6 +3,16 @@ function onCreate()
 	makeLuaSprite('DayBG','bambi/sky',-608,-500)
 	addLuaSprite('DayBG',false)
 	setLuaSpriteScrollFactor('DayBG', 0.1, 0.1)
+
+	makeLuaSprite('NoonBG','bambi/noon',-608,-500)
+	addLuaSprite('NoonBG',false)
+	setLuaSpriteScrollFactor('NoonBG', 0.1, 0.1)
+	setProperty('NoonBG.alpha', 0)
+
+	makeLuaSprite('NightBG','bambi/stars', -680,-500)
+	addLuaSprite('NightBG',false)
+	setLuaSpriteScrollFactor('NightBG', 0.1, 0.1)
+	setProperty('NightBG.alpha', 0)
 	
 	makeLuaSprite('Hills','dave/hills', -652, -20)
 	addLuaSprite('Hills',false)

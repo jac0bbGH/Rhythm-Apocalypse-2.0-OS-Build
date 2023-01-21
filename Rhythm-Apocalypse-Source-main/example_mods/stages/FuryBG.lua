@@ -19,10 +19,18 @@ local totalTime = 0.0
 function onUpdatePost(elapsed)
     totalTime = totalTime + elapsed
 
-    setScrollFactor("gf", 0.6, 0.6)
-    setProperty("gf.scale.x",0.8)
-    setProperty("gf.scale.y",0.8)
-    setProperty("gf.y",250+math.sin(totalTime*math.pi/3)*200)
-    setProperty("gf.x",-1000+(totalTime*400%3500))
-    setProperty("gf.angle",totalTime*40)
+    setScrollFactor("wtfd", 0.6, 0.6)
+    setProperty("wtfd.scale.x",2)
+    setProperty("wtfd.scale.y",2)
+    setProperty("wtfd.y",-550+math.sin(totalTime*math.pi/3)*200)
+    setProperty("wtfd.x",-1000+(totalTime*400%3500))
+    setProperty("wtfd.angle",totalTime*40)
 end
+
+function onCreatePost ()
+
+	addChromaticAbberationEffect ('camhud', 0.003)
+	addChromaticAbberationEffect ('camgame', 0.003)
+	addBloomEffect ('camhud', 0.04)
+	addBloomEffect ('camgame', 0.04)
+	end

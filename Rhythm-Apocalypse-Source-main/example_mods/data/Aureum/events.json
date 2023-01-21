@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				15600,
+				[
+					[
+						"Toggle FlxTrail",
+						"on",
+						"on"
+					]
+				]
+			]
+		]
+	}
+}

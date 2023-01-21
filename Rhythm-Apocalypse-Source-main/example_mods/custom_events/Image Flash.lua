@@ -1,7 +1,7 @@
 function onEvent(name, value1, value2)
 	if name == "Image Flash" then
 		makeLuaSprite('image', value1, 0, 0);
-		scaleObject('image', 1.8, 1.8)
+		scaleObject('image', 1.1, 1.1)
 		addLuaSprite('image', true);
 		doTweenColor('hello', 'image', 'FFFFFFFF', 0.5, 'quartIn');
 		setObjectCamera('image', 'other');

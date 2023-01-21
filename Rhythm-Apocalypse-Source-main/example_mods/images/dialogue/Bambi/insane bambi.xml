@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="insane bambi.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bambi insane down0000" x="0" y="0" width="518" height="994"/>
+	<SubTexture name="bambi insane down0001" x="0" y="0" width="518" height="994"/>
+	<SubTexture name="bambi insane down0002" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0003" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0004" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0005" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0006" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0007" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0008" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0009" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0010" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0011" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0012" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0013" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane down0014" x="518" y="0" width="518" height="819" frameX="0" frameY="0" frameWidth="518" frameHeight="994"/>
+	<SubTexture name="bambi insane idle0000" x="1036" y="0" width="1994" height="355" frameX="0" frameY="-431" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0001" x="3030" y="0" width="1318" height="453" frameX="-338" frameY="-339" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0002" x="4348" y="0" width="1036" height="575" frameX="-479" frameY="-219" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0003" x="5384" y="0" width="819" height="650" frameX="-587" frameY="-144" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0004" x="6203" y="0" width="652" height="735" frameX="-671" frameY="-59" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0005" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0006" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0007" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0008" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0009" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0010" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0011" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0012" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0013" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane idle0014" x="6855" y="0" width="591" height="795" frameX="-701" frameY="0" frameWidth="1994" frameHeight="795"/>
+	<SubTexture name="bambi insane left0000" x="0" y="994" width="1882" height="720"/>
+	<SubTexture name="bambi insane left0001" x="0" y="994" width="1882" height="720"/>
+	<SubTexture name="bambi insane left0002" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0003" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0004" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0005" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0006" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0007" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0008" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0009" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0010" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0011" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0012" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0013" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane left0014" x="1882" y="994" width="1429" height="720" frameX="-443" frameY="0" frameWidth="1882" frameHeight="720"/>
+	<SubTexture name="bambi insane right0000" x="3311" y="994" width="1835" height="934"/>
+	<SubTexture name="bambi insane right0001" x="3311" y="994" width="1835" height="934"/>
+	<SubTexture name="bambi insane right0002" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0003" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0004" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0005" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0006" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0007" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0008" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0009" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0010" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0011" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0012" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0013" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane right0014" x="5146" y="994" width="1180" height="934" frameX="-20" frameY="0" frameWidth="1835" frameHeight="934"/>
+	<SubTexture name="bambi insane up0000" x="6326" y="994" width="708" height="1442"/>
+	<SubTexture name="bambi insane up0001" x="6326" y="994" width="708" height="1442"/>
+	<SubTexture name="bambi insane up0002" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0003" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0004" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0005" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0006" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0007" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0008" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0009" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0010" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0011" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0012" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0013" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+	<SubTexture name="bambi insane up0014" x="7034" y="994" width="708" height="1081" frameX="0" frameY="-359" frameWidth="708" frameHeight="1442"/>
+</TextureAtlas>

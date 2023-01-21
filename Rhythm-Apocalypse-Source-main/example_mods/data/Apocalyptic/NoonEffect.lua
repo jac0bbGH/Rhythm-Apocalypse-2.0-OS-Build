@@ -15,8 +15,4 @@ function onUpdate(elapsed)
 		doTweenAlpha('TurningNoon2', 'NoonBG', 1, 60, quadOut)
 	end
 
-	if curStep == 700 then
-		doTweenAlpha('TurningNoon', 'NoonEffect', 0, 20, quadIn)
-	end
-
 end

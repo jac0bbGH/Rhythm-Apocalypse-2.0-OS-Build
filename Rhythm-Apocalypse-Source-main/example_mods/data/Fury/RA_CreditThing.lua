@@ -7,8 +7,8 @@
 -- ps., my code probably sucks and could be done better, lmao
 
 local hexcode = "ff002b" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
-local composer = "YoshiRBLX"
-local charter = "Yinai & hydration"
+local composer = "NoxturnalMusic"
+local charter = "Anonymous & hydration"
 local bonusnote = "This song is Angry-Assualt V2, if you know you know."
 local bonusnoteon = true
 

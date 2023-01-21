@@ -4,6 +4,16 @@ function onCreate()
 	addLuaSprite('DayBG',false)
 	setLuaSpriteScrollFactor('DayBG', 0.1, 0.1)
 
+	makeLuaSprite('NoonBG','bambi/noon',-608,-500)
+	addLuaSprite('NoonBG',false)
+	setLuaSpriteScrollFactor('NoonBG', 0.1, 0.1)
+	setProperty('NoonBG.alpha', 0)
+
+	makeLuaSprite('NightBG','bambi/stars', -680,-500)
+	addLuaSprite('NightBG',false)
+	setLuaSpriteScrollFactor('NightBG', 0.1, 0.1)
+	setProperty('NightBG.alpha', 0)
+
 	makeLuaSprite('flatgrass','bambi/gm_flatgrass', -55, -150)
 	addLuaSprite('flatgrass',false)
 	setLuaSpriteScrollFactor('flatgrass', 0.3, 0.3)

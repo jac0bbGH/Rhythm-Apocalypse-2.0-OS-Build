@@ -7,8 +7,8 @@
 -- ps., my code probably sucks and could be done better, lmao
 
 local hexcode = "85ffa3" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
-local composer = "Objectshowmaster & YoshiRBLX"
-local charter = "Objectshowmaster"
+local composer = "Objectshowmaster"
+local charter = "ReeVrze"
 local bonusnote = "Nebia is the mascot of this mod, expect to see more of her in V2."
 local bonusnoteon = true
 
