@@ -11,11 +11,12 @@ import flixel.FlxCamera;
 import flixel.util.FlxTimer;
 import flixel.group.FlxGroup.FlxTypedGroup;
 
-class ResultsScreenSubstate extends MusicBeatSubstate 
+class ResultsScreenSubState extends MusicBeatSubstate 
 {
 
     var rankTxtGRP:FlxTypedGroup<FlxText>;
     var statsTxtGRP:FlxTypedGroup<FlxText>;
+    var bottomtxt:FlxText;
     var statsToRecord:Array<String> = [
         'Accuracy: ',
         'Misses: ',
@@ -46,12 +47,16 @@ class ResultsScreenSubstate extends MusicBeatSubstate
         blackThing.cameras = [resultsCam];
         add(blackThing);
 
-        songTxt = new FlxText(46, 0, 0, 'funky music' + ' Completed!', 34);
+        songTxt = new FlxText(46, 0, 0, PlayState.SONG.song + ' Completed!', 34);
         songTxt.font = Paths.font('osuItalic.ttf');
         songTxt.color = FlxColor.LIME;
         songTxt.cameras = [resultsCam];
         add(songTxt);
 
+        bottomtxt = new FlxText(0, 680, 0, 'Press ACCEPT to go back to freeplay. Press BACK to restart.', 34);
+        bottomtxt.cameras = [resultsCam];
+        bottomtxt.setFormat(Paths.font('osu.ttf'), bottomtxt.size, FlxColor.WHITE, null, FlxTextBorderStyle.OUTLINE, FlxColor.BLUE);
+        add(bottomtxt);
         for(stats in 0...statsToRecord.length)
         {
             var statFiller = new FlxText(-500, 200, 0, '', 36);
@@ -63,10 +68,11 @@ class ResultsScreenSubstate extends MusicBeatSubstate
         }
         add(statsTxtGRP);
 
+
         for(rank in 0...2)
         {
             var rankTxt = new FlxText(0, 0, 0, '', 1);
-            rankTxt.setFormat(Paths.font('osuItalic.ttf'), rankTxt.size, 0xFFD000FF, rank == 0 ? null : FlxTextAlign.CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.WHITE);
+            rankTxt.setFormat(Paths.font('osuItalic.ttf'), rankTxt.size, 0xFFD000FF, FlxTextAlign.CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.WHITE);
             rankTxt.cameras = [resultsCam];
             switch(rank)
             {
@@ -85,6 +91,28 @@ class ResultsScreenSubstate extends MusicBeatSubstate
             rankTxtGRP.add(rankTxt);
         }
         add(rankTxtGRP);
+
+        rankTxtGRP.members[1].text = PlayState.instance.ratingName;
+        switch(PlayState.instance.ratingName)
+        {
+            case 'APOCALYPSE':
+                rankTxtGRP.members[0].text = 'AAA';
+                rankTxtGRP.members[0].x -= 180;
+            case 'RHYTHMIC':
+                rankTxtGRP.members[0].text = 'AA';
+            case 'OUTSTANDING':
+                rankTxtGRP.members[0].text = 'A';
+            case 'Great':
+                rankTxtGRP.members[0].text = 'AB';
+            case 'Okay!': 
+                rankTxtGRP.members[0].text = 'C';
+            case 'Not too bad..':
+                rankTxtGRP.members[0].text = 'D';
+            case 'Man get better', 'How do you even get here', 'Phone Breakingly BAD':
+                rankTxtGRP.members[0].text = 'F';
+            default:
+                rankTxtGRP.members[0].text = 'BOT';
+        }
 
         updateStatsTxts();
         tweenTxts(); 
@@ -129,30 +157,11 @@ class ResultsScreenSubstate extends MusicBeatSubstate
 
 
         if (controls.ACCEPT)
-            MusicBeatState.switchState(new FreeplayState());
+            new FlxTimer().start(0.25, (tmr) -> MusicBeatState.switchState(new FreeplayState()));
         else if (controls.BACK)
-            MusicBeatState.switchState(new PlayState());
+            new FlxTimer().start(0.25, (tmr) -> MusicBeatState.switchState(new PlayState()));
 
 
-        rankTxtGRP.members[1].text = PlayState.instance.ratingName;
-        switch(PlayState.instance.ratingName)
-        {
-            case 'APOCALYPSE':
-                rankTxtGRP.members[0].text = 'AAA';
-            case 'RHYTHMIC':
-                rankTxtGRP.members[0].text = 'AA';
-            case 'OUTSTANDING':
-                rankTxtGRP.members[0].text = 'A';
-            case 'Great':
-                rankTxtGRP.members[0].text = 'AB';
-            case 'Okay!': 
-                rankTxtGRP.members[0].text = 'C';
-            case 'Not too bad..':
-                rankTxtGRP.members[0].text = 'D';
-            case 'Man get better', 'How do you even get here', 'Phone Breakingly BAD':
-                rankTxtGRP.members[0].text = 'F';
-            default:
-                rankTxtGRP.members[0].text = 'nothing??';
-        }
+     
     }
 }
