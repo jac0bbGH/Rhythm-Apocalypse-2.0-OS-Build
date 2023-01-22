@@ -6,14 +6,17 @@
 
 -- ps., my code probably sucks and could be done better, lmao
 
-local hexcode = "148c1e" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
-local composer = "YoshiRBLX"
-local charter = "Sider"
-local bonusnote = "This song had to get four versions."
-local bonusnoteon = true
+
 
 -- now you may be wondering, "anonymous, why the hell did you make the text creation, sprite creation and movement into functions?
--- idk convenience I guess lmao, and to not clutter everything at the top, even though I could just do that
+-- idk convenience I guess lmao, and to not clutter everything at the top, even though I could just do th
+
+
+	local hexcode = "148c1e" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
+	local composer = "YoshiRBLX"
+	local charter = "Sider"
+	local bonusnote = "This song was originally gonna be Oh-Shit v5"
+	local bonusnoteon = true
 
 local function creditThingCreate()
 	makeLuaSprite('creditthing', 'credit_thingy', -1280, 0)
@@ -73,4 +76,3 @@ function onTweenCompleted(tag)
 		removeLuaText('bonus')
 	end
 end
-		

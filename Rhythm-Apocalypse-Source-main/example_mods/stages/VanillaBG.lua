@@ -25,6 +25,10 @@ function onCreate()
 	addGlitchEffect('vanBG', 2, 2)
 	setProperty('vanBG.antialiasing', false)
 
+	makeLuaSprite('Galaxy', 'vanilla/GreenGalaxy', -3000, -2900);
+	scaleObject('Galaxy', 2.1, 2.1);
+	addLuaSprite('Galaxy')
+
 end
 
 local totalTime = 0.0
