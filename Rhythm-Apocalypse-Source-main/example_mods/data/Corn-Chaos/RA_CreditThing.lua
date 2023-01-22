@@ -8,7 +8,7 @@
 
 local hexcode = "148c1e" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
 local composer = "MrDragadon"
-local charter = "Sider"
+local charter = "Ninten"
 local bonusnote = "This song was originally gonna be Oh-Shit v5"
 local bonusnoteon = true
 
