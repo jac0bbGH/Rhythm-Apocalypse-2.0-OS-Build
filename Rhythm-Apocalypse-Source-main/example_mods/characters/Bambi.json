@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-70,
 				-74
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "bambi idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-6,
 				-76
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambi left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-62,
 				-97
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambi down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				-40
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambi up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-99,
 				-68
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi right",
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambi right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "bambi phone",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "bambi phone"
-		},
-		{
-			"offsets": [
-				10,
-				-20
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "bambi phone"
+			"fps": 24,
+			"name": "bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "bambi phone"
+			"fps": 24,
+			"name": "bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "bambi phone"
+			"fps": 24,
+			"name": "bambi phone",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -111,7 +111,7 @@
 	"healthbar_colors": [
 		63,
 		184,
-		83
+		63
 	],
 	"camera_position": [
 		90,

@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				-86
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "a_bambi left"
+			"fps": 24,
+			"name": "a_bambi left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-42,
 				-96
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "a_bambi down"
+			"fps": 24,
+			"name": "a_bambi down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-100,
 				-60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "a_bambi up"
+			"fps": 24,
+			"name": "a_bambi up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-90,
 				-77
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "a_bambi right"
+			"fps": 24,
+			"name": "a_bambi right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-20,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-20,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-20,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-20,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				-80
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "a_bambi idle"
+			"fps": 24,
+			"name": "a_bambi idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
