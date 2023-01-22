@@ -34,6 +34,12 @@ class ResultsScreenSubState extends MusicBeatSubstate
     {
         super.create();
 
+        if (PlayState.instance.songMisses == 0)
+        {
+            if (PlayState.instance.sicks > 0) statsToRecord.push("SFC");
+			if (PlayState.instance.goods > 0) statsToRecord.push("GFC");
+			if (PlayState.instance.bads > 0 || PlayState.instance.shits > 0) statsToRecord.push("FC");
+        }
 
         rankTxtGRP = new FlxTypedGroup<FlxText>(0);
         statsTxtGRP = new FlxTypedGroup<FlxText>(0);
@@ -140,6 +146,7 @@ class ResultsScreenSubState extends MusicBeatSubstate
         statsTxtGRP.forEachAlive(function(element:FlxText){
             element.text += otherThings[s];
             trace(otherThings[s]);
+            if (s == 4) element.text = statsToRecord[s];
             s++;
         });
         if (PlayState.instance.ratingName == '?')
