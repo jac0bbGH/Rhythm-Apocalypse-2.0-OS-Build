@@ -41,7 +41,6 @@ end
 function opponentNoteHit(id, direction, noteType, isSustainNote)
         cameraShake(game, 0.020, 0.2)
         cameraSetTarget('dad')
-        doTweenZoom('camerazoom','camGame',0.35,0.20,'quadInOut')
         setProperty('health', getProperty('health') - 0 * ((getProperty('health')/1))/1)
         end
         function goodNoteHit(id, direction, noteType, isSustainNote)

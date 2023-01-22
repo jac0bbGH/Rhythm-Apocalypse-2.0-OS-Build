@@ -6536,7 +6536,7 @@
 		"song": "Utilization",
 		"disableDebugButtons": false,
 		"validScore": true,
-		"stage": "UnfairnessBG",
+		"stage": "TrueBG",
 		"arrowSkin": "",
 		"needsVoices": true,
 		"speed": 3.1,

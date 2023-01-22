@@ -1,10 +1,10 @@
 function onCreate()  
 
-	makeLuaSprite('unfair!', 'expunged/glitchyUnfairBG', -1800, -1132);
-	scaleObject('unfair!', 6, 6);
+	makeLuaSprite('unfair!', 'expunged/1000', -1200, -932);
+	scaleObject('unfair!', 4.2, 4.2);
 	setProperty('unfair!.antialiasing', false)
 	addLuaSprite('unfair!')
-	addGlitchEffect('unfair!', 2, 2)
+	addGlitchEffect('unfair!', 3.4, 3.4)
 
 end
 

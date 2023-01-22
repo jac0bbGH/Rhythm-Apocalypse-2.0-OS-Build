@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				52,
-				73
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				57,
+				217
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 12,
+			"name": "left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				75,
-				50
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				-75,
+				20
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 12,
+			"name": "down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				95,
-				310
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				-45,
+				270
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 12,
+			"name": "up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				170,
-				154
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				-190,
+				234
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 12,
+			"name": "right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				100
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 12,
+			"name": "idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Expunged/Expungeded",
+	"image": "characters/Expunged/Expunged-uh",
 	"position": [
-		-790,
-		-250
+		-50,
+		90
 	],
 	"healthicon": "expungedreal",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		41
 	],
 	"camera_position": [
-		200,
-		50
+		-1620,
+		-1480
 	],
 	"sing_duration": 7.49999999999999,
-	"scale": 0.7
+	"scale": 3.1
 }
