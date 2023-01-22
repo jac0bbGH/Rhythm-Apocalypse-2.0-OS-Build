@@ -402,6 +402,7 @@ class TitleState extends MusicBeatState
 		credGroup.add(blackScreen);
 		blackScreen.screenCenter(X);
 		FlxTween.tween(blackScreen, {angle: 360}, 30, {type: PINGPONG});
+
 		
 		blackScreen2 = new FlxBackdrop(Paths.image('loading'), 0.2, 0, true, true);
 		blackScreen2.velocity.set(200, 0);
