@@ -1,8 +1,8 @@
 {
-	"storyName": "Stepping on The Farmland Again",
-	"difficulties": "Normal",
+	"storyName": "Dave's house!",
+	"difficulties": "",
 	"hideFreeplay": false,
-	"weekBackground": "bambi",
+	"weekBackground": "Tristan",
 	"freeplayColor": [
 		146,
 		113,
@@ -17,43 +17,34 @@
 	],
 	"songs": [
 		[
-			"Apocalyptic",
-			"bambi",
+			"Interstellar",
+			"tristan",
 			[
-				0,
-				193,
-				0
-			]
-		],
-		[
-			"Titanium",
-			"bambi",
-			[
-				0,
-				193,
-				0
-			]
-		],
-		[
-			"Corn-Chaos",
-			"madbambi",
-			[
-				0,
-				193,
-				0
-			]
-		],
-		[
-			"Fury",
-			"run",
-			[
-				246,
-				0,
+				255,
+				65,
 				73
+			]
+		],
+		[
+			"Lunar",
+			"tristan",
+			[
+				255,
+				65,
+				73
+			]
+		],
+		[
+			"Aureum",
+			"golden",
+			[
+				255,
+				193,
+				0
 			]
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "BambiWeekRA",
+	"weekName": "TristanWeekRA",
 	"hiddenUntilUnlocked": false
 }
