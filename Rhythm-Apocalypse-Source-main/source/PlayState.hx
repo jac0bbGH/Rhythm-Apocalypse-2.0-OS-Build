@@ -4306,10 +4306,11 @@ class PlayState extends MusicBeatState
 				trace('WENT BACK TO FREEPLAY??');
 				WeekData.loadTheFirstEnabledMod();
 				cancelMusicFadeTween();
-				if(FlxTransitionableState.skipNextTransIn) {
-					CustomFadeTransition.nextCamera = null;
-				}
-				MusicBeatState.switchState(new FreeplayState());
+				// if(FlxTransitionableState.skipNextTransIn) {
+				// 	CustomFadeTransition.nextCamera = null;
+				// }
+				bgColor = 0;
+				openSubState(new ResultsScreenSubState());
 				FlxG.sound.playMusic(Paths.music('freakyMenu'));
 				changedDifficulty = false;
 			}
