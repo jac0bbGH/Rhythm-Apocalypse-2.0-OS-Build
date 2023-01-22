@@ -4310,7 +4310,7 @@ class PlayState extends MusicBeatState
 				// 	CustomFadeTransition.nextCamera = null;
 				// }
 				bgColor = 0;
-				openSubState(new ResultsScreenSubstate());
+				openSubState(new ResultsScreenSubState());
 				FlxG.sound.playMusic(Paths.music('freakyMenu'));
 				changedDifficulty = false;
 			}
