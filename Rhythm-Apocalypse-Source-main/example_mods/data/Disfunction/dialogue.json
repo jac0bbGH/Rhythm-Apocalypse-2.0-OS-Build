@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "DaveInsanity",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh no.."
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "FutureDave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "         "
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "FutureDave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "God dammit, not again…"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "FutureDave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Looks like we’re gonna have to get ourselves out of this situation again."
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "FutureDave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry it had to come to this."
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uh? bee-"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "FutureDave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I prepared myself a robot suit, so this doesn't happen again..."
+		}
+	]
+}

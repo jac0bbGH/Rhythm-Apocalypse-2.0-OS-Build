@@ -8,7 +8,7 @@
 
 local hexcode = "8c00ff" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
 local composer = "Objectshowmaster"
-local charter = "Anonymous"
+local charter = "shammal"
 local bonusnote = "Bamndew has a redesign now lol"
 local bonusnoteon = true
 

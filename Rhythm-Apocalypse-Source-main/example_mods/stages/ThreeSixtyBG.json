@@ -4,15 +4,15 @@
 		0
 	],
 	"boyfriend": [
-		1095,
-		-50
+		400,
+		-680
 	],
 	"isPixelStage": false,
 	"opponent": [
-		0,
-		0
+		-1100,
+		-680
 	],
-	"hide_girlfriend": false,
+	"hide_girlfriend": true,
 	"directory": "",
-	"defaultZoom": 0.3
+	"defaultZoom": 0.7
 }

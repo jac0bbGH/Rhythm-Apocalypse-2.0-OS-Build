@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				50,
-				0
+				190,
+				120
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-10,
+				-41
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				125,
+				128
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				-30
+				-90,
+				-10
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -56,11 +56,11 @@
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Extras/bamndew",
 	"position": [
-		-330,
-		-40
+		-180,
+		40
 	],
 	"healthicon": "bamn",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		248
 	],
 	"camera_position": [
-		0,
-		0
+		-80,
+		-100
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.5
 }

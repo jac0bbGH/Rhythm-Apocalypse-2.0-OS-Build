@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Damn, BF, you’re still pretty talented."
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop beep bop boop!"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can tell you’ve been practicing for sure!"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, I’ve got this really chill track I think you guys would like, it’s called “Intergalactic.”"
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure, I’d love to hear it!"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo!"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Cool, well let’s go then!"
+		}
+	]
+}

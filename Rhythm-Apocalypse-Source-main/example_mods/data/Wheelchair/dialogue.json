@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, you two are back again?",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave"
+		},
+		{
+			"expression": "talk",
+			"text": "I haven’t seen you guys since the festival!",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave"
+		},
+		{
+			"expression": "talk",
+			"text": "I’d love to catch up with you, if that’s alright!",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave"
+		},
+		{
+			"expression": "talk",
+			"text": "We wanted to rematch, maybe?",
+			"boxState": "normal",
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh. Well I guess we can do that after the songs?",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea!",
+			"boxState": "normal",
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright then, we should get this started, I have some plans.\r\n",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave"
+		}
+	]
+}

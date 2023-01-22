@@ -1,15 +1,15 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "xbox live"
+			"fps": 24,
+			"name": "xbox live",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -21,9 +21,9 @@
 	"healthicon": "xbox",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		76,
+		255,
+		0
 	],
 	"camera_position": [
 		-120,

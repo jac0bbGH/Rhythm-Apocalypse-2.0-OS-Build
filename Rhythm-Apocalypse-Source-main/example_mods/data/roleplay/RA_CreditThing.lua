@@ -8,7 +8,7 @@
 
 local hexcode = "ffd900" -- to anyone reading, I would've gotten this from dad.healthColorArray with an rgb to hex script but the color and alpha completely break, so you gotta do it manually.
 local composer = "Objectshowmaster"
-local charter = "Anonymous"
+local charter = "AndrewIdot"
 local bonusnote = "Bernard & Retgar come from a D&B Roblox game by the name of Bambi OC RP."
 local bonusnoteon = true
 

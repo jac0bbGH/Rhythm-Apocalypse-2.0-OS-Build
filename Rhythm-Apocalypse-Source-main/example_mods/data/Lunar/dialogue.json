@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dang, you beat me. Welp, it was worth a shot.\r\n"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bap"
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go again? I’d be down, if that’s what you want."
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bo bee bo bee bo bap"
+		}
+	]
+}

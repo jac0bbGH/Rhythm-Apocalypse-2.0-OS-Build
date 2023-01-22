@@ -1,7 +1,7 @@
 function onCreate()
 	
-	makeLuaSprite('holyshitcringerobloxroleplay', 'roleplay/hopefullyNoOneNoticesThisShittyPhotoshopJobLol', -500, -300)
-	scaleObject('holyshitcringerobloxroleplay', 1.5, 1.5)
+	makeLuaSprite('holyshitcringerobloxroleplay', 'roleplay/hopefullyNoOneNoticesThisShittyPhotoshopJobLol', -500, -320)
+	scaleObject('holyshitcringerobloxroleplay', 1.7, 1.7)
 	updateHitbox('holyshitcringerobloxroleplay')
 	addLuaSprite('holyshitcringerobloxroleplay')
 

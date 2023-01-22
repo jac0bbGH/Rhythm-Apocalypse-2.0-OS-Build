@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry for all of that."
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Even though this has happened three times now.."
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I-"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let’s just go inside. You can stay at my house tonight if you need, because it’s probably a long way home."
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don’t worry about it."
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We just wanted to see how you were doing."
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "Dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks guys, hope you get home safely."
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo bee"
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Stop there!"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aren’t you two the ones who beat Sans from Undertale?"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How did you know about that?"
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You haven’t seen Indie Cross?"
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the fuck is an Indie Cross?"
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shh, don’t curse like that!"
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, I’ve been trying to practice my skills. Do you mind if we have a battle ourselves?"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, but we probably won’t stay long, it’s really late."
+		}
+	]
+}

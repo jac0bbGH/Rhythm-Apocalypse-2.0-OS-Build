@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/bambDialogue1",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I-I may have lost that battle..."
+		},
+		{
+			"sound": "dialogue/bambDialogue2",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But you have not seen how I epicly shred guitar!"
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Didn’t you just do that at the festival though?"
+		},
+		{
+			"sound": "dialogue/bambDialogue3",
+			"speed": 0.05,
+			"portrait": "Bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shut the fuck up I’m gonna go all out on your ass."
+		}
+	]
+}

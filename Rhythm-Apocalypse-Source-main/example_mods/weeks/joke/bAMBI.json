@@ -3,18 +3,14 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"cornophobia",
@@ -36,15 +32,19 @@
 		],
 		[
 			"xbox",
-			"dad",
+			"xbox",
 			[
 				0,
-				113,
+				253,
 				0
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "GayPenisPorn",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "GayPenisPorn"
 }

@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/bambDialogue1",
+			"speed": 0.05,
+			"portrait": "Omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue/bambDialogue2",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you thought that was it."
+		},
+		{
+			"sound": "dialogue/bambDialogue3",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just three songs, and then you’re free to go on."
+		},
+		{
+			"sound": "dialogue/bambDialogue1",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that’s not how you play along in my book."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "in my rules, you die,"
+		},
+		{
+			"sound": "dialogue/bambDialogue2",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "over and over,"
+		},
+		{
+			"sound": "dialogue/bambDialogue3",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "until i’m satisfied."
+		},
+		{
+			"sound": "dialogue/bambDialogue1",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "prepare to suffer."
+		},
+		{
+			"sound": "dialogue/bambDialogue2",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you will feel my wrath in this fury."
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh my god, he said the song name!"
+		},
+		{
+			"sound": "dialogue/bambDialogue3",
+			"speed": 0.05,
+			"portrait": "omni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SHUT THE EVERLOVING FUCK UP!"
+		}
+	]
+}

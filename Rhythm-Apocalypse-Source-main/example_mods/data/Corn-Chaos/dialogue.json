@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/bambDialogue1",
+			"speed": 0.05,
+			"portrait": "BambiPissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You fucking liar, my phone was smashed again!"
+		},
+		{
+			"sound": "dialogue/bambDialogue2",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I’m gonna fucking kill you!"
+		},
+		{
+			"sound": "dialogue/bambDialogue3",
+			"speed": 0.05,
+			"portrait": "bambipissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fucking liar!"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee bop bo beep bop"
+		}
+	]
+}

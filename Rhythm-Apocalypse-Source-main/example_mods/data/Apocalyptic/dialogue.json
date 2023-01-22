@@ -1,116 +1,44 @@
 {
 	"dialogue": [
 		{
-			"expression": "talk",
-			"text": "Why are we here again?",
-			"boxState": "normal",
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
 			"portrait": "gf",
-			"speed": 0.05,
-			"sound": ""
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are we back here again?"
 		},
 		{
-			"expression": "talk",
-			"text": "We rematched Dave, it's obligatory we rematch Bambi too, It's part of this mod! ",
-			"boxState": "normal",
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
 			"portrait": "bf",
-			"speed": 0.05,
-			"sound": ""
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Girlfriend, this is essentially a rematch to the VS. Dave and Bambi Friday Night Funkin’ mod, owned by MoldyGH. The mod would be incomplete if we didn’t add Bambi’s week into the mod, and it would most likely be forgotten and people would lose interest in it, considering Bambi is a more popular character in this mod over Dave, which is unfortunate because he is considered to have the bad songs in the VS. Dave and Bambi Friday Night Funkin’ Mod, owned by MoldyGH.\r\n"
 		},
 		{
-			"expression": "talk",
-			"text": "...",
-			"boxState": "normal",
-			"portrait": "gf",
+			"sound": "dialogue/bambDialogue1",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "Bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who goes there?"
 		},
 		{
-			"expression": "talk",
-			"text": "what mod?",
-			"boxState": "normal",
-			"portrait": "gf",
+			"sound": "dialogue/bfDialogue",
 			"speed": 0.05,
-			"sound": ""
-		},
-		{
-			"expression": "talk",
-			"text": "VS Dave and Bambi: Rhythm Apocalypse!",
-			"boxState": "normal",
 			"portrait": "bf",
-			"speed": 0.05,
-			"sound": ""
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let the games begin."
 		},
 		{
-			"expression": "talk",
-			"text": "Who goes there?",
-			"boxState": "normal",
+			"sound": "dialogue/bambDialogue2",
+			"speed": 0.05,
 			"portrait": "bambi",
-			"speed": 0.05,
-			"sound": "bambi"
-		},
-		{
-			"expression": "talk",
-			"text": "Uhh, I-",
 			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.05,
-			"sound": ""
-		},
-		{
 			"expression": "talk",
-			"text": "I mean beepobeerueorksdnfjndjfnfnjhfjsdhflkdshfkldsnfldsnfndskfndslfkndslkf",
-			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.035,
-			"sound": ""
-		},
-		{
-			"expression": "talk",
-			"text": "You again?",
-			"boxState": "normal",
-			"portrait": "bambi",
-			"speed": 0.05,
-			"sound": "bambi"
-		},
-		{
-			"expression": "talk",
-			"text": "I growing my corn right now. Can you wait?",
-			"boxState": "normal",
-			"portrait": "bambi",
-			"speed": 0.05,
-			"sound": "bambi"
-		},
-		{
-			"expression": "talk",
-			"text": "beepo bapee skabeebo bop bap",
-			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.05,
-			"sound": ""
-		},
-		{
-			"expression": "talk",
-			"text": "Fine, you want rematch, Let's do it then.",
-			"boxState": "normal",
-			"portrait": "bambi",
-			"speed": 0.05,
-			"sound": "bambi"
-		},
-		{
-			"expression": "talk",
-			"text": "But you break my phone again, you're done.",
-			"boxState": "normal",
-			"portrait": "bambi",
-			"speed": 0.05,
-			"sound": "bambi"
-		},
-		{
-			"expression": "talk",
-			"text": "?",
-			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.05,
-			"sound": ""
+			"text": "What the fuck I just walked into?"
 		}
 	]
 }

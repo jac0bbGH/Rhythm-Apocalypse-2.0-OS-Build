@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Darn it, why do I keep losing?!"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bo bee bop bap"
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Practice makes perfect, and we’ve had a little bit too much practice."
+		},
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not like we asked for all of this practice, but who cares."
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I care!"
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "Tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And just for that..."
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "GoldenTristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "          "
+		},
+		{
+			"sound": "dialogue/trisDialogue",
+			"speed": 0.05,
+			"portrait": "GoldenTristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I’m going to absolutely OBLITERATE you!"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?"
+		}
+	]
+}

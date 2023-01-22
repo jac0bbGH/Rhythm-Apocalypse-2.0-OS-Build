@@ -63,6 +63,8 @@ function onSongStart()
                 windowDad.x = 100;   
                 windowDad.y = 100;
 
+                FlxTween.tween(windowDad, { x: 500, y: 200 }, 2, {type:FlxTween.PINGPONG, ease: FlxEase.expoInOut});
+
                // windowBf.x = 800;   
                // windowBf.y = 100;
 

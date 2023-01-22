@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "DaveInsanity",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, you’re actually really good at this, better than I remember."
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "DaveInsanity",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What about we go for one more?"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "DaveInsanity",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It would make my day!\r\n"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "DaveInsanity",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great, then let’s go!"
+		}
+	]
+}
