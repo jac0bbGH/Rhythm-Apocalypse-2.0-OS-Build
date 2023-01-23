@@ -2,67 +2,92 @@
 	"song": {
 		"events": [
 			[
-				10971.4285714286,
+				36375,
 				[
 					[
-						"Soft Flash",
+						"SC Lyric Event",
+						"Boy what the fuck, are you doing?",
+						"1.5"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"SC Lyric Event",
+						"You know what will make my day, if you shut up and go away.",
+						"2.5"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"DaveDrip"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"SC Lyric Event",
+						"I don't have no time to play.",
+						"1"
+					]
+				]
+			],
+			[
+				43500,
+				[
+					[
+						"SC Lyric Event",
+						"The 3D World will be your dismay.",
+						"1"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"DaveInsanity"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
 						"1",
 						""
 					]
 				]
 			],
 			[
-				32914.2857142857,
+				78000,
 				[
 					[
-						"Cam Zoom Tween OUT",
+						"Flash Camera",
 						"1",
-						"0"
-					]
-				]
-			],
-			[
-				43885.7142857143,
-				[
-					[
-						"Toggle FlxTrail",
-						"on",
-						"on"
-					]
-				]
-			],
-			[
-				76800,
-				[
-					[
-						"Goodbye Hud",
-						"0",
-						"2"
-					]
-				]
-			],
-			[
-				98742.857142857,
-				[
-					[
-						"Goodbye Hud",
-						"100",
-						"2"
+						""
 					],
 					[
-						"Cam Zoom Tween IN",
-						"0.8",
-						"0"
-					]
-				]
-			],
-			[
-				120685.714285714,
-				[
+						"stage test",
+						"Dave3D",
+						""
+					],
 					[
-						"Change Scroll Speed",
-						"1.1",
-						"1"
+						"Change Character",
+						"dad",
+						"FutureDave"
 					]
 				]
 			]

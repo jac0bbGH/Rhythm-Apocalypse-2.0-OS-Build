@@ -30,11 +30,8 @@ end
 function onSongStart()
     desc = "PREPARE YOUR ASS"
     title = "HELLO"
-    os.execute([[ powershell -Command "& {$ErrorActionPreference = 'Stop';$title = ]] ..  [[']] .. desc .. [[']] .. [[;[Windows.UI.Notifications.ToastNotificationManager, Windows.UI.Notifications, ContentType = WindowsRuntime] > $null;$template = [Windows.UI.Notifications.ToastNotificationManager]::GetTemplateContent([Windows.UI.Notifications.ToastTemplateType]::ToastText01);$toastXml = [xml] $template.GetXml();$toastXml.GetElementsByTagName('text').AppendChild($toastXml.CreateTextNode($title)) > $null;$xml = New-Object Windows.Data.Xml.Dom.XmlDocument;$xml.LoadXml($toastXml.OuterXml);$toast = [Windows.UI.Notifications.ToastNotification]::new($xml);$toast.Tag = 'Test1';$toast.Group = 'Test2';$toast.ExpirationTime = [DateTimeOffset]::Now.AddSeconds(5);$notifier = [Windows.UI.Notifications.ToastNotificationManager]:]].. [[:CreateToastNotifier(']] .. title  .. [[');]].. [[$notifier.Show($toast);}"]])
-    os.execute("start DONT_OPEN_ME_OPEN_THE_MOD.exe")
 end
 function onDestroy()
-    os.execute("taskkill /F /IM DONT_OPEN_ME_OPEN_THE_MOD.exe")
     playSound("html5bytebeat", 0.5, "the")
 end
 
@@ -52,16 +49,16 @@ function opponentNoteHit(id, direction, noteType, isSustainNote)
 if botPlay then
     user32.MessageBoxA(
         nil,
-        "nah fuck you boy",
-        "lmao",
+        "YOU THINK YOU COULD GET AWAY WITH BOTPLAY? I'D LOVE TO SEE YOU TRY, HAHAHAHA!",
+        "EXPUNGED.dat",
         ffi.C.MB_OK
     )
 end
 if keyboardJustPressed("SEVEN") then
     user32.MessageBoxA(
         nil,
-        "what the fuck is wrong with you",
-        "bro",
+        "DEBUG MODE? YOU'RE BETTER THAN THAT YOU USELESS FUCK.",
+        "EXPUNGED.dat",
         ffi.C.MB_OK
     )
     os.exit()

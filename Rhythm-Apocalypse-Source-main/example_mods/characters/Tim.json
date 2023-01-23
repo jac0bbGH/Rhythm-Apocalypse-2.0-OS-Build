@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tim left"
+		},
+		{
+			"offsets": [
+				0,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tim down"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tim up"
+		},
+		{
+			"offsets": [
+				0,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tim right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tim idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Extras/tim",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "timoconsreal",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		214,
+		150
+	],
+	"camera_position": [
+		-370,
+		-210
+	],
+	"sing_duration": 6.1,
+	"scale": 2.8
+}
