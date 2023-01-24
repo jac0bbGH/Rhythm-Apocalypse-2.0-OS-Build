@@ -1,4 +1,5 @@
 -- THIS SCRIPT AND ITS ASSETS WERE MADE BY ANONYMOUS SPECIFICALLY FOR DAVE AND BAMBI: RHYTHM APOCALYPSE. 
+-- fixed by C_ubex I think lol
 -- IF I CATCH YOU FUCKING USING THIS ANYWHERE ELSE
 -- uh
 -- idk just dont use it you fucking idiot
@@ -11,19 +12,21 @@
 -- now you may be wondering, "anonymous, why the hell did you make the text creation, sprite creation and movement into functions?
 -- idk convenience I guess lmao, and to not clutter everything at the top, even though I could just do that
 
+local hexcode = "ffffff"
+local composer = "Composer Here"
+local charter = "Charter Here"
+local bonusnote = "This song had to get four versions"
+local bonusnoteon = true
+
 function onCreatePost()
 
-	local hexcode = "ffffff"
-	local composer = "Composer Here"
-	local charter = "Charter Here"
-	local bonusnoteon = true
 
     if songName == "Apocalyptic" then
-		local hexcode = "148c1e"
-		local composer = "YoshiRBLX"
-		local charter = "Sider"
-		local bonusnote = "This song had to get four versions"
-		local bonusnoteon = true
+		 hexcode = "148c1e"
+		 composer = "YoshiRBLX"
+		 charter = "Sider"
+		 bonusnote = "This song had to get four versions"
+		 bonusnoteon = true
 	end
 end
 
