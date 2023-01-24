@@ -1,7 +1,7 @@
 -- cam follow script by stilic
 -- please credit me if you use it
 -- VARIABLES THAT YOU CAN CHANGE YOUSELF
-camFollowOffset = 30
+camFollowOffset = 60
 camFollowMovement = {gf = true, dad = true, bf = true}
 
 -- INTERNAL STUFF

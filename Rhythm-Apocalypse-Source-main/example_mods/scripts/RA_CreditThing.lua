@@ -56,6 +56,12 @@ function onCreatePost()
 		charter = "Sider"
 		bonusnote = "This song had to get four versions"
 		bonusnoteon = true
+	elseif songName == "Aureum" then
+		hexcode = "ffb13d"
+		composer = "NoxturnalMusic"
+		charter = "shammal"
+		bonusnote = "Aureum is Golden translated to latin."
+		bonusnoteon = true
    end
 	creditThingCreate()
 	textCreate()
@@ -65,14 +71,14 @@ function onCountdownTick(counter)
 	if counter == 0 then
 		doTweenColor('colorer', 'creditthing', hexcode, 0.0001, 'linear')
 		doTweenX('appearance', 'creditthing', 35, 0.3, 'sineInOut')
-		doTweenX('appearancetwo', 'comp', 150, 0.3, 'sineInOut')
-		doTweenX('appearancethri', 'chart', 150, 0.3, 'sineInOut')
-		doTweenX('appearancefor', 'bonus', 360, 0.3, 'sineInOut')
+		doTweenX('appearancetwo', 'comp', 150, 0.4, 'sineInOut')
+		doTweenX('appearancethri', 'chart', 150, 0.4, 'sineInOut')
+		doTweenX('appearancefor', 'bonus', 360, 0.4, 'sineInOut')
 	elseif counter == 4 then
 		doTweenX('disappearance', 'creditthing', 2035, 2, 'sineInOut')
-		doTweenX('disappearancetwo', 'comp', 2150, 2, 'sineInOut')
-		doTweenX('disappearancethri', 'chart', 2150, 2, 'sineInOut')
-		doTweenX('disappearancefor', 'bonus', 2360, 2, 'sineInOut')
+		doTweenX('disappearancetwo', 'comp', 2150, 2.2, 'sineInOut')
+		doTweenX('disappearancethri', 'chart', 2150, 2.4, 'sineInOut')
+		doTweenX('disappearancefor', 'bonus', 2360, 2.6, 'sineInOut')
 	end
 end
 
@@ -84,4 +90,3 @@ function onTweenCompleted(tag)
 		removeLuaText('bonus')
 	end
 end
-

@@ -1,8 +1,8 @@
 -- cam follow script by stilic
 -- please credit me if you use it
 -- VARIABLES THAT YOU CAN CHANGE YOUSELF
-camFollowOffset = 70
-camFollowMovement = {gf = true, dad = true, bf = true}
+camFollowOffset = 200
+camFollowMovement = {gf = true, dad = true, bf = false}
 
 -- INTERNAL STUFF
 local lastMustHit
