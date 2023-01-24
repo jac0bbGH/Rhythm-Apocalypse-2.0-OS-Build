@@ -18,17 +18,6 @@ local charter = "Charter Here"
 local bonusnote = "This song had to get four versions"
 local bonusnoteon = true
 
-function onCreatePost()
-
-
-    if songName == "Apocalyptic" then
-		 hexcode = "148c1e"
-		 composer = "YoshiRBLX"
-		 charter = "Sider"
-		 bonusnote = "This song had to get four versions"
-		 bonusnoteon = true
-	end
-end
 
 local function creditThingCreate()
 	makeLuaSprite('creditthing', 'credit_thingy', -1280, 0)
@@ -61,6 +50,13 @@ local function textCreate()
 end
 
 function onCreatePost()
+	if songName == "Apocalyptic" then
+		hexcode = "148c1e"
+		composer = "YoshiRBLX"
+		charter = "Sider"
+		bonusnote = "This song had to get four versions"
+		bonusnoteon = true
+   end
 	creditThingCreate()
 	textCreate()
 end
