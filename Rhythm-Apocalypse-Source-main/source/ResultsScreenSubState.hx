@@ -10,6 +10,7 @@ import flixel.util.FlxColor;
 import flixel.FlxCamera;
 import flixel.util.FlxTimer;
 import flixel.group.FlxGroup.FlxTypedGroup;
+import flixel.addons.display.FlxBackdrop;
 
 class ResultsScreenSubState extends MusicBeatSubstate 
 {
@@ -27,23 +28,26 @@ class ResultsScreenSubState extends MusicBeatSubstate
     var songRank:String = 'F';
     var songTxt:FlxText;
     var blackThing:FlxSprite;
-    
+    var fcType:String;
+
     var resultsCam:FlxCamera;
 
     override public function create() 
     {
         super.create();
 
-        if (PlayState.instance.songMisses == 0)
-        {
-            if (PlayState.instance.sicks > 0) statsToRecord.push("SFC");
-			if (PlayState.instance.goods > 0) statsToRecord.push("GFC");
-			if (PlayState.instance.bads > 0 || PlayState.instance.shits > 0) statsToRecord.push("FC");
-        }
+        statsToRecord[4] = fcType;
 
         rankTxtGRP = new FlxTypedGroup<FlxText>(0);
         statsTxtGRP = new FlxTypedGroup<FlxText>(0);
 
+        if (PlayState.instance.songMisses == 0)
+        {
+            if(PlayState.instance.bads > 0 || PlayState.instance.shits > 0) fcType = "FC";
+            else if (PlayState.instance.goods > 0) fcType = "GFC";
+            else if (PlayState.instance.sicks > 0) fcType = 'SFC';
+        }
+    
         resultsCam = new FlxCamera();
         
         FlxG.cameras.add(resultsCam);
@@ -74,6 +78,11 @@ class ResultsScreenSubState extends MusicBeatSubstate
         }
         add(statsTxtGRP);
 
+
+        var checkerboard = new FlxBackdrop(Paths.image('sevenstepsahead'), 0.4, 0.4, true, true);
+		checkerboard.alpha = 0.1;
+		checkerboard.velocity.set(50, 50);
+		add(checkerboard);
 
         for(rank in 0...2)
         {
@@ -118,6 +127,7 @@ class ResultsScreenSubState extends MusicBeatSubstate
                 rankTxtGRP.members[0].text = 'F';
             default:
                 rankTxtGRP.members[0].text = 'BOT';
+                rankTxtGRP.members[0].x = 664;
         }
 
         updateStatsTxts();
@@ -144,9 +154,9 @@ class ResultsScreenSubState extends MusicBeatSubstate
         ];
         var s = 0;     
         statsTxtGRP.forEachAlive(function(element:FlxText){
-            element.text += otherThings[s];
+            element.text = statsToRecord[s] + otherThings[s];
             trace(otherThings[s]);
-            if (s == 4) element.text = statsToRecord[s];
+            if (s >= 4) element.text = fcType;
             s++;
         });
         if (PlayState.instance.ratingName == '?')
@@ -162,6 +172,12 @@ class ResultsScreenSubState extends MusicBeatSubstate
     {
         super.update(elapsed);
 
+        if (PlayState.instance.songMisses == 0)
+        {
+            if (PlayState.instance.sicks > 0) fcType = 'SFC';
+            if (PlayState.instance.goods > 0) fcType = "GFC";
+            if (PlayState.instance.bads > 0 || PlayState.instance.shits > 0) fcType = "FC";
+        }
 
         if (controls.ACCEPT)
             new FlxTimer().start(0.25, (tmr) -> MusicBeatState.switchState(new FreeplayState()));
