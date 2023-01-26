@@ -3,9 +3,6 @@ floaters = {'Nebia', 'FutureDave', 'CheatingExpunged', 'UnfairnessExpunged', 'Tr
 exclude = {'Bernard', 'Retgar', 'Bamndew', 'nikku3d'} --only apply the 3d notes
 shitters = {}
 elapsedTime = 0
-function onCreate()
-  luaDebugMode = true
-end
 function onCreatePost()
   if songName:lower() ~= dofile('mods/modName.lua') then
     shitters = {
@@ -66,11 +63,6 @@ function onUpdate(elapsed)
       for i,o in pairs(exclude) do
         if v == o then
           dontfucking = true
-        end
-      end
-      for i,o in pairs(shitters) do
-        if v == o[1] and not dontfucking then
-          setProperty(o[2]..'.y', getProperty(o[2]..'.y') + math.sin(elapsedTime) * 0.2)
         end
       end
     end
