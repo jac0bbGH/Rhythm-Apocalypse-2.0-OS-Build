@@ -53,7 +53,7 @@ class CharacterSelectionState extends MusicBeatState //This is not from the D&B 
         var checkersBG:FlxBackdrop = new FlxBackdrop(Paths.image('checkers'), 0.2, 0.2, true, true);
         checkersBG.velocity.set(70, 50);
         //checkersBG.setGraphicSize(Std.int(bg.width * 1.175));
-		checkersBG.updateHitbox();
+		//checkersBG.updateHitbox();
 		checkersBG.screenCenter();
         checkersBG.alpha = 0.3;
 		checkersBG.antialiasing = ClientPrefs.globalAntialiasing;
