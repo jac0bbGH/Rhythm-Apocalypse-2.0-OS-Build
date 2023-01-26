@@ -135,12 +135,12 @@ function onCreatePost()
 	elseif songName == "Malicious" then
 		hexcode = "67a305"
 		composer = "NoxturnalMusic & MrDragadon"
-		charter = "Sider""
+		charter = "Sider"
 		bonusnoteon = false
 	elseif songName == "Malicious" then
 		hexcode = "67a305"
 		composer = "NoxturnalMusic & MrDragadon"
-		charter = "Sider""
+		charter = "Sider"
 	elseif songName == "phone-fury" then
 		hexcode = "148c1e"
 		composer = "Random Wees"
