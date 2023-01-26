@@ -15,7 +15,7 @@
 local hexcode = "ffffff"
 local composer = "Composer Here"
 local charter = "Charter Here"
-local bonusnote = "This song had to get four versions"
+local bonusnote = "Bonus Note here"
 local bonusnoteon = true
 
 
@@ -51,8 +51,9 @@ end
 
 function onCreatePost()
 	if songName == "Apocalyptic" then
+		makeLuaSprite('creditthing1', 'credit images/credit_bambi', -1280, 0)
 		hexcode = "148c1e"
-		composer = "YoshiRBLX"
+		composer = "NoxturnalMusic"
 		charter = "Sider"
 		bonusnote = "This song had to get four versions"
 		bonusnoteon = true
@@ -61,6 +62,12 @@ function onCreatePost()
 		composer = "NoxturnalMusic"
 		charter = "shammal"
 		bonusnote = "Aureum is Golden translated to latin."
+		bonusnoteon = true
+	elseif songName == "Corn-Chaos" then
+		hexcode = "ffb13d"
+		composer = "MrDragadon"
+		charter = "Ninten"
+		bonusnote = "This is the 6th version of Corn-Chaos, old song name was Oh-Shit, what we're we thinking?"
 		bonusnoteon = true
    end
 	creditThingCreate()
