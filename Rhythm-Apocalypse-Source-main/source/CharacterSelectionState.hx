@@ -14,6 +14,7 @@ import flixel.graphics.frames.FlxAtlasFrames;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.system.FlxSound; 
 import flixel.text.FlxText;
+import flixel.addons.display.FlxBackdrop;
 
 class CharacterSelectionState extends MusicBeatState //This is not from the D&B source code, it's completely made by me (Delta). This also means I can use this code for other mods.
 {
@@ -41,12 +42,28 @@ class CharacterSelectionState extends MusicBeatState //This is not from the D&B 
     override function create() 
     {
 
-        var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('hahadave'));
-		bg.setGraphicSize(Std.int(bg.width * 1.175));
+        var bg:FlxBackdrop = new FlxBackdrop(Paths.image('epic_bg'), 0.1, 0, true, true);
+        bg.velocity.set(50, 0);
+		//bg.setGraphicSize(Std.int(bg.width * 1.175));
 		bg.updateHitbox();
 		bg.screenCenter();
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
+
+        var checkersBG:FlxBackdrop = new FlxBackdrop(Paths.image('checkers'), 0.2, 0.2, true, true);
+        checkersBG.velocity.set(70, 50);
+        //checkersBG.setGraphicSize(Std.int(bg.width * 1.175));
+		checkersBG.updateHitbox();
+		checkersBG.screenCenter();
+        checkersBG.alpha = 0.3;
+		checkersBG.antialiasing = ClientPrefs.globalAntialiasing;
+		add(checkersBG);
+
+        var barsBG:FlxSprite = new FlxSprite().loadGraphic(Paths.image('cinematic'));
+        barsBG.screenCenter();
+        barsBG.antialiasing = ClientPrefs.globalAntialiasing;
+        add(barsBG);
+        
 
         FlxG.mouse.visible = true;
         FlxG.mouse.enabled = true;
