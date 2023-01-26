@@ -384,14 +384,14 @@ class StoryMenuEXPState extends MusicBeatState
 	var lerpScore:Int = 0;
 	var intendedScore:Int = 0;
 
-	function changeWeek(change:Int = 3):Void
+	function changeWeek(change:Int = 4):Void
 	{
 		curWeek += change;
 
 		if (curWeek >= loadedWeeks.length)
-			curWeek = 3;
-		if (curWeek < 3)
-			curWeek = loadedWeeks.length - 3;
+			curWeek = 4;
+		if (curWeek < 4)
+			curWeek = loadedWeeks.length - 4;
 
 		var leWeek:WeekData = loadedWeeks[curWeek];
 		WeekData.setDirectoryFromWeek(leWeek);
