@@ -64,10 +64,148 @@ function onCreatePost()
 		bonusnote = "Aureum is Golden translated to latin."
 		bonusnoteon = true
 	elseif songName == "Corn-Chaos" then
-		hexcode = "ffb13d"
+		hexcode = "148c1e"
 		composer = "MrDragadon"
 		charter = "Ninten"
 		bonusnote = "This is the 6th version of Corn-Chaos, old song name was Oh-Shit, what we're we thinking?"
+		bonusnoteon = true
+	elseif songName == "cornophobia" then
+		hexcode = "148c1e"
+		composer = "NoxturnalMusic"
+		charter = "Andrewidot"
+		bonusnote = "what"
+		bonusnoteon = true
+	elseif songName == "Debugged" then
+		hexcode = "80061b"
+		composer = "Dyla"
+		charter = "Externality"
+		bonusnoteon = false
+	elseif songName == "Disfunction" then
+		hexcode = "80061b"
+		composer = "Objectshowmaster & NoxturnalMusic"
+		charter = "EliteHimself"
+		bonusnote = "Manic-Mania was horrible."
+		bonusnoteon = true
+	elseif songName == "First-Lesson" then
+		hexcode = "1d0dff"
+		composer = "Objectshowmaster"
+		charter = "Externality"
+		bonusnoteon = false
+	elseif songName == "Fury" then
+		hexcode = "ff0000"
+		composer = "NoxturnalMusic"
+		charter = "Anonymous & hydration"
+		bonusnote = "Objectshowmaster hates Angry-Assault"
+		bonusnoteon = true
+	elseif songName == "Gettin-Around" then
+		hexcode = "1d0dff"
+		composer = "Objectshowmaster"
+		charter = "Andrewidot"
+		bonusnote = "The 3D World will be your dismay."
+		bonusnoteon = true
+	elseif songName == "heart-of-gold" then
+		hexcode = "ffb13d"
+		composer = "Aadsta"
+		charter = "RhythmShadow"
+		bonusnoteon = false
+	elseif songName == "Intergalactic" then
+		hexcode = "1d0dff"
+		composer = "NoxturnalMusic"
+		charter = "EliteHimself"
+		bonusnote = "This song is very old."
+		bonusnoteon = true
+	elseif songName == "Interstellar" then
+		hexcode = "ff193c"
+		composer = "NoxturnalMusic"
+		charter = "retroaction64"
+		bonusnote = "This song is also very old."
+		bonusnoteon = true
+	elseif songName == "kys" then
+		hexcode = "ff193c"
+		composer = "SunnyTheBird/CosmicAlex"
+		charter = "Andrewidot"
+		bonusnote = "KYS"
+		bonusnoteon = true
+	elseif songName == "Lunar" then
+		hexcode = "ff193c"
+		composer = "NoxturnalMusic"
+		charter = "hydration"
+		bonusnote = "6160mas can keep crying about the amen breaks."
+		bonusnoteon = true
+	elseif songName == "Malicious" then
+		hexcode = "67a305"
+		composer = "NoxturnalMusic & MrDragadon"
+		charter = "Sider""
+		bonusnoteon = false
+	elseif songName == "Malicious" then
+		hexcode = "67a305"
+		composer = "NoxturnalMusic & MrDragadon"
+		charter = "Sider""
+	elseif songName == "phone-fury" then
+		hexcode = "148c1e"
+		composer = "Random Wees"
+		charter = "Random Wees"
+		bonusnote = "i love phone fury - jac0bb"
+		bonusnoteon = true
+	elseif songName == "Rhythm-024" then
+		hexcode = "148c1e"
+		composer = "ShredBoi"
+		charter = "Externality"
+		bonusnote = "Nikku is an oc by Saruky."
+		bonusnoteon = true
+	elseif songName == "Roleplay" then
+		hexcode = "ffc800"
+		composer = "Objectshowmaster"
+		charter = "Andrewidot"
+		bonusnote = "Bernard & Retgar come from a roblox game called Bambi OC RP."
+		bonusnoteon = true
+	elseif songName == "Three-Sixty" then
+		hexcode = "a600ff"
+		composer = "Objectshowmaster"
+		charter = "shammal"
+		bonusnote = "Bernard & Retgar come from a roblox game called Bambi OC RP."
+		bonusnoteon = true
+	elseif songName == "Tim" then
+		hexcode = "ffb65c"
+		composer = "Objectshowmaster"
+		charter = "Objectshowmaster"
+		bonusnote = "tim"
+		bonusnoteon = true
+	elseif songName == "Titanium" then
+		hexcode = "148c1e"
+		composer = "NoxturnalMusic"
+		charter = "Sider"
+		bonusnote = "FL Slayer Supremacy"
+		bonusnoteon = true
+	elseif songName == "Untitled-Dave-Song" then
+		hexcode = "ff6200"
+		composer = "NoxturnalMusic"
+		charter = "Objectshowmaster"
+		bonusnote = "This song is based off of Untitled Goose Game."
+		bonusnoteon = true
+	elseif songName == "Utilization" then
+		hexcode = "80060c"
+		composer = "Dinebon_"
+		charter = "Externality"
+		bonusnote = ""
+		bonusnoteon = true
+	elseif songName == "Vanilla" then
+		hexcode = "a3ff9e"
+		composer = "Objectshowmaster"
+		charter = "ReeVrze"
+		bonusnote = "Nebia is the mascot, expect to see more of her in v2"
+		bonusnoteon = true
+	elseif songName == "Vanilla" then
+		hexcode = "a3ff9e"
+		composer = "Objectshowmaster"
+		charter = "ReeVrze"
+		bonusnote = "Nebia is the mascot, expect to see more of her in v2"
+		bonusnoteon = true
+	elseif songName == "Wheelchair" then
+		hexcode = "1d0dff"
+		composer = "Objectshowmaster"
+		charter = "BarGames"
+		bonusnote = "Wheelchair is the least changed song in the mod."
 		bonusnoteon = true
    end
 	creditThingCreate()
