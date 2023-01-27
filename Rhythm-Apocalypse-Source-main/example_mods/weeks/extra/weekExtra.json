@@ -3,18 +3,14 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Vanilla",
@@ -69,9 +65,22 @@
 				179,
 				138
 			]
+		],
+		[
+			"Marshmallow",
+			"mellow",
+			[
+				255,
+				113,
+				175
+			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }

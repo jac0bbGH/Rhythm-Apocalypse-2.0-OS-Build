@@ -3,39 +3,30 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": true,
-	"songs": [
-		[
-			"Phone-Fury",
-			"madbambi",
-			[
-				6,
-				233,
-				60
-			]
-		],
-		[
-			"Heart-Of-Gold",
-			"golden",
-			[
-				215,
-				133,
-				0
-			]
-		]
-	],
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"songs": [
+		[
+			"Heart-Of-Gold",
+			"golden",
+			[
+				255,
+				175,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

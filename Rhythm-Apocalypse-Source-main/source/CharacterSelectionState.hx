@@ -20,7 +20,6 @@ class CharacterSelectionState extends MusicBeatState //This is not from the D&B 
 {
 	public var characterData:Array<Dynamic> = [
         [[["Boyfriend", 'bf'], ["Pixel Boyfriend", 'bf-pixel']], [1.0, 1.0, 1.0, 1.0]], 
-        [[["Bambi", 'BambiPlayable'], ["Bambi (Pissed)", 'BambiPissedPlayable']], [1.0, 1.0, 1.0, 1.0,]],
     ];
     var characterSprite:Boyfriend;
     var characterFile:String = 'bf';
