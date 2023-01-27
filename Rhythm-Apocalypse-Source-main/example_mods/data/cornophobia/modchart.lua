@@ -1,8 +1,8 @@
 function onCreatePost()
 	setProperty('gf.alpha', 0)
-	makeLuaSprite('luigi', 'gay porn/luigi', 2300, 150)
-	makeLuaSprite('polismna', 'gay porn/polismna', 300, 0)
-	makeLuaSprite('poliscra', 'gay porn/poliscra', -4000, 50)
+	makeLuaSprite('luigi', 'joke/cornophobe/luigi', 2300, 150)
+	makeLuaSprite('polismna', 'joke/cornophobe/polismna', 300, 0)
+	makeLuaSprite('poliscra', 'joke/cornophobe/poliscra', -4000, 50)
 	setProperty('polismna.alpha', 0)
 	
 	addLuaSprite('luigi')

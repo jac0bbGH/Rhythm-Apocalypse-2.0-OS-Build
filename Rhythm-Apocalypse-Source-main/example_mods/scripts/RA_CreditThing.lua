@@ -69,7 +69,7 @@ function onCreatePost()
 		charter = "Ninten"
 		bonusnote = "This is the 6th version of Corn-Chaos, old song name was Oh-Shit, what we're we thinking?"
 		bonusnoteon = true
-	elseif songName == "cornophobia" then
+	elseif songName == "Cornophobia" then
 		hexcode = "148c1e"
 		composer = "NoxturnalMusic"
 		charter = "Andrewidot"
@@ -148,7 +148,7 @@ function onCreatePost()
 		bonusnote = "i love phone fury - jac0bb"
 		bonusnoteon = true
 	elseif songName == "Rhythm-024" then
-		hexcode = "148c1e"
+		hexcode = "ff2448"
 		composer = "ShredBoi"
 		charter = "Externality"
 		bonusnote = "Nikku is an oc by Saruky."
@@ -163,7 +163,7 @@ function onCreatePost()
 		hexcode = "a600ff"
 		composer = "Objectshowmaster"
 		charter = "shammal"
-		bonusnote = "Bernard & Retgar come from a roblox game called Bambi OC RP."
+		bonusnote = " "
 		bonusnoteon = true
 	elseif songName == "Tim" then
 		hexcode = "ffb65c"
@@ -195,11 +195,11 @@ function onCreatePost()
 		charter = "ReeVrze"
 		bonusnote = "Nebia is the mascot, expect to see more of her in v2"
 		bonusnoteon = true
-	elseif songName == "Vanilla" then
-		hexcode = "a3ff9e"
+	elseif songName == "marshmallow" then
+		hexcode = "ff8af7"
 		composer = "Objectshowmaster"
-		charter = "ReeVrze"
-		bonusnote = "Nebia is the mascot, expect to see more of her in v2"
+		charter = "Objectshowmaster and SharkNator"
+		bonusnote = " "
 		bonusnoteon = true
 	elseif songName == "Wheelchair" then
 		hexcode = "1d0dff"
