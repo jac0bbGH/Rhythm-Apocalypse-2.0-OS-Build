@@ -1,5 +1,5 @@
 --add your 3d char here
-floaters = {'Nebia', 'FutureDave', 'CheatingExpunged', 'UnfairnessExpunged', 'TrueExpunged', 'xbox'}
+floaters = {'Nebia', 'FutureDave', 'CheatingExpunged', 'UnfairnessExpunged', 'TrueExpunged', 'xbox', 'opposition', 'Phobos', 'Bansu', 'DethronedTrue', 'DethronedTrueAnger', 'DethronedTrueDefeat', 'DethronedTrueRAGE', 'DethronedTrueTired', 'mellow', 'Membi'}
 exclude = {'Bernard', 'Retgar', 'Bamndew', 'nikku3d'} --only apply the 3d notes
 shitters = {}
 elapsedTime = 0

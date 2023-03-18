@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="truexpungeRAGE.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rage down0000" x="0" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0001" x="0" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0002" x="846" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0003" x="846" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0004" x="1692" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0005" x="1692" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0006" x="2538" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0007" x="2538" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0008" x="3384" y="0" width="846" height="857"/>
+	<SubTexture name="rage down0009" x="3384" y="0" width="846" height="857"/>
+	<SubTexture name="rage idle0000" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0001" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0002" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0003" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0004" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0005" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0006" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0007" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0008" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0009" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0010" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage idle0011" x="4230" y="0" width="625" height="872"/>
+	<SubTexture name="rage left0000" x="4855" y="0" width="913" height="1000"/>
+	<SubTexture name="rage left0001" x="4855" y="0" width="913" height="1000"/>
+	<SubTexture name="rage left0002" x="5768" y="0" width="913" height="1000"/>
+	<SubTexture name="rage left0003" x="5768" y="0" width="913" height="1000"/>
+	<SubTexture name="rage left0004" x="6681" y="0" width="913" height="1000"/>
+	<SubTexture name="rage left0005" x="6681" y="0" width="913" height="1000"/>
+	<SubTexture name="rage left0006" x="0" y="1000" width="913" height="1000"/>
+	<SubTexture name="rage left0007" x="0" y="1000" width="913" height="1000"/>
+	<SubTexture name="rage left0008" x="913" y="1000" width="913" height="1000"/>
+	<SubTexture name="rage left0009" x="913" y="1000" width="913" height="1000"/>
+	<SubTexture name="rage left0010" x="1826" y="1000" width="913" height="1000"/>
+	<SubTexture name="rage left0011" x="1826" y="1000" width="913" height="1000"/>
+	<SubTexture name="rage right0000" x="2739" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0001" x="2739" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0002" x="3629" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0003" x="3629" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0004" x="2739" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0005" x="2739" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0006" x="4519" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0007" x="4519" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0008" x="5409" y="1000" width="890" height="884"/>
+	<SubTexture name="rage right0009" x="5409" y="1000" width="890" height="884"/>
+	<SubTexture name="rage up0000" x="6299" y="1000" width="849" height="1035"/>
+	<SubTexture name="rage up0001" x="6299" y="1000" width="849" height="1035"/>
+	<SubTexture name="rage up0002" x="7148" y="1000" width="849" height="1035"/>
+	<SubTexture name="rage up0003" x="7148" y="1000" width="849" height="1035"/>
+	<SubTexture name="rage up0004" x="6299" y="1000" width="849" height="1035"/>
+	<SubTexture name="rage up0005" x="6299" y="1000" width="849" height="1035"/>
+	<SubTexture name="rage up0006" x="0" y="2035" width="849" height="1035"/>
+	<SubTexture name="rage up0007" x="0" y="2035" width="849" height="1035"/>
+	<SubTexture name="rage up0008" x="849" y="2035" width="849" height="1035"/>
+	<SubTexture name="rage up0009" x="849" y="2035" width="849" height="1035"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tired idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tired left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tired down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tired up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tired right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters\\Dethroned\\truexpungetired",
+	"position": [
+		100,
+		-120
+	],
+	"healthicon": "expungedreal",
+	"flip_x": true,
+	"healthbar_colors": [
+		6,
+		1,
+		0
+	],
+	"camera_position": [
+		100,
+		-2
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

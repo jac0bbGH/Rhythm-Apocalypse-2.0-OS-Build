@@ -3,31 +3,35 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Vanilla",
 			"nebia",
 			[
-				0,
-				195,
-				155
+				10,
+				255,
+				137
 			]
 		],
 		[
 			"Three Sixty",
 			"bamn",
 			[
-				115,
-				33,
-				255
+				255,
+				0,
+				221
 			]
 		],
 		[
@@ -35,26 +39,26 @@
 			"bernard",
 			[
 				255,
-				235,
-				95
+				204,
+				0
 			]
 		],
 		[
 			"Untitled-Dave-Song",
 			"gop",
 			[
-				220,
-				135,
-				35
+				255,
+				190,
+				105
 			]
 		],
 		[
 			"Rhythm-024",
 			"nikku",
 			[
-				195,
-				0,
-				15
+				179,
+				12,
+				79
 			]
 		],
 		[
@@ -62,8 +66,8 @@
 			"timoconsreal",
 			[
 				255,
-				179,
-				138
+				196,
+				133
 			]
 		],
 		[
@@ -71,16 +75,66 @@
 			"mellow",
 			[
 				255,
-				113,
-				175
+				0,
+				208
+			]
+		],
+		[
+			"Unidentified-Breakout",
+			"opposition",
+			[
+				255,
+				224,
+				246
+			]
+		],
+		[
+			"Bambi-Rap",
+			"bambi",
+			[
+				0,
+				175,
+				55
+			]
+		],
+		[
+			"Phobos",
+			"Phobos",
+			[
+				255,
+				153,
+				0
+			]
+		],
+		[
+			"Attraction",
+			"entit",
+			[
+				91,
+				60,
+				156
+			]
+		],
+		[
+			"Elevator",
+			"bansu",
+			[
+				16,
+				9,
+				99
+			]
+		],
+		[
+			"MemezTheMeme",
+			"membi",
+			[
+				174,
+				255,
+				0
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

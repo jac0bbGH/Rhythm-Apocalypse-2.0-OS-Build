@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rage idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rage left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rage down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rage up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rage right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters\\Dethroned\\truexpungeRAGE",
+	"position": [
+		100,
+		-120
+	],
+	"healthicon": "expungedreal",
+	"flip_x": true,
+	"healthbar_colors": [
+		6,
+		1,
+		0
+	],
+	"camera_position": [
+		180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

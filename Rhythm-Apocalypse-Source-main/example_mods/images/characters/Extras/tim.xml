@@ -1,26 +1,87 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="tim.png"><SubTexture name="tim down0000" x="0" y="0" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim down0001" x="326" y="0" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim down0002" x="652" y="0" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim down0003" x="978" y="0" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0000" x="0" y="430" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0001" x="326" y="430" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0002" x="652" y="430" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0003" x="978" y="430" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0004" x="0" y="860" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0005" x="326" y="860" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0006" x="652" y="860" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim idle0007" x="978" y="860" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim left0000" x="0" y="1290" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim left0001" x="326" y="1290" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim left0002" x="652" y="1290" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim left0003" x="978" y="1290" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim right0000" x="0" y="1720" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim right0001" x="326" y="1720" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim right0002" x="652" y="1720" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim right0003" x="978" y="1720" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim up0000" x="0" y="2150" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim up0001" x="326" y="2150" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim up0002" x="652" y="2150" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
-<SubTexture name="tim up0003" x="978" y="2150" width="326" height="430" frameX="0" frameY="0" frameWidth="326" frameHeight="430" />
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="timremake.png">
+	<!-- Created with Adobe Animate version 22.0.9.228 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tim down0000" x="0" y="0" width="434" height="545"/>
+	<SubTexture name="tim down0001" x="0" y="0" width="434" height="545"/>
+	<SubTexture name="tim down0002" x="434" y="0" width="434" height="545"/>
+	<SubTexture name="tim down0003" x="434" y="0" width="434" height="545"/>
+	<SubTexture name="tim down0004" x="868" y="0" width="434" height="545"/>
+	<SubTexture name="tim down0005" x="868" y="0" width="434" height="545"/>
+	<SubTexture name="tim down0006" x="1302" y="0" width="434" height="545"/>
+	<SubTexture name="tim down0007" x="1302" y="0" width="434" height="545"/>
+	<SubTexture name="tim idle0000" x="1736" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0001" x="1736" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0002" x="2178" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0003" x="2178" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0004" x="2620" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0005" x="2620" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0006" x="3062" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0007" x="3062" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0008" x="3504" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0009" x="3504" y="0" width="442" height="546"/>
+	<SubTexture name="tim idle0010" x="0" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0011" x="0" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0012" x="442" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0013" x="442" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0014" x="884" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0015" x="884" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0016" x="1326" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0017" x="1326" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0018" x="1768" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0019" x="1768" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0020" x="2210" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0021" x="2210" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0022" x="2652" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0023" x="2652" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0024" x="3094" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0025" x="3094" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0026" x="3536" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0027" x="3536" y="546" width="442" height="546"/>
+	<SubTexture name="tim idle0028" x="0" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0029" x="0" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0030" x="442" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0031" x="442" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0032" x="884" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0033" x="884" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0034" x="1326" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0035" x="1326" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0036" x="1768" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0037" x="1768" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0038" x="2210" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0039" x="2210" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0040" x="2652" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0041" x="2652" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0042" x="3094" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0043" x="3094" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0044" x="3536" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0045" x="3536" y="1092" width="442" height="546"/>
+	<SubTexture name="tim idle0046" x="0" y="1638" width="442" height="546"/>
+	<SubTexture name="tim idle0047" x="0" y="1638" width="442" height="546"/>
+	<SubTexture name="tim idle0048" x="442" y="1638" width="442" height="546"/>
+	<SubTexture name="tim idle0049" x="442" y="1638" width="442" height="546"/>
+	<SubTexture name="tim left0000" x="884" y="1638" width="434" height="545"/>
+	<SubTexture name="tim left0001" x="884" y="1638" width="434" height="545"/>
+	<SubTexture name="tim left0002" x="1318" y="1638" width="434" height="545"/>
+	<SubTexture name="tim left0003" x="1318" y="1638" width="434" height="545"/>
+	<SubTexture name="tim left0004" x="1752" y="1638" width="434" height="545"/>
+	<SubTexture name="tim left0005" x="1752" y="1638" width="434" height="545"/>
+	<SubTexture name="tim left0006" x="2186" y="1638" width="434" height="545"/>
+	<SubTexture name="tim left0007" x="2186" y="1638" width="434" height="545"/>
+	<SubTexture name="tim right0000" x="2620" y="1638" width="433" height="545"/>
+	<SubTexture name="tim right0001" x="2620" y="1638" width="433" height="545"/>
+	<SubTexture name="tim right0002" x="3053" y="1638" width="433" height="545"/>
+	<SubTexture name="tim right0003" x="3053" y="1638" width="433" height="545"/>
+	<SubTexture name="tim right0004" x="3486" y="1638" width="433" height="545"/>
+	<SubTexture name="tim right0005" x="3486" y="1638" width="433" height="545"/>
+	<SubTexture name="tim right0006" x="0" y="2184" width="433" height="545"/>
+	<SubTexture name="tim right0007" x="0" y="2184" width="433" height="545"/>
+	<SubTexture name="tim up0000" x="433" y="2184" width="433" height="573"/>
+	<SubTexture name="tim up0001" x="433" y="2184" width="433" height="573"/>
+	<SubTexture name="tim up0002" x="866" y="2184" width="433" height="573"/>
+	<SubTexture name="tim up0003" x="866" y="2184" width="433" height="573"/>
+	<SubTexture name="tim up0004" x="1299" y="2184" width="433" height="573"/>
+	<SubTexture name="tim up0005" x="1299" y="2184" width="433" height="573"/>
+	<SubTexture name="tim up0006" x="1732" y="2184" width="433" height="573"/>
+	<SubTexture name="tim up0007" x="1732" y="2184" width="433" height="573"/>
 </TextureAtlas>

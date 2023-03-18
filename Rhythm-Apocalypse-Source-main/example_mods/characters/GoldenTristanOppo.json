@@ -1,121 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-5,
+				-6,
 				0
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
+			"loop": false,
+			"name": "Golden Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-15,
-				-12
+				-11,
+				-5
 			],
-			"anim": "singLEFT",
+			"indices": [],
 			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				40,
-				-31
-			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
+			"loop": false,
+			"name": "Golden Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				24,
-				7
+				1,
+				4
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
+			"loop": false,
+			"name": "Golden Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				32,
-				-2
+				7,
+				3
 			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Golden Left"
+		},
+		{
+			"offsets": [
+				-12,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-13,
-				29
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				45,
-				11
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				54,
-				27
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF NOTE UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				49,
-				33
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				31,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
+			"name": "Golden Right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Tristan/TristanFilesGolden",
+	"image": "characters/Tristan/TristanGoldenNew",
 	"position": [
-		90,
-		240
+		0,
+		310
 	],
 	"healthicon": "golden",
 	"flip_x": false,

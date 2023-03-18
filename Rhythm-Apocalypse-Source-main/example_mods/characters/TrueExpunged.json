@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				57,
+				227,
 				217
 			],
 			"anim": "singLEFT",
@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-75,
+				25,
 				20
 			],
 			"anim": "singDOWN",
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-45,
-				270
+				185,
+				300
 			],
 			"anim": "singUP",
 			"fps": 12,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-190,
-				234
+				-70,
+				204
 			],
 			"anim": "singRIGHT",
 			"fps": 12,
@@ -57,22 +57,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Expunged/Expunged-uh",
+	"image": "characters/Expunged/True-expunged",
 	"position": [
-		-50,
-		90
+		-810,
+		-410
 	],
 	"healthicon": "expungedreal",
 	"flip_x": false,
 	"healthbar_colors": [
-		140,
-		0,
-		41
+		6,
+		1,
+		0
 	],
 	"camera_position": [
-		-1620,
-		-1480
+		19,
+		-61
 	],
 	"sing_duration": 7.49999999999999,
-	"scale": 3.1
+	"scale": 0.999999999999998
 }

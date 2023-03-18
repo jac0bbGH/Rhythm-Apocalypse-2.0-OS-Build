@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				0,
+				60,
 				-190
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "tim left"
-		},
-		{
-			"offsets": [
-				0,
-				-190
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "tim down"
-		},
-		{
-			"offsets": [
-				0,
-				-250
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "tim up"
-		},
-		{
-			"offsets": [
-				0,
-				-190
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "tim right"
-		},
-		{
-			"loop": true,
-			"offsets": [
-				0,
-				-190
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "tim idle",
+			"name": "tim left",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-230
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tim down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tim up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-190
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tim right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tim idle"
 		}
 	],
 	"no_antialiasing": false,
@@ -70,9 +70,9 @@
 		150
 	],
 	"camera_position": [
-		-370,
-		-210
+		-210,
+		-20
 	],
 	"sing_duration": 6.1,
-	"scale": 2.8
+	"scale": 1.8
 }

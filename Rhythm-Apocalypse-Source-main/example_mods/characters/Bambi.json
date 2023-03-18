@@ -2,18 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-70,
-				-74
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "bambi idle"
-		},
-		{
-			"offsets": [
-				-6,
+				-36,
 				-76
 			],
 			"loop": false,
@@ -24,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				-62,
+				-45,
 				-97
 			],
 			"loop": false,
@@ -35,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				-10,
+				-3,
 				-40
 			],
 			"loop": false,
@@ -46,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-99,
+				-65,
 				-68
 			],
 			"loop": false,
@@ -58,19 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-20
-			],
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "bambi phone",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-20
+				40,
+				-7
 			],
 			"anim": "singDOWN-alt",
 			"fps": 24,
@@ -80,28 +58,39 @@
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-20
+				-12,
+				-34
 			],
-			"anim": "singUP-alt",
+			"anim": "singThrow",
 			"fps": 24,
-			"name": "bambi phone",
+			"name": "bambi throw",
 			"indices": []
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				10,
-				-20
+				-70,
+				-70
 			],
-			"anim": "singRIGHT-alt",
+			"anim": "dance",
 			"fps": 24,
-			"name": "bambi phone",
+			"name": "bambi dance",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "bambi idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Bambi/penis monkey attack 1",
+	"image": "characters/Bambi/NewestBambi",
 	"position": [
 		-50,
 		280
@@ -117,6 +106,6 @@
 		90,
 		180
 	],
-	"sing_duration": 5.5,
+	"sing_duration": 6.3,
 	"scale": 0.9
 }

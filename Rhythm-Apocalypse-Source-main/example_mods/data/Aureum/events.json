@@ -2,12 +2,42 @@
 	"song": {
 		"events": [
 			[
-				15600,
+				86400,
 				[
 					[
-						"Toggle FlxTrail",
-						"on",
-						"on"
+						"Cam Zoom Tween IN",
+						"1.2",
+						"0.6"
+					]
+				]
+			],
+			[
+				88200,
+				[
+					[
+						"FadeScreen",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"FadeScreen",
+						"0",
+						"0.0001"
+					],
+					[
+						"Cam Zoom Tween OUT",
+						"1",
+						"0"
 					]
 				]
 			]

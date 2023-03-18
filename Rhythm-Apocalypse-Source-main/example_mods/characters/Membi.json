@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				71,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				101,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-100,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-190,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-173,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "disgust"
+		},
+		{
+			"offsets": [
+				-173,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "look",
+			"indices": [],
+			"name": "looking"
+		},
+		{
+			"offsets": [
+				-90,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "memez shoot",
+			"indices": [],
+			"name": "gun bitch"
+		},
+		{
+			"offsets": [
+				-60,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "what the fuck is this"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters\\jokes/memez",
+	"position": [
+		-170,
+		100
+	],
+	"healthicon": "membi",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		189,
+		73
+	],
+	"camera_position": [
+		190,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

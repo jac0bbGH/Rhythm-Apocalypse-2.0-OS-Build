@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jumpman26hacker left"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jumpman26hacker down"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jumpman26hacker up"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jumpman26hacker right"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jumpman26hacker idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Extras/jumpman26hacker",
+	"position": [
+		70,
+		-50
+	],
+	"healthicon": "26",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		100
+	],
+	"camera_position": [
+		-330,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

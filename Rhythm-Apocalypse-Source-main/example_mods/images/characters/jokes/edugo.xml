@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="edugo.png">
+<SubTexture name="edugo Down0000" x="7458" y="4042" width="1159" height="931" frameX="-642" frameY="-969" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Down0001" x="7458" y="4973" width="1032" height="927" frameX="-707" frameY="-960" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Down0002" x="1509" y="6338" width="982" height="863" frameX="-735" frameY="-960" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Down0003" x="5941" y="4141" width="912" height="766" frameX="-734" frameY="-960" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Down0004" x="3767" y="6338" width="902" height="610" frameX="-718" frameY="-965" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Down0005" x="6612" y="6338" width="909" height="541" frameX="-720" frameY="-876" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0000" x="0" y="0" width="2265" height="1854" frameX="-52" frameY="-62" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0001" x="2265" y="0" width="2121" height="1731" frameX="-91" frameY="-165" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0002" x="0" y="1854" width="2016" height="1614" frameX="-146" frameY="-238" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0003" x="0" y="1854" width="2016" height="1614" frameX="-146" frameY="-238" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0004" x="0" y="4970" width="1844" height="1368" frameX="-240" frameY="-347" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0005" x="0" y="4970" width="1844" height="1368" frameX="-240" frameY="-347" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0006" x="4830" y="4970" width="1664" height="1194" frameX="-360" frameY="-474" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0007" x="0" y="6338" width="1509" height="973" frameX="-412" frameY="-568" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0008" x="2491" y="6338" width="1276" height="836" frameX="-541" frameY="-657" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0009" x="4669" y="6338" width="923" height="603" frameX="-742" frameY="-796" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0010" x="4386" y="2936" width="839" height="531" frameX="-801" frameY="-851" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0011" x="4386" y="2936" width="839" height="531" frameX="-801" frameY="-851" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Idle0012" x="4386" y="2936" width="839" height="531" frameX="-801" frameY="-851" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Left0000" x="2016" y="1854" width="1565" height="1600" frameX="-31" frameY="-280" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Left0001" x="4386" y="0" width="1555" height="1526" frameX="-41" frameY="-304" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Left0002" x="5941" y="1394" width="1473" height="1379" frameX="-123" frameY="-400" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Left0003" x="3427" y="4970" width="1403" height="1270" frameX="-193" frameY="-442" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Left0004" x="7458" y="3109" width="1065" height="933" frameX="-531" frameY="-604" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Left0005" x="6494" y="4970" width="862" height="701" frameX="-734" frameY="-749" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Right0000" x="0" y="3468" width="1679" height="1502" frameX="-547" frameY="-286" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Right0001" x="1844" y="4970" width="1583" height="1367" frameX="-634" frameY="-374" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Right0002" x="7458" y="0" width="1357" height="1143" frameX="-821" frameY="-501" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Right0003" x="7458" y="2174" width="1324" height="935" frameX="-821" frameY="-654" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Right0004" x="5592" y="6338" width="1020" height="542" frameX="-821" frameY="-818" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Up0000" x="1679" y="3468" width="1810" height="1478" frameX="-211" frameY="-283" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Up0001" x="3489" y="3468" width="1688" height="1467" frameX="-309" frameY="-272" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Up0002" x="4386" y="1526" width="1553" height="1410" frameX="-425" frameY="-286" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Up0003" x="5941" y="0" width="1517" height="1394" frameX="-458" frameY="-251" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Up0004" x="5941" y="2773" width="1510" height="1368" frameX="-432" frameY="-255" frameWidth="2435" frameHeight="1928" />
+<SubTexture name="edugo Up0005" x="7458" y="1143" width="1103" height="1031" frameX="-737" frameY="-428" frameWidth="2435" frameHeight="1928" />
+</TextureAtlas>

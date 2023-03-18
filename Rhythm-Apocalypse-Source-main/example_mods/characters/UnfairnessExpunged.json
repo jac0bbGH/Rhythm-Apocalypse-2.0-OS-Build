@@ -36,7 +36,7 @@
 		{
 			"offsets": [
 				-60,
-				190
+				400
 			],
 			"loop": false,
 			"fps": 12,
@@ -57,22 +57,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Expunged/unfairnew",
+	"image": "characters/Expunged/unfarexpugne",
 	"position": [
-		0,
+		-280,
 		-100
 	],
 	"healthicon": "unfair",
 	"flip_x": false,
 	"healthbar_colors": [
-		90,
-		33,
-		41
+		145,
+		1,
+		30
 	],
 	"camera_position": [
-		-160,
-		-280
+		-60,
+		-360
 	],
-	"sing_duration": 7.49999999999999,
+	"sing_duration": 5.3,
 	"scale": 1.5
 }

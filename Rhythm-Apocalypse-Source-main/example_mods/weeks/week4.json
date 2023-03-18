@@ -3,13 +3,19 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "expung",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Malicious",
@@ -39,11 +45,6 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"weekName": "ExpungedWeekRA"
+	"weekName": "ExpungedWeekRA",
+	"hiddenUntilUnlocked": false
 }

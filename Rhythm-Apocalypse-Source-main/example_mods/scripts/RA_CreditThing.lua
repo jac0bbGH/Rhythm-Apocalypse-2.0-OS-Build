@@ -207,6 +207,24 @@ function onCreatePost()
 		charter = "BarGames"
 		bonusnote = "Wheelchair is the least changed song in the mod."
 		bonusnoteon = true
+	elseif songName == "Haccer-Uhoh" then
+		hexcode = "780449"
+		composer = "Objectshowmaster"
+		charter = "Objectshowmaster"
+		bonusnote = "Inside joke, you wouldn't get it."
+		bonusnoteon = true
+	elseif songName == "xbox" then
+		hexcode = "2d660e"
+		composer = "Sinjl"
+		charter = "Sinjl"
+		bonusnote = "lol have fun"
+		bonusnoteon = true
+	elseif songName == "No-Corn" then
+		hexcode = "148c1e"
+		composer = "Hazetal"
+		charter = "Ozziebruh"
+		bonusnote = "jac0bb's favorite fantrack."
+		bonusnoteon = true
    end
 	creditThingCreate()
 	textCreate()

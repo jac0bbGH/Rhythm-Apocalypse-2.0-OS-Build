@@ -85,11 +85,6 @@
 						"Cinematics",
 						"1",
 						""
-					],
-					[
-						"Set Cam Zoom",
-						"1.2",
-						"0.6"
 					]
 				]
 			],
@@ -316,27 +311,15 @@
 					],
 					[
 						1333.33333333333,
-						1,
+						7,
 						0,
-						"Alt Animation"
-					],
-					[
-						1333.33333333333,
-						3,
-						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						1555.55555555556,
+						7,
 						0,
-						0,
-						"Alt Animation"
-					],
-					[
-						1555.55555555556,
-						2,
-						0,
-						"Alt Animation"
+						"phone"
 					]
 				],
 				"altAnim": false,
@@ -596,7 +579,7 @@
 						8000,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						8222.22222222222,
@@ -856,25 +839,25 @@
 						14666.6666666667,
 						3,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						14777.7777777778,
 						0,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						14888.8888888889,
 						2,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						15000,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						15111.1111111111,
@@ -1581,42 +1564,6 @@
 						1666.66666666667
 					],
 					[
-						30222.2222222222,
-						3,
-						0,
-						"Alt Animation"
-					],
-					[
-						30444.4444444444,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
-						30444.4444444444,
-						0,
-						0,
-						"Alt Animation"
-					],
-					[
-						30444.4444444444,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						30222.2222222222,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
-						30222.2222222222,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
 						30666.6666666667,
 						2,
 						0
@@ -1670,6 +1617,18 @@
 						31777.7777777778,
 						2,
 						111.111111111111
+					],
+					[
+						30222.2222222222,
+						6,
+						0,
+						"phone"
+					],
+					[
+						30444.4444444444,
+						6,
+						0,
+						"phone"
 					]
 				],
 				"altAnim": false,
@@ -1691,37 +1650,37 @@
 						32000,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						32111.1111111111,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						32222.2222222222,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						32444.4444444444,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						32555.5555555556,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						32666.6666666667,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						32333.3333333333,
@@ -1775,30 +1734,6 @@
 						1666.66666666667
 					],
 					[
-						33777.7777777778,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						33777.7777777778,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
-						34000,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						34000,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
 						34222.2222222222,
 						1,
 						0
@@ -1837,6 +1772,18 @@
 						35333.3333333333,
 						3,
 						111.111111111111
+					],
+					[
+						33777.7777777778,
+						6,
+						0,
+						"phone"
+					],
+					[
+						34000,
+						6,
+						0,
+						"phone"
 					]
 				],
 				"altAnim": false,
@@ -2213,42 +2160,6 @@
 						1666.66666666667
 					],
 					[
-						44444.4444444444,
-						3,
-						0,
-						"Alt Animation"
-					],
-					[
-						44666.6666666666,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
-						44666.6666666666,
-						0,
-						0,
-						"Alt Animation"
-					],
-					[
-						44666.6666666666,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						44444.4444444444,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
-						44444.4444444444,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
 						44888.8888888889,
 						2,
 						0
@@ -2302,6 +2213,18 @@
 						46000,
 						2,
 						111.111111111111
+					],
+					[
+						44444.4444444445,
+						6,
+						0,
+						"phone"
+					],
+					[
+						44666.6666666667,
+						6,
+						0,
+						"phone"
 					]
 				],
 				"typeOfSection": 0,
@@ -2323,37 +2246,37 @@
 						46222.2222222222,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						46333.3333333333,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						46444.4444444444,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						46666.6666666666,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						46777.7777777778,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						46888.8888888889,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						46555.5555555555,
@@ -2407,30 +2330,6 @@
 						1666.66666666667
 					],
 					[
-						48000,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						48000,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
-						48222.2222222222,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						48222.2222222222,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
 						48444.4444444444,
 						1,
 						0
@@ -2469,6 +2368,18 @@
 						49555.5555555555,
 						3,
 						111.111111111111
+					],
+					[
+						48000,
+						6,
+						0,
+						"phone"
+					],
+					[
+						48222.2222222222,
+						6,
+						0,
+						"phone"
 					]
 				],
 				"typeOfSection": 0,
@@ -2797,39 +2708,39 @@
 					],
 					[
 						57777.7777777778,
-						1,
+						7,
 						0,
-						"Alt Animation"
+						"phone"
+					],
+					[
+						58111.1111111111,
+						5,
+						0,
+						"phone"
+					],
+					[
+						58444.4444444445,
+						6,
+						0,
+						"phone"
+					],
+					[
+						58444.4444444445,
+						4,
+						0,
+						"phone"
+					],
+					[
+						58111.1111111111,
+						7,
+						0,
+						"phone"
 					],
 					[
 						57777.7777777778,
-						3,
+						4,
 						0,
-						"Alt Animation"
-					],
-					[
-						58111.1111111111,
-						0,
-						0,
-						"Alt Animation"
-					],
-					[
-						58111.1111111111,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
-						58444.4444444445,
-						3,
-						0,
-						"Alt Animation"
-					],
-					[
-						58444.4444444445,
-						1,
-						0,
-						"Alt Animation"
+						"phone"
 					]
 				],
 				"typeOfSection": 0,
@@ -3064,13 +2975,13 @@
 						64888.8888888889,
 						3,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						64888.8888888889,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						65111.1111111112,
@@ -3315,19 +3226,19 @@
 						71888.8888888889,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						71777.7777777778,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						71666.6666666667,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						71444.4444444445,
@@ -3338,7 +3249,7 @@
 						71555.5555555556,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						72000.0000000001,
@@ -4045,30 +3956,6 @@
 			{
 				"sectionNotes": [
 					[
-						87111.1111111112,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						87111.1111111112,
-						3,
-						0,
-						"Alt Animation"
-					],
-					[
-						87333.3333333334,
-						0,
-						0,
-						"Alt Animation"
-					],
-					[
-						87333.3333333334,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
 						87666.6666666668,
 						0,
 						0
@@ -4130,9 +4017,20 @@
 					],
 					[
 						87111.1111111112,
+						5,
+						0,
+						"phone"
+					],
+					[
+						87333.3333333334,
+						5,
+						0,
+						"phone"
+					],
+					[
+						87111.1111111112,
 						6,
-						1667,
-						"Alt Animation"
+						1666.66666666667
 					]
 				],
 				"typeOfSection": 0,
@@ -4154,37 +4052,37 @@
 						88888.8888888889,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						89000,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						89111.1111111111,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						89333.3333333333,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						89444.4444444445,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						89555.5555555556,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						89222.2222222222,
@@ -4236,25 +4134,25 @@
 						90666.6666666668,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						90888.888888889,
 						0,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						90888.888888889,
 						2,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						90666.6666666668,
 						3,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						90666.6666666668,
@@ -4305,6 +4203,18 @@
 						92222.2222222223,
 						2,
 						111.111111111111
+					],
+					[
+						90666.6666666668,
+						6,
+						0,
+						"phone"
+					],
+					[
+						90888.888888889,
+						4,
+						0,
+						"phone"
 					]
 				],
 				"typeOfSection": 0,
@@ -4683,30 +4593,6 @@
 			{
 				"sectionNotes": [
 					[
-						101333.333333333,
-						1,
-						0,
-						"Alt Animation"
-					],
-					[
-						101333.333333333,
-						3,
-						0,
-						"Alt Animation"
-					],
-					[
-						101555.555555556,
-						0,
-						0,
-						"Alt Animation"
-					],
-					[
-						101555.555555556,
-						2,
-						0,
-						"Alt Animation"
-					],
-					[
 						101777.777777778,
 						1,
 						0
@@ -4765,6 +4651,18 @@
 						101333.333333333,
 						6,
 						1667
+					],
+					[
+						101333.333333333,
+						5,
+						0,
+						"phone"
+					],
+					[
+						101555.555555556,
+						5,
+						0,
+						"phone"
 					]
 				],
 				"typeOfSection": 0,
@@ -4786,37 +4684,37 @@
 						103111.111111111,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						103222.222222222,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						103333.333333333,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						103555.555555556,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						103666.666666667,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						103777.777777778,
 						1,
 						0,
-						"Alt Animation"
+						"phone"
 					],
 					[
 						103444.444444444,
@@ -4866,30 +4764,6 @@
 				"sectionNotes": [
 					[
 						104888.888888889,
-						5,
-						0,
-						"Alt Animation"
-					],
-					[
-						105111.111111111,
-						4,
-						0,
-						"Alt Animation"
-					],
-					[
-						105111.111111111,
-						6,
-						0,
-						"Alt Animation"
-					],
-					[
-						104888.888888889,
-						7,
-						0,
-						"Alt Animation"
-					],
-					[
-						104888.888888889,
 						3,
 						1666.66666666667
 					],
@@ -4937,6 +4811,18 @@
 						106444.444444445,
 						6,
 						111.111111111111
+					],
+					[
+						104888.888888889,
+						2,
+						0,
+						"phone"
+					],
+					[
+						105111.111111111,
+						2,
+						0,
+						"phone"
 					]
 				],
 				"typeOfSection": 0,
@@ -6252,54 +6138,134 @@
 				"bpm": 135
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 135,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 135,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 135,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 135,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 135,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
 			},
 			{
 				"gfSection": false,

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TristanGoldenNew.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Golden Down0000" x="0" y="0" width="320" height="431" frameX="-3" frameY="-5" frameWidth="327" frameHeight="436"/>
+	<SubTexture name="Golden Down0001" x="0" y="0" width="320" height="431" frameX="-3" frameY="-5" frameWidth="327" frameHeight="436"/>
+	<SubTexture name="Golden Down0002" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0003" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0004" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0005" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0006" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0007" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0008" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0009" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0010" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0011" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0012" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Down0013" x="420" y="0" width="327" height="436"/>
+	<SubTexture name="Golden Idle0000" x="847" y="0" width="289" height="430" frameX="-12" frameY="-11" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0001" x="1236" y="0" width="289" height="430" frameX="-12" frameY="-11" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0002" x="1625" y="0" width="284" height="431" frameX="-16" frameY="-10" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0003" x="1625" y="0" width="284" height="431" frameX="-16" frameY="-10" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0004" x="2009" y="0" width="293" height="435" frameX="-14" frameY="-6" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0005" x="2009" y="0" width="293" height="435" frameX="-14" frameY="-6" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0006" x="2402" y="0" width="383" height="441" frameX="-3" frameY="0" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0007" x="2402" y="0" width="383" height="441" frameX="-3" frameY="0" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0008" x="2885" y="0" width="392" height="441" frameX="0" frameY="0" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0009" x="3377" y="0" width="397" height="441" frameX="0" frameY="0" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0010" x="0" y="541" width="397" height="441" frameX="0" frameY="0" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0011" x="497" y="541" width="401" height="441" frameX="0" frameY="0" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0012" x="998" y="541" width="401" height="441" frameX="0" frameY="0" frameWidth="407" frameHeight="441"/>
+	<SubTexture name="Golden Idle0013" x="1499" y="541" width="407" height="441"/>
+	<SubTexture name="Golden Left0000" x="2006" y="541" width="310" height="443" frameX="0" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0001" x="2006" y="541" width="310" height="443" frameX="0" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0002" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0003" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0004" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0005" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0006" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0007" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0008" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0009" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0010" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0011" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0012" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Left0013" x="2416" y="541" width="315" height="443" frameX="-3" frameY="0" frameWidth="318" frameHeight="443"/>
+	<SubTexture name="Golden Right0000" x="2831" y="541" width="328" height="440" frameX="-3" frameY="-1" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0001" x="2831" y="541" width="328" height="440" frameX="-3" frameY="-1" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0002" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0003" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0004" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0005" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0006" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0007" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0008" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0009" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0010" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0011" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0012" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Right0013" x="3259" y="541" width="330" height="441" frameX="0" frameY="0" frameWidth="331" frameHeight="441"/>
+	<SubTexture name="Golden Up0000" x="3689" y="541" width="340" height="446"/>
+	<SubTexture name="Golden Up0001" x="3689" y="541" width="340" height="446"/>
+	<SubTexture name="Golden Up0002" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0003" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0004" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0005" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0006" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0007" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0008" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0009" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0010" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0011" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0012" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+	<SubTexture name="Golden Up0013" x="0" y="1087" width="337" height="441" frameX="-1" frameY="-5" frameWidth="340" frameHeight="446"/>
+</TextureAtlas>

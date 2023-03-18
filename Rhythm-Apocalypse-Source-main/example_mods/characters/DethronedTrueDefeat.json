@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "defeated idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "defeated left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "defeated down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "defeated up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "defeated right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "he die",
+			"loop": false,
+			"name": "death"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters\\Dethroned\\truexpungeDEFEATED",
+	"position": [
+		100,
+		130
+	],
+	"healthicon": "expungedreal",
+	"flip_x": true,
+	"healthbar_colors": [
+		6,
+		1,
+		0
+	],
+	"camera_position": [
+		210,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

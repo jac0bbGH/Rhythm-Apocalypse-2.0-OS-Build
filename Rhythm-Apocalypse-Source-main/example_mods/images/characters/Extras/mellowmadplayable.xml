@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mellowmadplayable.png"><SubTexture name="mellowmadplayable down0000" x="0" y="0" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable down0001" x="625" y="0" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable down0002" x="1250" y="0" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable down0003" x="1875" y="0" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable down0004" x="2500" y="0" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable down0005" x="0" y="593" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0000" x="625" y="593" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0001" x="1250" y="593" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0002" x="1875" y="593" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0003" x="2500" y="593" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0004" x="0" y="1186" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0005" x="625" y="1186" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0006" x="1250" y="1186" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0007" x="1875" y="1186" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0008" x="2500" y="1186" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable idle0009" x="0" y="1779" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable left0000" x="625" y="1779" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable left0001" x="1250" y="1779" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable left0002" x="1875" y="1779" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable left0003" x="2500" y="1779" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable left0004" x="0" y="2372" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable left0005" x="625" y="2372" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable right0000" x="1250" y="2372" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable right0001" x="1875" y="2372" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable right0002" x="2500" y="2372" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable right0003" x="0" y="2965" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable right0004" x="625" y="2965" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable right0005" x="1250" y="2965" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable up0000" x="1875" y="2965" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable up0001" x="2500" y="2965" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable up0002" x="0" y="3558" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable up0003" x="625" y="3558" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable up0004" x="1250" y="3558" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+<SubTexture name="mellowmadplayable up0005" x="1875" y="3558" width="625" height="593" frameX="0" frameY="0" frameWidth="625" frameHeight="593" />
+</TextureAtlas>

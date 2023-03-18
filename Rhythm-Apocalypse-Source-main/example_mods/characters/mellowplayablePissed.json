@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mellowmadplayable idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mellowmadplayable left"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mellowmadplayable down"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mellowmadplayable up"
+		},
+		{
+			"offsets": [
+				-19,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mellowmadplayable right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Extras/mellowmadplayable",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "pissedmellow",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		156,
+		230
+	],
+	"camera_position": [
+		150,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

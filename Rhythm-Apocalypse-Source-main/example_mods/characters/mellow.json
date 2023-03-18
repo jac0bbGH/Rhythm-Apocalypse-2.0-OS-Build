@@ -9,114 +9,114 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Idle"
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				-41,
-				-45
+				-35,
+				240
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-58,
-				-50
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Mellow Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-58,
-				-38
-			],
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				0
-			],
-			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "Mellow altDown",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				20
-			],
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "Mellow altLeft",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				40
-			],
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "Mellow altUp",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-10,
-				0
-			],
 			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT-alt",
-			"loop": false,
-			"name": "Mellow altRight"
+			"name": "up"
 		},
 		{
 			"offsets": [
-				-81,
-				-20
+				60,
+				-3
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
 			"loop": false,
-			"name": "Right"
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "altright"
+		},
+		{
+			"offsets": [
+				0,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "altup"
+		},
+		{
+			"offsets": [
+				130,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "altdown"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "altleft"
+		},
+		{
+			"offsets": [
+				201,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Extras/Mellow",
 	"position": [
-		-50,
-		280
+		-170,
+		50
 	],
 	"healthicon": "mellow",
 	"flip_x": false,
 	"healthbar_colors": [
-		122,
-		7,
-		112
+		170,
+		6,
+		121
 	],
 	"camera_position": [
 		-100,
-		-70
+		70
 	],
 	"sing_duration": 6.1,
-	"scale": 1.5
+	"scale": 1
 }

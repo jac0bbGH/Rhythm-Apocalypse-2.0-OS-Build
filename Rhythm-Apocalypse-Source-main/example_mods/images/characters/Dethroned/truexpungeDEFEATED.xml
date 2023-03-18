@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="truexpungeDEFEATED.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death0000" x="0" y="0" width="913" height="694"/>
+	<SubTexture name="death0001" x="0" y="0" width="913" height="694"/>
+	<SubTexture name="death0002" x="913" y="0" width="913" height="694"/>
+	<SubTexture name="death0003" x="913" y="0" width="913" height="694"/>
+	<SubTexture name="death0004" x="1826" y="0" width="913" height="694"/>
+	<SubTexture name="death0005" x="1826" y="0" width="913" height="694"/>
+	<SubTexture name="death0006" x="2739" y="0" width="913" height="694"/>
+	<SubTexture name="death0007" x="2739" y="0" width="913" height="694"/>
+	<SubTexture name="death0008" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0009" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0010" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0011" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0012" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0013" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0014" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0015" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0016" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0017" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0018" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0019" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0020" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0021" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0022" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0023" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0024" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0025" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0026" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0027" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0028" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0029" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0030" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0031" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0032" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0033" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0034" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0035" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0036" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0037" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0038" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="death0039" x="0" y="694" width="913" height="694"/>
+	<SubTexture name="defeated down0000" x="913" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0001" x="913" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0002" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0003" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0004" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0005" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0006" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0007" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0008" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0009" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0010" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated down0011" x="1666" y="694" width="753" height="507"/>
+	<SubTexture name="defeated idle0000" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0001" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0002" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0003" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0004" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0005" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0006" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0007" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0008" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0009" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0010" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated idle0011" x="2419" y="694" width="744" height="642"/>
+	<SubTexture name="defeated left0000" x="3163" y="694" width="723" height="623"/>
+	<SubTexture name="defeated left0001" x="3163" y="694" width="723" height="623"/>
+	<SubTexture name="defeated left0002" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0003" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0004" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0005" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0006" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0007" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0008" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0009" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0010" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated left0011" x="0" y="1388" width="723" height="623"/>
+	<SubTexture name="defeated right0000" x="723" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0001" x="723" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0002" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0003" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0004" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0005" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0006" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0007" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0008" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0009" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0010" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated right0011" x="1513" y="1388" width="790" height="621"/>
+	<SubTexture name="defeated up0000" x="2303" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0001" x="2303" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0002" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0003" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0004" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0005" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0006" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0007" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0008" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0009" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0010" x="3015" y="1388" width="712" height="646"/>
+	<SubTexture name="defeated up0011" x="3015" y="1388" width="712" height="646"/>
+</TextureAtlas>
