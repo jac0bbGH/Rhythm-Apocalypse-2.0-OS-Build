@@ -41,10 +41,19 @@
 		],
 		[
 			"Chipmunk Beatathon",
-			"dad",
+			"beats",
 			[
-				146,
-				113,
+				255,
+				253,
+				255
+			]
+		],
+		[
+			"Spongebob",
+			"spongebob",
+			[
+				255,
+				255,
 				253
 			]
 		]

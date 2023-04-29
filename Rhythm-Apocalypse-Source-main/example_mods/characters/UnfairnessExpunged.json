@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				-68,
+				2,
 				193
 			],
 			"loop": false,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				240
+				85,
+				290
 			],
 			"loop": false,
 			"fps": 12,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-60,
-				400
+				-10,
+				200
 			],
 			"loop": false,
 			"fps": 12,
@@ -65,9 +65,9 @@
 	"healthicon": "unfair",
 	"flip_x": false,
 	"healthbar_colors": [
-		145,
-		1,
-		30
+		24,
+		24,
+		24
 	],
 	"camera_position": [
 		-60,

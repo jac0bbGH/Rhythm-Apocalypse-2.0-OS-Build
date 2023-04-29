@@ -3,61 +3,105 @@
 		{
 			"loop": false,
 			"offsets": [
-				62,
-				63
-			],
-			"anim": "singLEFT",
-			"fps": 14,
-			"name": "cheater left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-135,
-				130
-			],
-			"anim": "singDOWN",
-			"fps": 14,
-			"name": "cheater down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				5,
-				100
-			],
-			"anim": "singUP",
-			"fps": 14,
-			"name": "cheater up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				90
+				-11,
+				-60
 			],
 			"anim": "singRIGHT",
-			"fps": 14,
-			"name": "cheater right",
+			"fps": 15,
+			"name": "cheaternew right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-70,
-				90
+				-56,
+				-112
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "cheaternew down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-40
 			],
 			"anim": "idle",
-			"fps": 14,
-			"name": "cheater idle",
+			"fps": 15,
+			"name": "cheaternew idle",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				50
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cheaternew up"
+		},
+		{
+			"offsets": [
+				19,
+				-90
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cheaternew left"
+		},
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "cheaternew talk1"
+		},
+		{
+			"offsets": [
+				-26,
+				-71
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "cheaternew talk2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-80
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 15,
+			"name": "cheaternew talk3",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-90
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "cheaternew talk4"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Expunged/cheater",
+	"image": "characters/Expunged/cheaternew",
 	"position": [
 		0,
 		-20
@@ -65,14 +109,14 @@
 	"healthicon": "cheating",
 	"flip_x": false,
 	"healthbar_colors": [
-		15,
-		90,
-		29
+		41,
+		38,
+		64
 	],
 	"camera_position": [
-		-130,
-		-10
+		-190,
+		100
 	],
-	"sing_duration": 6,
-	"scale": 1
+	"sing_duration": 7.49999999999999,
+	"scale": 1.1
 }

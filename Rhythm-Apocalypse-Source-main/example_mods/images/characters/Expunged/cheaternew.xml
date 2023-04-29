@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cheaternew.png">
+<SubTexture name="cheaternew left0000" x="980" y="2443" width="493" height="563" frameX="-39" frameY="-1" frameWidth="600" frameHeight="596" />
+<SubTexture name="cheaternew left0001" x="2948" y="1153" width="485" height="571" frameX="-43" frameY="0" frameWidth="600" frameHeight="596" />
+<SubTexture name="cheaternew left0002" x="2948" y="579" width="480" height="574" frameX="-45" frameY="0" frameWidth="600" frameHeight="596" />
+<SubTexture name="cheaternew left0003" x="1335" y="1851" width="462" height="584" frameX="-50" frameY="-4" frameWidth="600" frameHeight="596" />
+<SubTexture name="cheaternew left0004" x="2501" y="584" width="434" height="579" frameX="-67" frameY="-16" frameWidth="600" frameHeight="596" />
+<SubTexture name="cheaternew left0005" x="2501" y="1163" width="427" height="579" frameX="-69" frameY="-17" frameWidth="600" frameHeight="596" />
+<SubTexture name="cheaternew up0000" x="967" y="0" width="381" height="623" frameX="-70" frameY="-88" frameWidth="525" frameHeight="725" />
+<SubTexture name="cheaternew up0001" x="767" y="626" width="385" height="615" frameX="-68" frameY="-95" frameWidth="525" frameHeight="725" />
+<SubTexture name="cheaternew up0002" x="1348" y="0" width="384" height="614" frameX="-80" frameY="-83" frameWidth="525" frameHeight="725" />
+<SubTexture name="cheaternew up0003" x="0" y="1242" width="387" height="609" frameX="-111" frameY="-49" frameWidth="525" frameHeight="725" />
+<SubTexture name="cheaternew up0004" x="1797" y="1851" width="427" height="584" frameX="-98" frameY="-4" frameWidth="525" frameHeight="725" />
+<SubTexture name="cheaternew up0005" x="0" y="2443" width="525" height="566" frameX="0" frameY="0" frameWidth="525" frameHeight="725" />
+<SubTexture name="cheaternew down0000" x="2428" y="2443" width="487" height="506" frameX="-30" frameY="-29" frameWidth="525" frameHeight="610" />
+<SubTexture name="cheaternew down0001" x="1946" y="2443" width="482" height="514" frameX="-33" frameY="-25" frameWidth="525" frameHeight="610" />
+<SubTexture name="cheaternew down0002" x="1473" y="2443" width="473" height="535" frameX="-34" frameY="-15" frameWidth="525" frameHeight="610" />
+<SubTexture name="cheaternew down0003" x="525" y="2443" width="455" height="565" frameX="-44" frameY="-5" frameWidth="525" frameHeight="610" />
+<SubTexture name="cheaternew down0004" x="2501" y="0" width="447" height="584" frameX="-47" frameY="0" frameWidth="525" frameHeight="610" />
+<SubTexture name="cheaternew right0000" x="2948" y="0" width="567" height="579" frameX="-30" frameY="-33" frameWidth="600" frameHeight="650" />
+<SubTexture name="cheaternew right0001" x="773" y="1851" width="562" height="585" frameX="-32" frameY="-30" frameWidth="600" frameHeight="650" />
+<SubTexture name="cheaternew right0002" x="1527" y="1242" width="548" height="600" frameX="-40" frameY="-20" frameWidth="600" frameHeight="650" />
+<SubTexture name="cheaternew right0003" x="0" y="0" width="487" height="626" frameX="-63" frameY="0" frameWidth="600" frameHeight="650" />
+<SubTexture name="cheaternew right0004" x="487" y="0" width="480" height="626" frameX="-68" frameY="0" frameWidth="600" frameHeight="650" />
+<SubTexture name="cheaternew idle0000" x="2118" y="1183" width="358" height="564" frameX="-113" frameY="-49" frameWidth="525" frameHeight="650" />
+<SubTexture name="cheaternew idle0001" x="2501" y="1742" width="350" height="567" frameX="-117" frameY="-47" frameWidth="525" frameHeight="650" />
+<SubTexture name="cheaternew idle0002" x="2948" y="1724" width="353" height="570" frameX="-114" frameY="-47" frameWidth="525" frameHeight="650" />
+<SubTexture name="cheaternew idle0003" x="2118" y="594" width="373" height="589" frameX="-65" frameY="-31" frameWidth="525" frameHeight="650" />
+<SubTexture name="cheaternew idle0004" x="2118" y="0" width="383" height="594" frameX="-43" frameY="-25" frameWidth="525" frameHeight="650" />
+<SubTexture name="cheaternew idle0005" x="1732" y="611" width="385" height="607" frameX="-26" frameY="-17" frameWidth="525" frameHeight="650" />
+<SubTexture name="cheaternew idle0006" x="1732" y="0" width="386" height="611" frameX="-19" frameY="-15" frameWidth="525" frameHeight="650" />
+<SubTexture name="cheaternew talk10000" x="0" y="626" width="383" height="616" frameX="-66" frameY="0" frameWidth="525" frameHeight="616" />
+<SubTexture name="cheaternew talk10001" x="383" y="626" width="384" height="616" frameX="-65" frameY="0" frameWidth="525" frameHeight="616" />
+<SubTexture name="cheaternew talk30000" x="387" y="1242" width="376" height="604" frameX="-106" frameY="-2" frameWidth="525" frameHeight="606" />
+<SubTexture name="cheaternew talk30001" x="1147" y="1242" width="380" height="601" frameX="-98" frameY="-5" frameWidth="525" frameHeight="606" />
+<SubTexture name="cheaternew talk20000" x="1348" y="614" width="384" height="606" frameX="-50" frameY="0" frameWidth="525" frameHeight="630" />
+<SubTexture name="cheaternew talk20001" x="763" y="1242" width="384" height="601" frameX="-67" frameY="0" frameWidth="525" frameHeight="630" />
+<SubTexture name="cheaternew talk40000" x="387" y="1851" width="386" height="588" frameX="-70" frameY="-8" frameWidth="525" frameHeight="625" />
+<SubTexture name="cheaternew talk40001" x="0" y="1851" width="387" height="592" frameX="-67" frameY="-3" frameWidth="525" frameHeight="625" />
+</TextureAtlas>

@@ -19,11 +19,3 @@ function onUpdatePost(elapsed)
     setProperty("gf.x",-1000+(totalTime*400%3500))
     setProperty("gf.angle",totalTime*40)
 end
-
-function onCreatePost ()
-
-addChromaticAbberationEffect ('camhud', 0.005)
-addChromaticAbberationEffect ('camgame', 0.005)
-addBloomEffect ('camhud', 0.07)
-addBloomEffect ('camgame', 0.07)
-end

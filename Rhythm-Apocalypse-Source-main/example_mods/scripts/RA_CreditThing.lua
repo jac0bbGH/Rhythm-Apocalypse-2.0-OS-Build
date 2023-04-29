@@ -225,6 +225,24 @@ function onCreatePost()
 		charter = "Ozziebruh"
 		bonusnote = "jac0bb's favorite fantrack."
 		bonusnoteon = true
+	elseif songName == "Phobos" then
+		hexcode = "ff5c26"
+		composer = "NoxturnalMusic"
+		charter = "MintyFresh"
+		bonusnote = "OC by Zmac"
+		bonusnoteon = true
+	elseif songName == "Elevator" then
+		hexcode = "172080"
+		composer = "SnipSnap"
+		charter = "FyriDev"
+		bonusnote = "Bansu is sick, so his voice is messed up."
+		bonusnoteon = true
+	elseif songName == "Chipmunk-Beatathon" then
+		hexcode = "148c1e"
+		composer = "rhythm apocalypse leaker"
+		charter = "FrogB"
+		bonusnote = "what da hell"
+		bonusnoteon = true
    end
 	creditThingCreate()
 	textCreate()

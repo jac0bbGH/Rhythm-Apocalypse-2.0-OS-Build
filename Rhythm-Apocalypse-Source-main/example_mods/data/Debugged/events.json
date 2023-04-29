@@ -2,7 +2,17 @@
 	"song": {
 		"events": [
 			[
-				132596.685082873,
+				0,
+				[
+					[
+						"FadeScreen",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				5409.83606557377,
 				[
 					[
 						"Flash Camera",
@@ -10,19 +20,49 @@
 						""
 					],
 					[
-						"Change Character",
-						"dad",
-						"TrueExpunged"
-					],
-					[
-						"stage test",
-						"TrueBG",
-						""
-					],
-					[
-						"Set Cam Zoom",
-						"0.5",
+						"FadeScreen",
+						"0",
 						"0.0001"
+					]
+				]
+			],
+			[
+				94426.2295081968,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94754.0983606558,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95081.9672131149,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95409.8360655739,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
 					]
 				]
 			]

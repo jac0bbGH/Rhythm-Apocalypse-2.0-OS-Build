@@ -1,0 +1,206 @@
+{
+	"song": {
+		"events": [
+			[
+				115294.560107455,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Simon"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"stage test",
+						"ChipmunkBeatathonBG2",
+						""
+					]
+				]
+			],
+			[
+				120344.06505795,
+				[
+					[
+						"SC Lyric Event",
+						"Holy fuck~",
+						"1"
+					]
+				]
+			],
+			[
+				121532.183869831,
+				[
+					[
+						"SC Lyric Event",
+						"Im cumming~",
+						"0.5"
+					]
+				]
+			],
+			[
+				122943.07495894,
+				[
+					[
+						"SC Lyric Event",
+						"Lois!",
+						"0.5"
+					]
+				]
+			],
+			[
+				220490.570156221,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Alvin"
+					],
+					[
+						"stage test",
+						"ChipmunkBeatathonBG3",
+						""
+					]
+				]
+			],
+			[
+				221827.203819587,
+				[
+					[
+						"SC Lyric Event",
+						"Hi guys, it's me",
+						"1"
+					]
+				]
+			],
+			[
+				223089.580057211,
+				[
+					[
+						"SC Lyric Event",
+						"Alvin,w",
+						"0.5"
+					]
+				]
+			],
+			[
+				223609.382037409,
+				[
+					[
+						"SC Lyric Event",
+						"From Alvin & The Chipmunks!",
+						"1"
+					]
+				]
+			],
+			[
+				224871.758275033,
+				[
+					[
+						"SC Lyric Event",
+						"All the single ladies, all the single ladies!",
+						"2"
+					]
+				]
+			],
+			[
+				226579.679067112,
+				[
+					[
+						"SC Lyric Event",
+						"And i found out,",
+						"1"
+					]
+				]
+			],
+			[
+				227545.025601766,
+				[
+					[
+						"SC Lyric Event",
+						"Theodore is GAY!",
+						"1.8"
+					]
+				]
+			],
+			[
+				229178.688968102,
+				[
+					[
+						"SC Lyric Event",
+						"I hate gay people!",
+						"1.8"
+					]
+				]
+			],
+			[
+				230812.352334439,
+				[
+					[
+						"SC Lyric Event",
+						"Dave always tought me,",
+						"1.8"
+					]
+				]
+			],
+			[
+				232074.728572063,
+				[
+					[
+						"SC Lyric Event",
+						"To hate them! So",
+						"1.8"
+					]
+				]
+			],
+			[
+				233931.164215627,
+				[
+					[
+						"SC Lyric Event",
+						"We are going to KILL Theodore!",
+						"1"
+					]
+				]
+			],
+			[
+				236084.629562162,
+				[
+					[
+						"SC Lyric Event",
+						"All the single ladies, all the single ladies!",
+						"2"
+					]
+				]
+			],
+			[
+				237866.807779984,
+				[
+					[
+						"SC Lyric Event",
+						"Alvin what?",
+						"0.8"
+					]
+				]
+			],
+			[
+				238632.587482954,
+				[
+					[
+						"SC Lyric Event",
+						"That's right.",
+						"0.8"
+					]
+				]
+			]
+		]
+	}
+}

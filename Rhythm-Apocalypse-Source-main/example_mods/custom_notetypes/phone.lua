@@ -32,5 +32,9 @@ function opponentNoteHit(id, data, type, sus)
     setProperty('dad.specialAnim', true)
      cameraShake('game', 0.005, 0.07)
      cameraShake('HUD', 0.005, 0.07)
+     health = getProperty('health')
+     if getProperty('health') > 0.4 then --change it to the health u want
+         setProperty('health', health- 0.05); --limit, 0 is no misses or die
   end
+end
 end

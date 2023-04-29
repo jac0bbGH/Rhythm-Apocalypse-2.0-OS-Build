@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				60
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"loop": false,
+			"name": "Insanity Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-38,
-				84
+				-68,
+				74
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
+			"loop": false,
+			"name": "Insanity Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-21,
-				49
+				31,
+				54
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left",
-			"indices": []
+			"loop": false,
+			"name": "Insanity Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-58,
-				57
+				-25,
+				47
 			],
-			"anim": "singDOWN",
+			"indices": [],
 			"fps": 24,
-			"name": "Down",
-			"indices": []
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Insanity Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-31,
 				60
 			],
-			"anim": "singRIGHT",
+			"indices": [],
 			"fps": 24,
-			"name": "Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Insanity Right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Dave/NewDaveInsanity",
+	"image": "characters/Dave/InsanityDave",
 	"position": [
 		0,
 		110

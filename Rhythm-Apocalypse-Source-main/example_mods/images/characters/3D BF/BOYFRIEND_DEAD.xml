@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND_DEAD.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ouch01.png" x="0" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch02.png" x="708" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch03.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch04.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch05.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch06.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch07.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch08.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch09.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch10.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch11.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch12.png" x="1416" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch13.png" x="2124" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch14.png" x="2832" y="0" width="708" height="692"/>
+	<SubTexture name="Ouch15.png" x="0" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch16.png" x="708" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch17.png" x="1416" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch18.png" x="2124" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch19.png" x="1416" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch20.png" x="1416" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch21.png" x="1416" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch22.png" x="2832" y="692" width="708" height="692"/>
+	<SubTexture name="Ouch23.png" x="0" y="1384" width="708" height="692"/>
+	<SubTexture name="Ouch24.png" x="2124" y="1384" width="708" height="692"/>
+	<SubTexture name="Ouch25.png" x="2124" y="1384" width="708" height="692"/>
+	<SubTexture name="Ouch26.png" x="2124" y="1384" width="708" height="692"/>
+	<SubTexture name="Tumor1.png" x="2124" y="1384" width="708" height="692"/>
+	<SubTexture name="Tumor2.png" x="708" y="1384" width="708" height="692"/>
+	<SubTexture name="Tumor3.png" x="1416" y="1384" width="708" height="692"/>
+	<SubTexture name="Tumor4.png" x="2124" y="1384" width="708" height="692"/>
+	<SubTexture name="Tumor5.png" x="2124" y="1384" width="708" height="692"/>
+	<SubTexture name="Wen1.png" x="2832" y="1384" width="708" height="692"/>
+	<SubTexture name="Wen2.png" x="2832" y="1384" width="708" height="692"/>
+	<SubTexture name="Wen3.png" x="0" y="2076" width="708" height="692"/>
+	<SubTexture name="Wen4.png" x="708" y="2076" width="708" height="692"/>
+	<SubTexture name="Wen5.png" x="2124" y="1384" width="708" height="692"/>
+</TextureAtlas>
